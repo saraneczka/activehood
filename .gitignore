@@ -54,3 +54,6 @@ app.*.map.json
 # Konfiguracja aplikacji (klucze) — commitujemy tylko wzór
 config/*.json
 !config/*.example.json
+
+# Pobrane pliki OpenStreetMap (Geofabrik)
+.osm_cache/

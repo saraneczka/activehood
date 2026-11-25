@@ -20,17 +20,36 @@ class _FakeRepo implements ClassesRepository {
     required double lat,
     required double lng,
     required int radiusM,
+    int? categoryId,
     int? activityTypeId,
     String? level,
     String? format,
   }) async {
-    calls.add({'lat': lat, 'lng': lng, 'radiusM': radiusM, 'format': format});
+    calls.add({
+      'lat': lat,
+      'lng': lng,
+      'radiusM': radiusM,
+      'format': format,
+      'categoryId': categoryId,
+      'activityTypeId': activityTypeId,
+    });
     return results;
   }
 
   @override
-  Future<List<ActivityType>> activityTypes() async => const [
-    ActivityType(1, 'Joga'),
+  Future<List<ActivityCategory>> activityCatalog() async => const [
+    ActivityCategory(
+      id: 5,
+      slug: 'taniec',
+      name: 'Taniec',
+      types: [ActivityType(51, 'Salsa / bachata'), ActivityType(52, 'Zumba')],
+    ),
+    ActivityCategory(
+      id: 6,
+      slug: 'woda',
+      name: 'Woda',
+      types: [ActivityType(61, 'Pływanie')],
+    ),
   ];
 }
 
@@ -215,5 +234,61 @@ void main() {
     await tester.tap(find.widgetWithText(FilterChip, 'Indywidualne'));
     await tester.pumpAndSettle();
     expect(d.repo.calls.last['format'], 'individual');
+  });
+
+  testWidgets('kategoria z wyszukiwarki → druga lista z rodzajami', (
+    tester,
+  ) async {
+    final d = await _pump(tester, results: [_yoga], saved: _bytom);
+    expect(find.byType(ChoiceChip), findsNothing);
+
+    await tester.tap(find.text('Aktywność'));
+    await tester.pumpAndSettle();
+    expect(find.text('Jaka aktywność?'), findsOneWidget);
+    await tester.tap(find.text('Taniec'));
+    await tester.pumpAndSettle();
+
+    expect(d.repo.calls.last['categoryId'], 5);
+    expect(d.repo.calls.last['activityTypeId'], isNull);
+    expect(
+      find.widgetWithText(ChoiceChip, 'Wszystkie: taniec'),
+      findsOneWidget,
+    );
+
+    await tester.tap(find.widgetWithText(ChoiceChip, 'Zumba'));
+    await tester.pumpAndSettle();
+    expect(d.repo.calls.last['activityTypeId'], 52);
+  });
+
+  testWidgets('wpisanie podkategorii bez polskich znaków wybiera ją od razu', (
+    tester,
+  ) async {
+    final d = await _pump(tester, results: [_yoga], saved: _bytom);
+    await tester.tap(find.text('Aktywność'));
+    await tester.pumpAndSettle();
+
+    await tester.enterText(find.byType(TextField), 'bach');
+    await tester.pumpAndSettle();
+    expect(find.text('Rodzaje zajęć'), findsOneWidget);
+    expect(find.text('Zumba'), findsNothing);
+    await tester.tap(find.text('Salsa / bachata'));
+    await tester.pumpAndSettle();
+
+    expect(d.repo.calls.last['categoryId'], 5);
+    expect(d.repo.calls.last['activityTypeId'], 51);
+    // pole „Aktywność” pokazuje rodzaj, a w rzędzie podkategorii jest zaznaczony
+    final chip = tester.widget<ChoiceChip>(
+      find.widgetWithText(ChoiceChip, 'Salsa / bachata'),
+    );
+    expect(chip.selected, isTrue);
+  });
+
+  testWidgets('brak wyników w wyszukiwarce aktywności', (tester) async {
+    await _pump(tester, saved: _bytom);
+    await tester.tap(find.text('Aktywność'));
+    await tester.pumpAndSettle();
+    await tester.enterText(find.byType(TextField), 'curling');
+    await tester.pumpAndSettle();
+    expect(find.textContaining('Nie znaleziono'), findsOneWidget);
   });
 }

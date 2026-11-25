@@ -13,6 +13,8 @@ import 'dart:async';
 import 'dart:convert';
 import 'dart:io';
 
+import 'osm_common.dart';
+
 const _overpassUrls = [
   'https://overpass-api.de/api/interpreter',
   'https://overpass.private.coffee/api/interpreter',
@@ -45,8 +47,19 @@ Future<void> main(List<String> args) async {
   final elements = await _fetch(_query(city));
   final places = <String, Map<String, Object?>>{};
   for (final e in elements) {
-    final p = _toPlace(e as Map<String, dynamic>, city);
-    if (p != null) places[p['osm_id'] as String] = p;
+    final m = e as Map<String, dynamic>;
+    final tags = (m['tags'] as Map?)?.cast<String, String>() ?? {};
+    final lat = (m['lat'] ?? m['center']?['lat']) as num?;
+    final lng = (m['lon'] ?? m['center']?['lon']) as num?;
+    if (lat == null || lng == null || !isClassPlace(tags)) continue;
+    final p = toPlace(
+      osmId: '${m['type']}/${m['id']}',
+      tags: tags,
+      lat: lat.toDouble(),
+      lng: lng.toDouble(),
+      city: city,
+    );
+    places[p['osm_id'] as String] = p;
   }
 
   if (places.isEmpty) {
@@ -54,18 +67,12 @@ Future<void> main(List<String> args) async {
     exit(1);
   }
 
-  final byKind = <String, int>{};
-  for (final p in places.values) {
-    byKind.update(p['kind'] as String, (v) => v + 1, ifAbsent: () => 1);
-  }
   stdout.writeln('Znaleziono ${places.length} miejsc:');
-  for (final e in byKind.entries.toList()..sort((a, b) => b.value - a.value)) {
-    stdout.writeln('  ${e.key.padRight(28)} ${e.value}');
-  }
+  printStats(places.values);
 
-  final out = File('supabase/seed/osm_places_${_slug(city)}.sql');
+  final out = File('supabase/seed/osm_places_${slug(city)}.sql');
   await out.create(recursive: true);
-  await out.writeAsString(_toSql(places.values, city));
+  await out.writeAsString(placesToSql(places.values, city));
   stdout.writeln('Zapisano: ${out.path}');
 }
 
@@ -111,93 +118,4 @@ Future<List<dynamic>> _fetchOnce(String url, String query) async {
   } finally {
     client.close();
   }
-}
-
-/// Siłownie plenerowe i osiedlowe place — nie prowadzą zajęć.
-final _junkName = RegExp(
-  r'plenerow|pod chmurk|street ?workout|calisthenics park|^oś\.|^osiedle\b',
-  caseSensitive: false,
-);
-
-Map<String, Object?>? _toPlace(Map<String, dynamic> e, String city) {
-  final tags = (e['tags'] as Map?)?.cast<String, String>() ?? {};
-  final name = tags['name']?.trim();
-  if (name == null || name.isEmpty) return null;
-  if (_junkName.hasMatch(name) || tags['outdoor'] == 'yes') return null;
-
-  final lat = (e['lat'] ?? e['center']?['lat']) as num?;
-  final lng = (e['lon'] ?? e['center']?['lon']) as num?;
-  if (lat == null || lng == null) return null;
-
-  final street = tags['addr:street'] ?? tags['addr:place'];
-  final number = tags['addr:housenumber'];
-
-  return {
-    'osm_id': '${e['type']}/${e['id']}',
-    'name': name,
-    'address': street == null ? null : (number != null ? '$street $number' : street),
-    'city': tags['addr:city'] ?? city,
-    'lat': lat.toDouble(),
-    'lng': lng.toDouble(),
-    'phone': tags['phone'] ?? tags['contact:phone'],
-    'website': tags['website'] ?? tags['contact:website'],
-    'kind': _kind(tags), // tylko do statystyk w konsoli
-  };
-}
-
-String _kind(Map<String, String> t) {
-  const leisure = {
-    'fitness_centre', 'sports_centre', 'sports_hall',
-    'dance', 'swimming_pool', 'ice_rink',
-  };
-  if (leisure.contains(t['leisure'])) return 'leisure=${t['leisure']}';
-  if (t['amenity'] != null) return 'amenity=${t['amenity']}';
-  return 'sport=${t['sport']}';
-}
-
-String _sql(Object? v) {
-  if (v == null) return 'null';
-  if (v is num) return v.toString();
-  return "'${v.toString().replaceAll("'", "''")}'";
-}
-
-String _toSql(Iterable<Map<String, Object?>> places, String city) {
-  final rows = places.map((p) => '  (${_sql(p['osm_id'])}, ${_sql(p['name'])}, '
-      '${_sql(p['address'])}, ${_sql(p['city'])}, '
-      "st_setsrid(st_makepoint(${p['lng']}, ${p['lat']}), 4326), "
-      '${_sql(p['phone'])}, ${_sql(p['website'])})');
-
-  return '''
--- Obiekty sportowe z OpenStreetMap: $city (${places.length} miejsc)
--- Dane © OpenStreetMap contributors, ODbL 1.0
--- Wygenerowano: ${DateTime.now().toIso8601String()}
---
--- Ponowne uruchomienie aktualizuje istniejące wiersze po osm_id,
--- ale NIE nadpisuje miejsc przejętych przez właścicieli (status <> 'unclaimed').
-
-insert into public.places (osm_id, name, address, city, location, phone, website)
-values
-${rows.join(',\n')}
-on conflict (osm_id) do update set
-  name     = excluded.name,
-  address  = excluded.address,
-  city     = excluded.city,
-  location = excluded.location,
-  phone    = excluded.phone,
-  website  = excluded.website
-where places.status = 'unclaimed';
-''';
-}
-
-String _slug(String s) {
-  const map = {
-    'ą': 'a', 'ć': 'c', 'ę': 'e', 'ł': 'l', 'ń': 'n',
-    'ó': 'o', 'ś': 's', 'ź': 'z', 'ż': 'z',
-  };
-  return s
-      .toLowerCase()
-      .split('')
-      .map((c) => map[c] ?? c)
-      .join()
-      .replaceAll(RegExp(r'[^a-z0-9]+'), '_');
 }

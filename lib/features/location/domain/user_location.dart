@@ -1,3 +1,5 @@
+import '../../../core/text/search_normalize.dart';
+
 enum LocationSource { gps, city }
 
 /// Punkt, wokół którego szukamy zajęć.
@@ -46,27 +48,6 @@ class CityOption {
     label: name,
     source: LocationSource.city,
   );
-}
-
-/// Usuwa polskie znaki i wielkie litery — do wyszukiwania „lodz” → „Łódź”.
-String normalizeForSearch(String s) {
-  const map = {
-    'ą': 'a',
-    'ć': 'c',
-    'ę': 'e',
-    'ł': 'l',
-    'ń': 'n',
-    'ó': 'o',
-    'ś': 's',
-    'ź': 'z',
-    'ż': 'z',
-  };
-  final lower = s.toLowerCase().trim();
-  final buf = StringBuffer();
-  for (final ch in lower.split('')) {
-    buf.write(map[ch] ?? ch);
-  }
-  return buf.toString();
 }
 
 /// Miejscowości pasujące do [query]: najpierw zaczynające się od frazy,

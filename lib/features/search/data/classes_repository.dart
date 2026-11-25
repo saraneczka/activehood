@@ -14,6 +14,7 @@ class ClassesRepository {
     required double lat,
     required double lng,
     required int radiusM,
+    int? categoryId,
     int? activityTypeId,
     String? level,
     String? format,
@@ -24,6 +25,7 @@ class ClassesRepository {
         'lat': lat,
         'lng': lng,
         'radius_m': radiusM,
+        'p_category_id': categoryId,
         'p_activity_type_id': activityTypeId,
         'p_level': level,
         'p_format': format,
@@ -34,15 +36,14 @@ class ClassesRepository {
         .toList();
   }
 
-  /// Zakłada kolumny `id` i `name` w tabeli activity_types.
-  Future<List<ActivityType>> activityTypes() async {
+  /// Kategorie z rodzajami (podkategoriami), w kolejności `sort_order`.
+  Future<List<ActivityCategory>> activityCatalog() async {
     final rows = await _db
-        .from('activity_types')
-        .select('id, name')
-        .order('name');
-    return rows
-        .map((r) => ActivityType(r['id'] as int, r['name'] as String))
-        .toList();
+        .from('activity_categories')
+        .select('id, slug, name, activity_types(id, name)')
+        // uwaga: w supabase-dart domyślnie ascending = false
+        .order('sort_order', ascending: true);
+    return rows.map(ActivityCategory.fromMap).toList();
   }
 }
 
