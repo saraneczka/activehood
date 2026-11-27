@@ -84,7 +84,7 @@ String placesToSql(Iterable<Map<String, Object?>> places, String label) {
   final rows = places.map((p) => '  (${_sql(p['osm_id'])}, ${_sql(p['name'])}, '
       '${_sql(p['address'])}, ${_sql(p['city'])}, '
       "st_setsrid(st_makepoint(${p['lng']}, ${p['lat']}), 4326), "
-      '${_sql(p['phone'])}, ${_sql(p['website'])})');
+      '${_sql(p['phone'])}, ${_sql(p['website'])}, \'osm\')');
 
   return '''
 -- Obiekty sportowe z OpenStreetMap: $label (${places.length} miejsc)
@@ -94,7 +94,7 @@ String placesToSql(Iterable<Map<String, Object?>> places, String label) {
 -- Ponowne uruchomienie aktualizuje istniejące wiersze po osm_id,
 -- ale NIE nadpisuje miejsc przejętych przez właścicieli (status <> 'unclaimed').
 
-insert into public.places (osm_id, name, address, city, location, phone, website)
+insert into public.places (osm_id, name, address, city, location, phone, website, source)
 values
 ${rows.join(',\n')}
 on conflict (osm_id) do update set
@@ -103,7 +103,8 @@ on conflict (osm_id) do update set
   city     = excluded.city,
   location = excluded.location,
   phone    = excluded.phone,
-  website  = excluded.website
+  website  = excluded.website,
+  source   = 'osm'
 where places.status = 'unclaimed';
 ''';
 }

@@ -1,0 +1,797 @@
+status;kategoria;nazwa;miasto;adres;uwagi;telefon_z_pliku;telefon_potwierdzony;www_z_pliku;www_dziala;nazwa_na_stronie
+do weryfikacji;Siłownia / Klub Fitness;FitFabric Aleksandrów Łódzki;Aleksandrów Łódzki;Wojska Polskiego 46/48, 95-070 Aleksandrów Łódzki;adres przybliżony (primary);+48 42 207 24 98;nie;https://fitfabric.pl/;tak;tak
+do weryfikacji;Basen / Aquapark;Pływalnia Miejska Olimpijczyk;Aleksandrów Łódzki;Bankowa 5, 95-070 Aleksandrów Łódzki;adres przybliżony (residential);+48 42 712 15 45;nie;https://mosir-aleksandrow.pl/;nie;nie
+do weryfikacji;Korty Tenisowe;Korty Tenisowe Baranowo;Baranowo;ul. Wypoczynkowa 93;strona nie działa;+48 61 814 28 50;nie;https://kortybaranowo.pl;nie;nie
+do weryfikacji;Wspinaczka / Squash;Bielany Squash & Fitness;Bielany Wrocławskie;Fiołkowa 8, 55-040 Bielany Wrocławskie;adres przybliżony (residential);+48 71 311 00 99;nie;;—;nie
+do weryfikacji;Siłownia / Klub Fitness;Zdrofit Bielany Wrocławskie Aleja Bielany;Bielany Wrocławskie;Czekoladowa 7-9, 55-040 Bielany Wrocławskie;strona nie działa;+48 532 914 908;nie;https://zdrofit.pl/kluby-fitness/bielany-wroclawskie-aleja-bielany/;nie;nie
+do weryfikacji;Joga / Pilates;Studio Jogi Namaste Bytom;Bytom;Dworcowa 12, 41-902 Bytom;strona nie działa;+48 508 765 432;nie;https://jogabytom.pl/;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;Well Fitness Bytom Agora;Bytom;Plac Tadeusza Kościuszki 1, 41-902 Bytom;strona nie potwierdza adresu ani telefonu;+48 784 638 940;nie;https://wellfitness.pl/silownia/bytom/;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Xtreme Fitness Bytom;Bytom;Strzelców Bytomskich 96, 41-914 Bytom;strona nie potwierdza adresu ani telefonu;+48 530 112 233;nie;https://xtremefitness.pl/bytom;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Xtreme Fitness Będzin;Będzin;Sączewskiego 25, 42-500 Będzin;strona nie działa;+48 530 112 255;nie;https://xtremefitness.pl/bedzin;nie;nie
+do weryfikacji;Klub Sztuk Walki;Spartan Chorzów (Sporty Walki);Chorzów;Dąbrowskiego 113, 41-500 Chorzów;strona nie działa;+48 514 222 888;nie;https://spartanchorzow.pl/;nie;nie
+do weryfikacji;Korty Tenisowe;Sport Park Śląsk;Chorzów;Sportowa, 41-516 Chorzów;adres przybliżony (residential);+48 503 111 222;nie;https://sportparkslask.pl/;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Zdrofit Chorzów;Chorzów;Wolności 34, 41-500 Chorzów;strona nie działa;+48 532 914 945;nie;https://zdrofit.pl/kluby-fitness/chorzow/;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;Just GYM Czeladź M1;Czeladź;Będzińska 80, 41-250 Czeladź;strona nie działa;+48 730 850 650;nie;https://justgym.pl/silownie/czeladz;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;CityFit Dąbrowa Górnicza Pogoria;Dąbrowa Górnicza;Jana III Sobieskiego 6, 41-300 Dąbrowa Górnicza;strona nie działa;+48 32 775 16 15;nie;https://cityfit.pl/kluby/dabrowa-gornicza-pogoria/;nie;nie
+do weryfikacji;Joga / Pilates;Balans Joga & Pilates Gdańsk Morena;Gdańsk;Piecewska 27, 80-288 Gdańsk;strona nie działa;+48 509 332 110;nie;https://balansjoga.pl/;nie;nie
+do weryfikacji;Studio EMS;BodyTec20 Gdańsk Morena;Gdańsk;Schuberta 102A, 80-172 Gdańsk;strona nie potwierdza adresu ani telefonu;+48 511 445 667;nie;https://bodytec20.pl/;tak;tak
+do weryfikacji;Klub Sztuk Walki;Brzostek Top Team Gdańsk;Gdańsk;al. Grunwaldzka 212, 80-266 Gdańsk;strona nie działa;+48 509 112 334;nie;https://brzostektopteam.pl/;nie;nie
+do weryfikacji;Korty Tenisowe;Centrum Tenisowe Don Balon Gdańsk;Gdańsk;Wilanowska 4, 80-809 Gdańsk;strona nie potwierdza adresu ani telefonu;+48 501 223 344;nie;https://donbalon.pl/;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;CityFit Gdańsk Zaspa;Gdańsk;al. Rzeczypospolitej 33, 80-463 Gdańsk;strona nie działa;+48 58 732 61 91;nie;https://cityfit.pl/silownie/gdansk/zaspa;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;CrossFit Trójmiasto;Gdańsk;al. Grunwaldzka 355, 80-309 Gdańsk;strona nie działa;+48 508 234 111;nie;https://crossfittrojmiasto.pl/;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;Energy Club Gdańsk;Gdańsk;Wały Jagiellońskie 2/4, 80-887 Gdańsk;strona nie potwierdza adresu ani telefonu;+48 58 301 55 22;nie;https://energyclub.pl/;tak;tak
+do weryfikacji;Klub Sztuk Walki;Gdański Klub Kick-Boxingu;Gdańsk;Kołobrzeska 63, 80-397 Gdańsk;strona nie potwierdza adresu ani telefonu;+48 501 778 990;nie;https://kickboxinggdansk.pl/;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Gym Factory Gdańsk;Gdańsk;Kartuska 246, 80-125 Gdańsk;brak strony;+48 515 778 990;nie;;—;nie
+do weryfikacji;Joga / Pilates;Joga Park Gdańsk Oliwa;Gdańsk;Opata Jacka Rybińskiego 24, 80-320 Gdańsk;strona nie działa;+48 503 112 445;nie;https://jogapark.pl/;nie;nie
+do weryfikacji;Korty Tenisowe;Korty Tenisowe Przymorze Gdańsk;Gdańsk;Kołobrzeska 61, 80-397 Gdańsk;strona nie działa;+48 505 667 889;nie;https://kortyprzymorze.pl/;nie;nie
+do weryfikacji;Korty Tenisowe;Korty Tenisowe Zaspa Gdańsk;Gdańsk;Meissnera 5, 80-462 Gdańsk;strona nie działa;+48 503 998 112;nie;https://kortyzaspa.pl/;nie;nie
+do weryfikacji;Korty Tenisowe;Lechia Tennis Club Gdańsk;Gdańsk;Traugutta 29, 80-221 Gdańsk;strona nie działa;+48 58 341 55 66;nie;https://lechiatennis.pl/;nie;nie
+do weryfikacji;Lodowisko;Lodowisko Miejskie Plac Zebrań Ludowych;Gdańsk;Plac Zebrań Ludowych, 80-208 Gdańsk;nie znaleziono adresu;+48 58 301 20 16;nie;https://sportgdansk.pl/;tak;tak
+do weryfikacji;Studio EMS;MEON EMS Gdańsk Wrzeszcz;Gdańsk;al. Grunwaldzka 141, 80-264 Gdańsk;strona nie potwierdza adresu ani telefonu;+48 515 223 445;nie;https://meonems.pl/;tak;nie
+do weryfikacji;Joga / Pilates;Pilates Flow Gdańsk;Gdańsk;Królowej Jadwigi 137E/3, 80-034 Gdańsk;nie znaleziono adresu;+48 512 895 477;tak;https://www.pilatesflowgdansk.pl/;tak;tak
+do weryfikacji;Szkoła Tańca / Pole Dance;Pole Dance University Gdańsk;Gdańsk;al. Grunwaldzka 211, 80-266 Gdańsk;strona nie potwierdza adresu ani telefonu;+48 511 889 900;nie;https://poledanceuniversity.pl/;tak;tak
+do weryfikacji;Klub Sztuk Walki;Sako Boxing Club Gdańsk;Gdańsk;al. Grunwaldzka 355, 80-309 Gdańsk;strona nie działa;+48 510 443 221;nie;https://sakoboxing.pl/;nie;nie
+do weryfikacji;Szkoła Tańca / Pole Dance;Salsa Kings Gdańsk;Gdańsk;al. Grunwaldzka 472, 80-309 Gdańsk;strona nie potwierdza adresu ani telefonu;+48 504 112 233;nie;https://salsakings.pl/;tak;tak
+do weryfikacji;Szkoła Tańca / Pole Dance;Szkoła Tańca La Pasion Gdańsk;Gdańsk;al. Grunwaldzka 102, 80-244 Gdańsk;strona nie potwierdza adresu ani telefonu;+48 58 341 22 33;nie;https://lapasion.pl/;tak;tak
+do weryfikacji;Szkoła Tańca / Pole Dance;Szkoła Tańca Siemanko Gdańsk;Gdańsk;Kilińskiego 4, 80-452 Gdańsk;strona nie potwierdza adresu ani telefonu;+48 506 778 899;nie;https://siemanko.com/;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Tiger Gym Gdańsk Przymorze;Gdańsk;Kołobrzeska 41C, 80-391 Gdańsk;strona nie potwierdza adresu ani telefonu;+48 58 553 11 22;nie;https://tigergym.pl/;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Well Fitness Gdańsk Chełm;Gdańsk;Cieszyńskiego 1A, 80-809 Gdańsk;strona nie działa;+48 500 900 960;nie;https://wellfitness.pl/silownia/gdansk/chelm;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;Well Fitness Gdańsk Wrzeszcz;Gdańsk;Kilińskiego 4, 80-452 Gdańsk;strona nie działa;+48 500 900 960;nie;https://wellfitness.pl/silownia/gdansk/wrzeszcz;nie;nie
+do weryfikacji;Joga / Pilates;Yoga Republic Gdańsk Wrzeszcz;Gdańsk;Wajdeloty 12, 80-437 Gdańsk;strona nie potwierdza adresu ani telefonu;+48 508 776 554;nie;https://yogarepublic.pl/;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Zdrofit Gdańsk Galeria Bałtycka;Gdańsk;al. Grunwaldzka 141, 80-264 Gdańsk;strona nie działa;+48 531 865 289;nie;https://zdrofit.pl/kluby-fitness/gdansk-galeria-baltycka/;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;Zdrofit Gdańsk Oliwa;Gdańsk;al. Grunwaldzka 472, 80-309 Gdańsk;strona nie działa;+48 531 865 288;nie;https://zdrofit.pl/kluby-fitness/gdansk-oliwa/;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;Zdrofit Gdańsk Rental Park;Gdańsk;Przywidzka 9C, 80-174 Gdańsk;adres przybliżony (tertiary);+48 535 390 929;tak;https://zdrofit.pl/kluby-fitness/gdansk-ch-rental-park/;tak;tak
+do weryfikacji;Klub Sztuk Walki;Złomiarz Team Gdańsk (BJJ / Grappling);Gdańsk;Targ Sienny 7, 80-806 Gdańsk;strona nie potwierdza adresu ani telefonu;+48 502 334 112;nie;https://zlomiarzteam.pl/;tak;tak
+do weryfikacji;Studio EMS;in.Time Studio EMS Gdańsk Oliwa;Gdańsk;al. Grunwaldzka 472, 80-309 Gdańsk;strona nie potwierdza adresu ani telefonu;+48 504 887 990;nie;https://intime.pl/;tak;tak
+do weryfikacji;Joga / Pilates;Centrum Joga Pilates Gdynia;Gdynia;Starowiejska 54/3, 81-356 Gdynia;adres przybliżony (living_street);+48 507 154 782;tak;http://www.jogapilates.pl/;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;CrossFit Gdynia;Gdynia;Hutnicza 40, 81-061 Gdynia;strona nie działa;+48 512 445 678;nie;https://crossfitgdynia.pl/;nie;nie
+do weryfikacji;Szkoła Tańca / Pole Dance;Elita Dance Center Gdynia;Gdynia;Świętojańska 122, 81-388 Gdynia;strona nie działa;+48 502 445 667;nie;https://elitadance.pl/;nie;nie
+do weryfikacji;Studio EMS;MEON EMS Gdynia Centrum;Gdynia;Świętojańska 45, 81-391 Gdynia;strona nie potwierdza adresu ani telefonu;+48 515 223 446;nie;https://meonems.pl/;tak;nie
+do weryfikacji;Klub Sztuk Walki;Mad Dogs Gdynia;Gdynia;Morska 89, 81-225 Gdynia;strona nie działa;+48 508 990 112;nie;https://maddogsgdynia.pl/;nie;nie
+do weryfikacji;Klub Sztuk Walki;Mighty Bulls Gdynia (MMA / BJJ);Gdynia;Władysława IV 54, 81-384 Gdynia;strona nie działa;+48 504 556 778;nie;https://mightybulls.pl/;nie;nie
+do weryfikacji;Joga / Pilates;Pilates Studio Reformer Gdynia Orłowo;Gdynia;al. Zwycięstwa 256, 81-525 Gdynia;strona nie działa;+48 514 998 776;nie;https://pilatesorlowo.pl/;nie;nie
+do weryfikacji;Wspinaczka / Squash;Squash Club Gdynia Redłowo;Gdynia;Sportowa 5, 81-300 Gdynia;adres przybliżony (tertiary);+48 58 622 11 00;nie;https://squashgdynia.pl/;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;Strefa Ruchu Gdynia;Gdynia;Morska 121B, 81-222 Gdynia;adres przybliżony (primary);+48 501 334 556;nie;;—;nie
+do weryfikacji;Korty Tenisowe;Tenis Arena Gdynia Chwarzno;Gdynia;Apollina 12, 81-603 Gdynia;adres przybliżony (residential);+48 512 334 778;nie;https://tenisarena.pl/;tak;nie
+do weryfikacji;Siłownia / Klub Fitness;Tonezone Gdynia;Gdynia;Świętojańska 44, 81-391 Gdynia;strona nie potwierdza adresu ani telefonu;+48 58 620 44 11;nie;https://tonezone.pl/;tak;tak
+do weryfikacji;Szkoła Tańca / Pole Dance;Vertical Fit Pole Dance Gdynia;Gdynia;10 Lutego 16, 81-364 Gdynia;strona nie działa;+48 513 224 335;nie;https://verticalfit.pl/;nie;nie
+do weryfikacji;Wspinaczka / Squash;blokfit Boulder Center Gdynia;Gdynia;Łużycka 8C, 81-537 Gdynia;strona nie potwierdza adresu ani telefonu;+48 517 889 443;nie;https://blokfit.pl/;tak;tak
+do weryfikacji;Klub Sztuk Walki;Akademia Sportów Walki Gliwice;Gliwice;Górnych Wałów 29, 44-100 Gliwice;strona nie działa;+48 502 456 123;nie;https://aswgliwice.pl/;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;CityFit Gliwice Forum;Gliwice;Lipowa 1, 44-100 Gliwice;strona nie działa;+48 32 775 16 05;nie;https://cityfit.pl/kluby/gliwice-forum/;nie;nie
+do weryfikacji;Joga / Pilates;Gliwice Joga Studio;Gliwice;Górnych Wałów 25, 44-100 Gliwice;strona nie działa;+48 601 222 444;nie;https://gliwicejoga.pl/;nie;nie
+do weryfikacji;Studio EMS;Holi EMS Gliwice;Gliwice;Zwycięstwa 52A, 44-100 Gliwice;strona nie działa;+48 512 333 999;nie;https://holiems.pl/;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;Just GYM Gliwice Europa Centralna;Gliwice;Pszczyńska 315, 44-100 Gliwice;strona nie działa;+48 730 850 635;nie;https://justgym.pl/silownie/gliwice;nie;nie
+do weryfikacji;Szkoła Tańca / Pole Dance;LDS Studio Tańca Gliwice;Gliwice;Zwycięstwa 36, 44-100 Gliwice;strona nie działa;+48 502 666 777;nie;https://ldsstudio.pl/;nie;nie
+do weryfikacji;Lodowisko;Lodowisko Tafla Gliwice;Gliwice;Akademicka 29, 44-100 Gliwice;adres przybliżony (pedestrian);+48 32 237 26 24;nie;https://tafla.gliwice.pl/;nie;nie
+do weryfikacji;Studio EMS;MEON EMS Gliwice;Gliwice;Kozielska 16, 44-100 Gliwice;strona nie potwierdza adresu ani telefonu;+48 530 777 666;nie;https://meonems.pl/;tak;nie
+do weryfikacji;Klub Sztuk Walki;Natalia Team / Fight Club Gliwice;Gliwice;Chorzowska 5, 44-100 Gliwice;strona nie działa;+48 511 789 456;nie;https://fightclubgliwice.pl/;nie;nie
+do weryfikacji;Joga / Pilates;Pilates & Balance Gliwice;Gliwice;Barlickiego 15, 44-100 Gliwice;strona nie potwierdza adresu ani telefonu;+48 505 666 111;nie;https://pilatesgliwice.pl/;tak;tak
+do weryfikacji;Szkoła Tańca / Pole Dance;Szkoła Tańca Casa de la Danza;Gliwice;Dworcowa 25, 44-100 Gliwice;strona nie działa;+48 512 345 678;nie;https://casadeladanza.pl/;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;Well Fitness Gliwice Arena;Gliwice;al. Jana Nowaka-Jeziorańskiego 1, 44-102 Gliwice;strona nie działa;+48 661 360 110;nie;https://wellfitness.pl/silownia/gliwice/arena;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;Zdrofit Gliwice Forum;Gliwice;Lipowa 1, 44-100 Gliwice;strona nie działa;+48 532 914 930;nie;https://zdrofit.pl/kluby-fitness/gliwice-forum/;nie;nie
+do weryfikacji;Korty Tenisowe;TENES Klub Sportowy;Jawczyce;Poznańska 87, 05-850 Jawczyce;adres przybliżony (primary);+48 600 900 800;nie;https://tenes.pl;tak;tak
+do weryfikacji;Basen / Aquapark;Pływalnia Via Sport;Jaworzno;Inwalidów Wojennych 18, 43-600 Jaworzno;strona nie potwierdza adresu ani telefonu;+48 32 745 10 30;nie;https://viasport.pl/;tak;tak
+do weryfikacji;Klub Sztuk Walki;06 Kleofas AZS AWF Katowice (Boks);Katowice;Mikołowska 72A, 40-065 Katowice;strona nie potwierdza adresu ani telefonu;+48 32 207 51 10;nie;https://bokskatowice.pl/;tak;tak
+do weryfikacji;Szkoła Tańca / Pole Dance;Beng Studio Pole Dance, Pilates & Barre;Katowice;Ordona 7/lok 22, 40-164 Katowice;nie znaleziono adresu;+48 538 113 346;tak;http://www.novabeng.pl/;tak;tak
+do weryfikacji;Studio EMS;Body Space Concept Katowice;Katowice;Francuska 34, 40-028 Katowice;strona nie działa;+48 510 444 333;nie;https://bodyspacekatowice.pl/;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;CityFit Katowice Chorzowska;Katowice;Chorzowska 152, 40-101 Katowice;strona nie działa;+48 32 775 16 02;nie;https://cityfit.pl/kluby/katowice-chorzowska/;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;Gym For You Katowice;Katowice;Bocheńskiego 69, 40-847 Katowice;strona nie potwierdza adresu ani telefonu;+48 32 720 65 65;nie;https://gymforyou.pl/;tak;tak
+do weryfikacji;Szkoła Tańca / Pole Dance;Iron Convent Studio Pole Dance;Katowice;Jana Matejki 4/1, 40-077 Katowice;adres przybliżony (tertiary);+48 504 164 534;tak;https://ironconvent.pl/;tak;tak
+do weryfikacji;Joga / Pilates;Jogilates – Studio Jogi i Pilatesu;Katowice;Warszawska 40/2A, 40-008 Katowice;strona nie potwierdza adresu ani telefonu;+48 509 444 111;nie;https://jogilates.pl/;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Just GYM Katowice Rondo;Katowice;al. Wojciecha Korfantego 2, 40-004 Katowice;strona nie działa;+48 730 850 630;nie;https://justgym.pl/silownie/katowice/rondo;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;Just GYM Katowice Roździeńskiego;Katowice;al. Walentego Roździeńskiego 91, 40-203 Katowice;strona nie działa;+48 730 850 631;nie;https://justgym.pl/silownie/katowice/rozdzien;nie;nie
+do weryfikacji;Klub Sztuk Walki;Klub Sportowy Champion Katowice;Katowice;Chorzowska 108, 40-101 Katowice;strona nie działa;+48 504 321 987;nie;https://championkatowice.pl/;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;McFIT Katowice Stawowa;Katowice;Stawowa 10, 40-095 Katowice;strona nie działa;+48 32 722 03 00;nie;https://www.mcfit.com/pl/;nie;nie
+do weryfikacji;Wspinaczka / Squash;Padel Center & Academy Katowice;Katowice;Lwowska 40, 40-389 Katowice;strona nie potwierdza adresu ani telefonu;+48 570 900 800;nie;https://padelkatowice.pl/;tak;tak
+do weryfikacji;Klub Sztuk Walki;Silesian Cage Club (MMA / BJJ);Katowice;1 Maja 88, 40-235 Katowice;strona nie potwierdza adresu ani telefonu;+48 509 876 543;nie;https://silesiancageclub.pl/;tak;tak
+do weryfikacji;Studio EMS;Studio EMS Revolution Katowice;Katowice;gen. Kazimierza Pułaskiego 60, 40-028 Katowice;strona nie potwierdza adresu ani telefonu;+48 793 781 366;nie;http://studioemsrevolution.booksy.com/a/;tak;tak
+do weryfikacji;Joga / Pilates;Studio Pilates Reformer Katowice;Katowice;Kościuszki 45, 40-048 Katowice;strona nie potwierdza adresu ani telefonu;+48 511 333 222;nie;https://pilateskatowice.pl/;tak;nie
+do weryfikacji;Joga / Pilates;Szkoła Jogi Sadhana;Katowice;Mikołowska 19, 40-067 Katowice;strona nie działa;+48 501 777 888;nie;https://joga-katowice.pl/;nie;nie
+do weryfikacji;Szkoła Tańca / Pole Dance;Szkoła Tańca Marengo;Katowice;1 Maja 88, 40-235 Katowice;strona nie działa;+48 501 234 567;nie;https://marengo.katowice.pl/;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;Well Fitness Katowice Bażantowo;Katowice;Pijarska 3, 40-750 Katowice;strona nie działa;+48 784 638 937;nie;https://wellfitness.pl/silownia/katowice/bazantowo;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;Well Fitness Katowice Manhattan;Katowice;Szewska 11/9, 40-649 Katowice;adres przybliżony (tertiary);+48 784 638 936;tak;https://wellfitness.pl/silownia/katowice/;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Zdrofit Katowice Francuska;Katowice;Francuska 70, 40-028 Katowice;strona nie działa;+48 532 914 924;nie;https://zdrofit.pl/kluby-fitness/katowice-francuska/;nie;nie
+do weryfikacji;Studio EMS;in.Time Katowice;Katowice;Mikołowska 100A, 40-065 Katowice;strona nie działa;+48 533 900 100;nie;https://intime20.pl/;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;36 Minut Komorniki;Komorniki;ul. Poznańska 140;strona nie potwierdza adresu ani telefonu;+48 530 112 234;nie;https://36minut.pl;tak;tak
+do weryfikacji;Joga / Pilates;Joga Park Konstancin;Konstancin-Jeziorna;Wilanowska 1, 05-510 Konstancin-Jeziorna;strona nie działa;+48 506 222 111;nie;https://jogapark.pl;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;Xtreme Fitness Gyms Konstantynów Łódzki;Konstantynów Łódzki;Łódzka 27, 95-050 Konstantynów Łódzki;strona nie potwierdza adresu ani telefonu;+48 533 320 411;nie;https://xtremefitness.pl/;tak;tak
+do weryfikacji;Klub Sztuk Walki;Academia Gorila Kraków;Kraków;ul. Mogilska 97, 31-545 Kraków;strona nie działa;+48 504 999 000;nie;https://academiagorila.pl/;nie;nie
+do weryfikacji;Szkoła Tańca / Pole Dance;Akademia Tańca Jazzowego;Kraków;ul. Karmelicka 45, 31-128 Kraków;strona nie działa;+48 12 632 45 10;nie;https://taniecjazzowy.pl/;nie;nie
+do weryfikacji;Studio EMS;BodyTec20 Kraków;Kraków;ul. Karmelicka 52, 31-128 Kraków;strona nie potwierdza adresu ani telefonu;+48 532 222 333;nie;https://bodytec20.pl/;tak;tak
+do weryfikacji;Wspinaczka / Squash;Bronx Bouldering;Kraków;ul. Nad Drwiną 10, 30-741 Kraków;strona nie działa;+48 535 123 456;nie;https://bronxbouldering.pl/;nie;nie
+do weryfikacji;Korty Tenisowe;Centrum Tenisowe Zwierzyniec;Kraków;ul. Na Błoniach 1, 30-213 Kraków;nie znaleziono adresu;+48 509 111 222;nie;https://teniszwierzyniec.pl/;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;CityFit Kraków Kapelanka;Kraków;ul. Kapelanka 54, 30-347 Kraków;strona nie potwierdza adresu ani telefonu;+48 12 314 90 11;nie;https://cityfit.pl/;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;CityFit Kraków Lubicz;Kraków;ul. Lubicz 17A, 31-503 Kraków;strona nie potwierdza adresu ani telefonu;+48 12 314 90 10;nie;https://cityfit.pl/;tak;tak
+do weryfikacji;Studio EMS;EMS Studio Krowodrza;Kraków;ul. Wrocławska 33, 30-011 Kraków;strona nie działa;+48 534 444 555;nie;https://emskrowodrza.pl/;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;Fitness Platinium Czyżyny;Kraków;ul. Medweckiego 2, 31-870 Kraków;strona nie potwierdza adresu ani telefonu;+48 12 312 20 10;nie;https://fitnessplatinium.pl/;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Fitness Platinium Galeria Kazimierz;Kraków;ul. Podgórska 34, 31-536 Kraków;strona nie potwierdza adresu ani telefonu;+48 12 312 20 02;nie;https://fitnessplatinium.pl/;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Fitness Platinium Klimeckiego;Kraków;ul. Klimeckiego 1, 30-705 Kraków;nieaktualna marka (kluby Fitness Platinium działają dziś jako Zdrofit);+48 12 312 20 11;nie;https://fitnessplatinium.pl/;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Fitness Platinium Krowodrza;Kraków;ul. Wybickiego 7, 31-261 Kraków;strona nie potwierdza adresu ani telefonu;+48 12 312 20 06;nie;https://fitnessplatinium.pl/;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Fitness Platinium Lea;Kraków;ul. Juliusza Lea 213, 30-133 Kraków;strona nie potwierdza adresu ani telefonu;+48 12 312 20 07;nie;https://fitnessplatinium.pl/;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Fitness Platinium Mogilska;Kraków;ul. Mogilska 97, 31-545 Kraków;strona nie potwierdza adresu ani telefonu;+48 12 312 20 03;nie;https://fitnessplatinium.pl/;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Fitness Platinium Pawia;Kraków;ul. Pawia 5, 31-154 Kraków;strona nie potwierdza adresu ani telefonu;+48 12 312 20 05;nie;https://fitnessplatinium.pl/;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Fitness Platinium Płaszów;Kraków;ul. Koszykarska 27B, 30-717 Kraków;strona nie potwierdza adresu ani telefonu;+48 12 312 20 13;nie;https://fitnessplatinium.pl/;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Fitness Platinium Solvay Park;Kraków;ul. Zakopiańska 105, 30-418 Kraków;nieaktualna marka (kluby Fitness Platinium działają dziś jako Zdrofit);+48 12 312 20 04;nie;https://fitnessplatinium.pl/;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Fitness Platinium Stawowa;Kraków;ul. Stawowa 61, 31-346 Kraków;nieaktualna marka (kluby Fitness Platinium działają dziś jako Zdrofit);+48 12 312 20 09;nie;https://fitnessplatinium.pl/;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Fitness Platinium Wadowicka;Kraków;ul. Wadowicka 6, 30-415 Kraków;strona nie potwierdza adresu ani telefonu;+48 12 312 20 12;nie;https://fitnessplatinium.pl/;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Fitness Platinium Zakopiańska;Kraków;ul. Zakopiańska 56, 30-418 Kraków;nieaktualna marka (kluby Fitness Platinium działają dziś jako Zdrofit);+48 12 312 20 08;nie;https://fitnessplatinium.pl/;tak;tak
+do weryfikacji;Szkoła Tańca / Pole Dance;Fly Studio Pole Dance;Kraków;ul. Mogilska 65, 31-545 Kraków;strona nie działa;+48 505 333 444;nie;https://flystudio.krakow.pl/;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;Forma Fitness Club;Kraków;ul. Kobierzyńska 115, 30-382 Kraków;strona nie potwierdza adresu ani telefonu;+48 12 269 30 30;nie;https://formafitness.pl/;tak;tak
+do weryfikacji;Klub Sztuk Walki;Grappling Kraków;Kraków;ul. Dekerta 21, 30-703 Kraków;strona nie potwierdza adresu ani telefonu;+48 501 666 777;nie;https://grapplingkrakow.com.pl/;tak;tak
+do weryfikacji;Klub Sztuk Walki;HALNY Kraków;Kraków;ul. Kapelanka 54, 30-347 Kraków;strona nie działa;+48 503 888 999;nie;https://halny.krakow.pl/;nie;nie
+do weryfikacji;Wspinaczka / Squash;I'm Fit Squash & Fitness;Kraków;ul. Łojasiewicza 6, 30-348 Kraków;strona nie działa;+48 12 312 15 15;nie;https://imfit.com.pl/;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;Just GYM Kraków Jasnogórska;Kraków;ul. Jasnogórska 2, 31-358 Kraków;strona nie potwierdza adresu ani telefonu;+48 730 850 630;nie;https://justgym.pl/;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Just GYM Kraków Kocmyrzowska;Kraków;ul. Kocmyrzowska 13A, 31-831 Kraków;strona nie potwierdza adresu ani telefonu;+48 730 850 631;nie;https://justgym.pl/;tak;tak
+do weryfikacji;Korty Tenisowe;Korty Tenisowe Dąbski;Kraków;ul. Dąbska 11, 31-572 Kraków;strona nie działa;+48 12 414 22 33;nie;https://dabskitenis.pl/;nie;nie
+do weryfikacji;Korty Tenisowe;Korty Tenisowe Grzegórzecki;Kraków;ul. Grzegórzecka 23, 31-532 Kraków;adres przybliżony (tertiary);+48 12 421 33 44;nie;https://kortygrzegorzecki.pl/;nie;nie
+do weryfikacji;Klub Sztuk Walki;Krakowska Akademia Taekwondo;Kraków;ul. Ruczaj 48, 30-409 Kraków;adres przybliżony (residential);+48 506 111 222;nie;https://taekwondo.krakow.pl/;nie;nie
+do weryfikacji;Klub Sztuk Walki;Krakowski Klub Sportów Walki;Kraków;ul. Reymonta 22, 30-059 Kraków;strona nie działa;+48 502 777 888;nie;https://kksw.pl/;nie;nie
+do weryfikacji;Korty Tenisowe;Krakowski Klub Tenisowy Olsza;Kraków;ul. Łukasiewicza 3, 31-429 Kraków;strona nie działa;+48 12 411 90 90;nie;https://kkto.pl/;nie;nie
+do weryfikacji;Szkoła Tańca / Pole Dance;Loca Dance Studio;Kraków;ul. Limanowskiego 24, 30-534 Kraków;strona nie działa;+48 506 444 555;nie;https://locadance.pl/;nie;nie
+do weryfikacji;Lodowisko;Lodowisko Daisy Park;Kraków;ul. Morelowa 26A, 30-222 Kraków;strona nie działa;+48 12 425 18 65;nie;https://hoteldaisy.pl/;nie;nie
+do weryfikacji;Szkoła Tańca / Pole Dance;Loft To Dance Łukasz Raś;Kraków;ul. Kamienna 2-4, 30-001 Kraków;adres przybliżony (residential);+48 512 345 678;nie;https://lofttodance.pl/;nie;nie
+do weryfikacji;Studio EMS;MEON EMS Kraków;Kraków;ul. Zakopiańska 58, 30-418 Kraków;strona nie potwierdza adresu ani telefonu;+48 533 333 444;nie;https://meonems.pl/;tak;nie
+do weryfikacji;Joga / Pilates;Mayura Joga Kraków;Kraków;ul. Krowoderska 63B, 31-158 Kraków;strona nie potwierdza adresu ani telefonu;+48 503 901 234;nie;https://mayura.pl/;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;McFIT Kraków Nowa Huta;Kraków;al. Jana Pawła II 39A, 31-864 Kraków;strona nie potwierdza adresu ani telefonu;+48 12 352 44 10;nie;https://www.mcfit.com/;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;McFIT Kraków Opolska;Kraków;ul. Opolska 9, 31-323 Kraków;strona nie potwierdza adresu ani telefonu;+48 12 352 44 11;nie;https://www.mcfit.com/;tak;tak
+do weryfikacji;Wspinaczka / Squash;Mood Boulder;Kraków;ul. Klimeckiego 14B, 30-705 Kraków;adres przybliżony (primary);+48 536 234 567;nie;https://moodboulder.pl/;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;My Fitness Place Banacha;Kraków;ul. Banacha 49, 31-235 Kraków;strona nie potwierdza adresu ani telefonu;+48 12 312 21 04;nie;https://myfitnessplace.pl/;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;My Fitness Place Bonarka;Kraków;ul. Kamieńskiego 11, 30-644 Kraków;strona nie potwierdza adresu ani telefonu;+48 12 312 21 00;nie;https://myfitnessplace.pl/;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;My Fitness Place Galeria Bronowice;Kraków;ul. Stawowa 61, 31-346 Kraków;strona nie potwierdza adresu ani telefonu;+48 12 312 21 02;nie;https://myfitnessplace.pl/;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;My Fitness Place Opolska;Kraków;ul. Opolska 114, 31-323 Kraków;strona nie potwierdza adresu ani telefonu;+48 12 312 21 03;nie;https://myfitnessplace.pl/;tak;tak
+do weryfikacji;Korty Tenisowe;Olsza Tenis Klub;Kraków;ul. Siedleckiego 7, 31-538 Kraków;strona nie działa;+48 12 411 55 66;nie;https://olszatenis.pl/;nie;nie
+do weryfikacji;Joga / Pilates;Pilates & More;Kraków;ul. Królowej Jadwigi 192, 30-212 Kraków;strona nie działa;+48 508 456 789;nie;https://pilatesandmore.pl/;nie;nie
+do weryfikacji;Szkoła Tańca / Pole Dance;Pole Dance Institute Kraków;Kraków;ul. Dietla 50, 31-039 Kraków;strona nie działa;+48 504 222 333;nie;https://poledanceinstitute.pl/;nie;nie
+do weryfikacji;Joga / Pilates;Pracownia Jogi Agnieszki Passendorfer;Kraków;ul. Stradomska 11, 31-068 Kraków;strona nie potwierdza adresu ani telefonu;+48 502 890 123;nie;https://jogakrakow.pl/;tak;nie
+do weryfikacji;Basen / Aquapark;Pływalnia Miejska na os. Handlowym;Kraków;os. Handlowe 4, 31-935 Kraków;strona nie potwierdza adresu ani telefonu;+48 12 644 37 64;nie;https://zis.krakow.pl/;tak;nie
+do weryfikacji;Wspinaczka / Squash;Racketlon Club Kraków;Kraków;ul. Wadowicka 8W, 30-415 Kraków;strona nie potwierdza adresu ani telefonu;+48 12 269 10 10;nie;https://racketlon.pl/;tak;tak
+do weryfikacji;Joga / Pilates;Reformer Pilates Studio;Kraków;ul. Kalwaryjska 69, 30-504 Kraków;strona nie potwierdza adresu ani telefonu;+48 505 123 456;nie;https://reformerpilates.pl/;tak;tak
+do weryfikacji;Klub Sztuk Walki;Różański Boxing Team;Kraków;ul. Prądnicka 12, 31-202 Kraków;strona nie działa;+48 507 222 333;nie;https://rozanskiboxing.pl/;nie;nie
+do weryfikacji;Szkoła Tańca / Pole Dance;Sabroso Studio Tańca;Kraków;ul. Kobierzyńska 115, 30-382 Kraków;strona nie potwierdza adresu ani telefonu;+48 509 456 789;nie;https://sabroso.pl/;tak;tak
+do weryfikacji;Joga / Pilates;Sadhu Yoga Studio;Kraków;ul. Józefa 18, 31-056 Kraków;strona nie działa;+48 506 234 567;nie;https://sadhuyoga.pl/;nie;nie
+do weryfikacji;Szkoła Tańca / Pole Dance;Salsa House Kraków;Kraków;ul. Długa 17, 31-147 Kraków;strona nie działa;+48 501 234 567;nie;https://salsahouse.pl/;nie;nie
+do weryfikacji;Wspinaczka / Squash;Squash4You Centrum;Kraków;ul. Księcia Józefa 54A, 30-206 Kraków;strona nie potwierdza adresu ani telefonu;+48 12 427 25 25;nie;https://squash4you.pl/;tak;tak
+do weryfikacji;Szkoła Tańca / Pole Dance;Street Dance Academy Kraków;Kraków;ul. Wielicka 42, 30-552 Kraków;strona nie potwierdza adresu ani telefonu;+48 503 111 222;nie;https://streetdance.pl/;tak;nie
+do weryfikacji;Joga / Pilates;Studio Pilates Kraków;Kraków;ul. Karmelicka 36, 31-128 Kraków;strona nie działa;+48 504 012 345;nie;https://studiopilateskrakow.pl/;nie;nie
+do weryfikacji;Klub Sztuk Walki;Szkoła Walki Drwala;Kraków;ul. Pachońskiego 9, 31-223 Kraków;strona nie działa;+48 505 000 111;nie;https://szkolawalkidrwala.pl/;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;Well Fitness Kraków Borkowska;Kraków;ul. Borkowska 1, 30-438 Kraków;strona nie potwierdza adresu ani telefonu;+48 784 497 252;nie;https://wellfitness.pl/;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Well Fitness Kraków Dobrego Pasterza;Kraków;ul. Dobrego Pasterza 118, 31-416 Kraków;strona nie potwierdza adresu ani telefonu;+48 784 497 253;nie;https://wellfitness.pl/;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Well Fitness Kraków Półłanki;Kraków;ul. Półłanki 80, 30-740 Kraków;adres przybliżony (tertiary);+48 784 497 250;nie;https://wellfitness.pl/;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Well Fitness Kraków Wielicka;Kraków;ul. Wielicka 259, 30-663 Kraków;strona nie potwierdza adresu ani telefonu;+48 784 497 251;nie;https://wellfitness.pl/;tak;tak
+do weryfikacji;Joga / Pilates;YOGA Home Kraków;Kraków;ul. Dietla 93, 31-031 Kraków;strona nie potwierdza adresu ani telefonu;+48 507 345 678;nie;https://yogahome.pl/;tak;nie
+do weryfikacji;Siłownia / Klub Fitness;Zdrofit Kraków M1;Kraków;al. Pokoju 67, 31-580 Kraków;strona nie potwierdza adresu ani telefonu;+48 532 915 202;nie;https://zdrofit.pl/;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Zdrofit Kraków Serenada;Kraków;al. gen. Tadeusza Bora-Komorowskiego 41, 31-876 Kraków;strona nie potwierdza adresu ani telefonu;+48 532 915 201;nie;https://zdrofit.pl/;tak;tak
+do weryfikacji;Studio EMS;in.Time Kraków Kazimierz;Kraków;ul. Starowiślna 48, 31-035 Kraków;strona nie potwierdza adresu ani telefonu;+48 531 111 222;nie;https://intime.pl/;tak;tak
+do weryfikacji;Studio EMS;in.Time Kraków Ruczaj;Kraków;ul. Bobrzyńskiego 37, 30-348 Kraków;strona nie potwierdza adresu ani telefonu;+48 531 111 223;nie;https://intime.pl/;tak;tak
+do weryfikacji;Basen / Aquapark;Hotel Rodan Spa & Basen;Kórnik;ul. Poznańska 49 (Skrzynki);adres przybliżony (tertiary);+48 61 817 02 10;nie;https://hotelrodan.pl;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;Strefa Ruchu Kórnik;Kórnik;ul. Krasickiego 1;strona nie działa;+48 61 817 09 40;nie;https://strefaruchukornik.pl;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;Kąty Fitness Club;Kąty Wrocławskie;1 Maja 41, 55-080 Kąty Wrocławskie;brak strony;+48 530 112 440;nie;;—;nie
+do weryfikacji;Basen / Aquapark;Pływalnia Miejska Wodne Piaski;Legionowo;Piaskowa 1, 05-120 Legionowo;strona nie działa;+48 22 767 36 00;nie;https://wodnepiaski.pl;nie;nie
+do weryfikacji;Wspinaczka / Squash;Spektrum Sportu Squash & Badminton;Legionowo;Olszankowa 47, 05-120 Legionowo;strona nie potwierdza adresu ani telefonu;+48 22 774 00 11;nie;https://spektrumsportu.pl;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Total Fitness Legionowo;Legionowo;Jagiellońska 65, 05-120 Legionowo;strona nie potwierdza adresu ani telefonu;+48 22 111 00 46;nie;https://totalfitness.com.pl;tak;tak
+do weryfikacji;Wspinaczka / Squash;Centrum Squasha 4Squash;Luboń;ul. Powstańców Wielkopolskich 53;strona nie działa;+48 506 220 330;nie;https://4squash.pl;nie;nie
+do weryfikacji;Korty Tenisowe;Top Tenis Luboń;Luboń;ul. Kołłątaja 2;strona nie działa;+48 501 440 550;nie;https://toptenislubon.pl;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;Xtreme Fitness Gyms Luboń;Luboń;ul. Żabikowska 66;strona nie potwierdza adresu ani telefonu;+48 533 320 411;nie;https://xtremefitness.pl;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Xtreme Fitness Mikołów;Mikołów;Gliwicka 3, 43-190 Mikołów;strona nie działa;+48 530 112 250;nie;https://xtremefitness.pl/mikolow;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;Factory Fitness Club;Mokronos Górny;Wrocławska 20, 55-080 Mokronos Górny;brak strony;+48 725 871 123;nie;;—;nie
+do weryfikacji;Siłownia / Klub Fitness;Endorfina Fitness Club;Mosina;ul. Śremska 45;strona nie działa;+48 61 813 22 10;nie;https://endorfinamosina.pl;nie;nie
+do weryfikacji;Korty Tenisowe;Europejskie Centrum Tenisa;Mysiadło;Puławska 49, 05-500 Mysiadło;adres przybliżony (primary);+48 22 750 88 99;nie;https://ect.pl;tak;nie
+do weryfikacji;Siłownia / Klub Fitness;Zdrofit Mysłowice Quick Park;Mysłowice;Katowicka 75, 41-400 Mysłowice;strona nie działa;+48 532 914 965;nie;https://zdrofit.pl/kluby-fitness/myslowice/;nie;nie
+do weryfikacji;Basen / Aquapark;Kryta Pływalnia w Niepołomicach;Niepołomice;ul. Korczaka 5, 32-005 Niepołomice;strona nie działa;+48 12 281 31 50;nie;https://basen.niepolomice.eu/;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;Xtreme Fitness Gyms Niepołomice;Niepołomice;ul. Targowa 2, 32-005 Niepołomice;strona nie potwierdza adresu ani telefonu;+48 530 112 234;nie;https://xtremefitness.pl/;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Xtreme Fitness Gyms Otwock;Otwock;Kupiecka 2, 05-400 Otwock;strona nie potwierdza adresu ani telefonu;+48 533 331 440;nie;https://xtremefitness.pl;tak;tak
+do weryfikacji;Studio EMS;20 Minut Studio EMS Pabianice;Pabianice;Zamkowa 24, 95-200 Pabianice;brak strony;+48 512 667 788;nie;;—;nie
+do weryfikacji;Siłownia / Klub Fitness;FitFabric Pabianice;Pabianice;Zamkowa 31, 95-200 Pabianice;strona nie potwierdza adresu ani telefonu;+48 42 207 24 90;nie;https://fitfabric.pl/;tak;tak
+do weryfikacji;Klub Sztuk Walki;Klub Sportów Walki Pabianice;Pabianice;Kilińskiego 10, 95-200 Pabianice;brak strony;+48 506 223 344;nie;;—;nie
+do weryfikacji;Korty Tenisowe;Pabianicki Klub Tenisowy;Pabianice;Zamkowa 59, 95-200 Pabianice;strona nie działa;+48 504 667 788;nie;https://pktpabianice.pl/;nie;nie
+do weryfikacji;Wspinaczka / Squash;Squash Pabianice;Pabianice;Grobelna 8, 95-200 Pabianice;brak strony;+48 509 112 233;nie;;—;nie
+do weryfikacji;Joga / Pilates;Studio Pilates Pabianice;Pabianice;Warszawska 44, 95-200 Pabianice;brak strony;+48 509 887 766;nie;;—;nie
+do weryfikacji;Szkoła Tańca / Pole Dance;Szkoła Tańca Dance & Smile;Pabianice;Zamkowa 31, 95-200 Pabianice;strona nie działa;+48 503 112 233;nie;https://danceandsmile.pl/;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;Xtreme Fitness Gyms Pabianice;Pabianice;Grobelna 8, 95-200 Pabianice;strona nie potwierdza adresu ani telefonu;+48 533 320 410;nie;https://xtremefitness.pl/;tak;tak
+do weryfikacji;Studio EMS;20 Minutes Studio EMS Piaseczno;Piaseczno;Kościuszki 24, 05-500 Piaseczno;strona nie działa;+48 507 888 999;nie;https://20minutes.pl;nie;nie
+do weryfikacji;Basen / Aquapark;GOSiR Piaseczno Pływalnia;Piaseczno;gen. Władysława Sikorskiego 20, 05-500 Piaseczno;strona nie potwierdza adresu ani telefonu;+48 22 756 76 00;nie;https://gosir-piaseczno.pl;tak;tak
+do weryfikacji;Wspinaczka / Squash;Klub Sportowy Lavina;Piaseczno;Puławska 38, 05-500 Piaseczno;strona nie potwierdza adresu ani telefonu;+48 22 750 11 22;nie;https://lavina.pl;tak;tak
+do weryfikacji;Lodowisko;Lodowisko Miejskie GOSiR Piaseczno;Piaseczno;gen. Władysława Sikorskiego 20, 05-500 Piaseczno;strona nie potwierdza adresu ani telefonu;+48 22 756 76 00;nie;https://gosir-piaseczno.pl;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Zdrofit Piaseczno;Piaseczno;Puławska 46, 05-500 Piaseczno;strona nie potwierdza adresu ani telefonu;+48 22 444 77 20;nie;https://zdrofit.pl;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;36 Minut Plewiska;Plewiska;ul. Grunwaldzka 519;strona nie potwierdza adresu ani telefonu;+48 530 112 235;nie;https://36minut.pl;tak;tak
+do weryfikacji;Wspinaczka / Squash;11 Punkt Centrum Wspinaczkowe;Poznań;ul. Naramowicka 47;strona nie potwierdza adresu ani telefonu;+48 502 330 440;nie;https://11punkt.pl;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;36 Minut Poznań Jeżyce;Poznań;ul. Kościelna 30;strona nie potwierdza adresu ani telefonu;+48 530 112 233;nie;https://36minut.pl;tak;tak
+do weryfikacji;Klub Sztuk Walki;Ankos MMA Poznań;Poznań;ul. Obornicka 227;strona nie działa;+48 509 770 880;nie;https://ankosmma.pl;nie;nie
+do weryfikacji;Wspinaczka / Squash;Avangarda Centrum Wspinaczkowe;Poznań;ul. Za Cytadelą 122;strona nie działa;+48 530 770 660;nie;https://avangarda.poznan.pl;nie;nie
+do weryfikacji;Wspinaczka / Squash;Blokhaus Centrum Wspinaczkowe;Poznań;ul. Kolejowa 1/3;adres przybliżony (unclassified);+48 61 624 28 80;nie;https://blokhaus.pl;nie;nie
+do weryfikacji;Studio EMS;BodyTec20 Poznań Centrum;Poznań;ul. Półwiejska 32;strona nie potwierdza adresu ani telefonu;+48 535 220 330;nie;https://bodytec20.pl;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;CrossFit Poznań;Poznań;ul. Naramowicka 47;strona nie potwierdza adresu ani telefonu;+48 505 440 330;nie;https://crossfitpoznan.pl;tak;tak
+do weryfikacji;Klub Sztuk Walki;Czerwony Smok Poznań;Poznań;ul. Babimojska 7;strona nie działa;+48 502 880 990;nie;https://czerwonysmok.poznan.pl;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;Energy Fitness Club Poznań;Poznań;ul. Głogowska 132;adres przybliżony (tertiary);+48 61 866 11 22;nie;https://energyfitness.pl;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Fabryka Formy Poznań Malta;Poznań;ul. Maltańska 1;adres przybliżony (unclassified);+48 61 628 69 50;nie;https://fabryka-formy.pl;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Fabryka Formy Poznań Stary Browar;Poznań;ul. Półwiejska 42;strona nie potwierdza adresu ani telefonu;+48 61 628 69 40;nie;https://fabryka-formy.pl;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Fitness Club S4 Poznań;Poznań;ul. Serbska 7;strona nie działa;+48 61 820 30 40;nie;https://clubs4.pl;nie;nie
+do weryfikacji;Joga / Pilates;Flow Pilates & Movement;Poznań;ul. Wyspiańskiego 10;strona nie potwierdza adresu ani telefonu;+48 514 660 770;nie;https://flowpilates.pl;tak;tak
+do weryfikacji;Wspinaczka / Squash;Gekon Ścianka Wspinaczkowa;Poznań;ul. Sarmacka 1;adres przybliżony (residential);+48 61 825 90 10;nie;https://gekon.poznan.pl;nie;nie
+do weryfikacji;Klub Sztuk Walki;Gold Team Polska BJJ Poznań;Poznań;ul. Szyperska 14;strona nie działa;+48 508 990 110;nie;https://goldteam.pl;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;Gym World Poznań;Poznań;ul. Obornicka 229;strona nie potwierdza adresu ani telefonu;+48 61 822 70 80;nie;https://gymworld.pl;tak;nie
+do weryfikacji;Siłownia / Klub Fitness;Hangar Fitness & Wellness;Poznań;ul. Szyperska 14;strona nie działa;+48 61 646 80 00;nie;https://hangarfitness.pl;nie;nie
+do weryfikacji;Studio EMS;Impulse Studio EMS Poznań;Poznań;ul. Katowicka 53;strona nie działa;+48 512 660 770;nie;https://impulsestudio.pl;nie;nie
+do weryfikacji;Joga / Pilates;Joga w Centrum;Poznań;ul. Święty Marcin 66/72;strona nie działa;+48 502 440 550;nie;https://jogawcentrum.pl;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;Just GYM Poznań Dąbrowskiego;Poznań;ul. Jana Henryka Dąbrowskiego 77A;strona nie potwierdza adresu ani telefonu;+48 730 850 631;nie;https://justgym.pl;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Just GYM Poznań Franowo;Poznań;ul. Szwedzka 10;strona nie potwierdza adresu ani telefonu;+48 730 850 630;nie;https://justgym.pl;tak;tak
+do weryfikacji;Wspinaczka / Squash;Karma Bouldering;Poznań;ul. Ostrowska 452;strona nie działa;+48 534 110 990;nie;https://karmaboulder.pl;nie;nie
+do weryfikacji;Klub Sztuk Walki;Kohorta Poznań;Poznań;ul. Święty Marcin 80/82;strona nie potwierdza adresu ani telefonu;+48 511 330 440;nie;https://kohorta.pl;tak;tak
+do weryfikacji;Korty Tenisowe;Korty Tenisowe Arena POSiR;Poznań;ul. Wyspiańskiego 33;strona nie potwierdza adresu ani telefonu;+48 61 866 00 41;nie;https://posir.poznan.pl;tak;tak
+do weryfikacji;Szkoła Tańca / Pole Dance;Latin Groove Studio;Poznań;ul. Święty Marcin 45;strona nie działa;+48 508 330 440;nie;https://latingroove.pl;nie;nie
+do weryfikacji;Szkoła Tańca / Pole Dance;Lejdis Studio Open Dance Poznań;Poznań;ul. Roosevelta 9;strona nie działa;+48 535 440 550;nie;https://lejdisstudio.com;nie;nie
+do weryfikacji;Lodowisko;Lodowisko Ligawa (Enea Stadion);Poznań;ul. Bułgarska 17;strona nie działa;+48 61 886 30 00;nie;https://stadionpoznan.pl;nie;nie
+do weryfikacji;Lodowisko;Lodowisko Malta;Poznań;ul. Jana Pawła II;adres przybliżony (secondary);+48 61 222 61 61;nie;https://termymaltanskie.com.pl;tak;tak
+do weryfikacji;Studio EMS;MEON EMS Poznań Piątkowo;Poznań;os. Bolesława Chrobrego 118;strona nie potwierdza adresu ani telefonu;+48 530 440 550;nie;https://meonems.pl;tak;nie
+do weryfikacji;Siłownia / Klub Fitness;McFIT Poznań Galeria MM;Poznań;ul. Święty Marcin 24;strona nie działa;+48 61 669 01 10;nie;https://mcfit.com;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;McFIT Poznań Plaza;Poznań;ul. Kaspra Drużbickiego 2;strona nie działa;+48 61 669 01 20;nie;https://mcfit.com;nie;nie
+do weryfikacji;Wspinaczka / Squash;MySquash Poznań;Poznań;ul. Bułgarska 65A;strona nie działa;+48 61 670 30 30;nie;https://mysquash.pl;nie;nie
+do weryfikacji;Joga / Pilates;Namaste Yoga Poznań;Poznań;ul. Jackowskiego 36;strona nie potwierdza adresu ani telefonu;+48 508 110 330;nie;https://namasteyoga.pl;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Organic Fitness Poznań Galeria Panorama;Poznań;ul. Górecka 30;strona nie potwierdza adresu ani telefonu;+48 61 830 50 60;nie;https://organicfitness.pl;tak;tak
+do weryfikacji;Joga / Pilates;Pilates Studio Poznań;Poznań;ul. Libelta 24;strona nie działa;+48 503 770 880;nie;https://pilatesstudiopoznan.pl;nie;nie
+do weryfikacji;Szkoła Tańca / Pole Dance;Point Dance Studio;Poznań;ul. Dąbrowskiego 79A;strona nie potwierdza adresu ani telefonu;+48 531 220 330;nie;https://pointdancestudio.pl;tak;tak
+do weryfikacji;Szkoła Tańca / Pole Dance;Pole Art Poznań;Poznań;ul. Zwierzyniecka 15;strona nie działa;+48 504 880 990;nie;https://poleartpoznan.pl;nie;nie
+do weryfikacji;Szkoła Tańca / Pole Dance;Poznańska Akademia Tańca;Poznań;ul. Strzelecka 29;strona nie działa;+48 602 110 220;nie;https://pat.poznan.pl;nie;nie
+do weryfikacji;Klub Sztuk Walki;Poznański Klub Bokserski;Poznań;ul. Reymonta 35;strona nie działa;+48 61 866 55 44;nie;https://pkb.poznan.pl;nie;nie
+do weryfikacji;Klub Sztuk Walki;Pretorium Poznań;Poznań;ul. Dąbrowskiego 77A;strona nie działa;+48 504 550 660;nie;https://pretorium.poznan.pl;nie;nie
+do weryfikacji;Basen / Aquapark;Pływalnia AWF Poznań;Poznań;ul. Droga Dębińska 10C;strona nie potwierdza adresu ani telefonu;+48 61 835 54 00;nie;https://awf.poznan.pl;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Red Fitness Poznań;Poznań;ul. Strzeszyńska 61A;strona nie działa;+48 61 842 50 50;nie;https://redfitness.pl;nie;nie
+do weryfikacji;Joga / Pilates;Reformer House Poznań;Poznań;ul. Mickiewicza 19;strona nie działa;+48 531 880 990;nie;https://reformerhouse.pl;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;Remplus Fitness;Poznań;os. Stefana Batorego 82;strona nie działa;+48 61 824 55 66;nie;https://remplusfitness.pl;nie;nie
+do weryfikacji;Szkoła Tańca / Pole Dance;Salsa Siempre;Poznań;ul. Rybaki 19;strona nie potwierdza adresu ani telefonu;+48 501 660 770;nie;https://salsasiempre.pl;tak;tak
+do weryfikacji;Joga / Pilates;Samadhi Joga & Pilates;Poznań;ul. Polna 20;strona nie działa;+48 511 220 440;nie;https://samadhipoznan.pl;nie;nie
+do weryfikacji;Klub Sztuk Walki;Samolewski Gym;Poznań;ul. Głogowska 14;strona nie działa;+48 506 770 880;nie;https://samolewskigym.pl;nie;nie
+do weryfikacji;Szkoła Tańca / Pole Dance;Sky Pole Dance Studio;Poznań;ul. Górecka 30;strona nie potwierdza adresu ani telefonu;+48 512 770 880;nie;https://skypole.pl;tak;tak
+do weryfikacji;Wspinaczka / Squash;Squash Park Poznań;Poznań;ul. Strzeszyńska 61A;strona nie potwierdza adresu ani telefonu;+48 61 842 50 55;nie;https://squashpark.pl;tak;tak
+do weryfikacji;Joga / Pilates;Surya Namaskar Szkoła Jogi;Poznań;ul. Kościuszki 74;strona nie działa;+48 604 550 660;nie;https://joga-poznan.pl;nie;nie
+do weryfikacji;Szkoła Tańca / Pole Dance;Swing Craze Poznań;Poznań;ul. Garbary 64;strona nie potwierdza adresu ani telefonu;+48 515 220 110;nie;https://swingcraze.pl;tak;tak
+do weryfikacji;Szkoła Tańca / Pole Dance;Szkoła Tańca Born To Dance;Poznań;ul. Półwiejska 17;strona nie potwierdza adresu ani telefonu;+48 509 450 220;nie;https://borntodance.pl;tak;tak
+do weryfikacji;Szkoła Tańca / Pole Dance;Szkoła Tańca Hajdasz;Poznań;ul. Głogowska 26;strona nie potwierdza adresu ani telefonu;+48 61 866 44 55;nie;https://hajdasz.pl;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Taurus Fitness Club;Poznań;os. Bolesława Chrobrego 117;strona nie działa;+48 61 825 40 30;nie;https://taurusfitness.pl;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;UP Fitness Club Poznań;Poznań;ul. Bukowska 148;strona nie potwierdza adresu ani telefonu;+48 782 512 360;nie;https://up-fit.pl;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Well Fitness Poznań Piątkowo;Poznań;ul. Umultowska 32;strona nie potwierdza adresu ani telefonu;+48 784 497 250;nie;https://wellfitness.pl;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Well Fitness Poznań Rataje;Poznań;ul. Zamenhofa 133;strona nie potwierdza adresu ani telefonu;+48 784 497 251;nie;https://wellfitness.pl;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Well Fitness Poznań Wilda;Poznań;ul. 28 Czerwca 1956 r. 231;nie znaleziono adresu;+48 784 497 253;nie;https://wellfitness.pl;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Well Fitness Poznań Winogrady;Poznań;os. Wichrowe Wzgórze 104;strona nie potwierdza adresu ani telefonu;+48 784 497 254;nie;https://wellfitness.pl;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Xtreme Fitness Gyms Poznań Naramowice;Poznań;ul. Naramowicka 215;strona nie potwierdza adresu ani telefonu;+48 533 320 410;nie;https://xtremefitness.pl;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Zdrofit Poznań Avenida;Poznań;ul. Stanisława Matyi 2;strona nie potwierdza adresu ani telefonu;+48 532 915 200;nie;https://zdrofit.pl;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Zdrofit Poznań Kupiec Poznański;Poznań;pl. Wiosny Ludów 2;strona nie potwierdza adresu ani telefonu;+48 532 915 201;nie;https://zdrofit.pl;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Zdrofit Poznań Nowy Rynek;Poznań;ul. Wierzbięcice 1B;strona nie potwierdza adresu ani telefonu;+48 532 915 202;nie;https://zdrofit.pl;tak;tak
+do weryfikacji;Studio EMS;in.Time Poznań Grunwald;Poznań;ul. Marcelińska 96;strona nie działa;+48 533 110 221;nie;https://intime20.pl;nie;nie
+do weryfikacji;Studio EMS;in.Time Poznań Jeżyce;Poznań;ul. Dąbrowskiego 77A;strona nie działa;+48 533 110 220;nie;https://intime20.pl;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;Good Luck Club Pruszcz Gdański;Pruszcz Gdański;Grunwaldzka 71, 83-000 Pruszcz Gdański;strona nie potwierdza adresu ani telefonu;+48 58 682 33 44;nie;https://goodluckclub.pl/;tak;nie
+do weryfikacji;Studio EMS;EMS Fit Studio Rumia;Rumia;Dąbrowskiego 18, 84-230 Rumia;strona nie działa;+48 507 334 556;nie;https://emsrumia.pl/;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;Zdrofit Rumia Galeria Rumia;Rumia;Sabata 1, 84-230 Rumia;strona nie działa;+48 531 865 292;nie;https://zdrofit.pl/kluby-fitness/rumia-galeria-rumia/;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;Tytan Gym Rzgów;Rzgów;Tuszyńska 4, 95-030 Rzgów;brak strony;+48 504 778 899;nie;;—;nie
+do weryfikacji;Siłownia / Klub Fitness;Body Fit Siechnice;Siechnice;Św. Katarzyny 10, 55-011 Siechnice;brak strony;+48 71 311 54 11;nie;;—;nie
+do weryfikacji;Siłownia / Klub Fitness;Gminne Centrum Sportu Siechnice (Siłownia);Siechnice;Świerczewskiego 40, 55-011 Siechnice;strona nie działa;+48 71 311 50 56;nie;https://sir-siechnice.pl/;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;Xtreme Fitness Siemianowice Śląskie;Siemianowice Śląskie;Jagiełły 4, 41-100 Siemianowice Śląskie;strona nie działa;+48 530 112 260;nie;https://xtremefitness.pl/siemianowice-slaskie;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;Fitness Platinium Skawina;Skawina;ul. Niepodległości 4, 32-050 Skawina;strona nie potwierdza adresu ani telefonu;+48 12 312 20 14;nie;https://fitnessplatinium.pl/;tak;tak
+do weryfikacji;Korty Tenisowe;Korty Tenisowe Skawina;Skawina;ul. Mickiewicza 11, 32-050 Skawina;strona nie potwierdza adresu ani telefonu;+48 12 276 20 30;nie;https://ckis.pl/;tak;tak
+do weryfikacji;Studio EMS;EMS PROGRESS - Trening EMS Granitowa;Smolec;Granitowa 4, 55-080 Smolec;brak strony;+48 533 334 901;nie;;—;nie
+do weryfikacji;Siłownia / Klub Fitness;Fit Zone Smolec;Smolec;Główna 128, 55-080 Smolec;adres przybliżony (tertiary);+48 535 554 312;nie;;—;nie
+do weryfikacji;Szkoła Tańca / Pole Dance;Gminne Centrum Kultury Smolec (Zajęcia Taneczne);Smolec;Główna 47, 55-080 Smolec;strona nie działa;+48 71 316 90 10;nie;https://gck-katywroclawskie.pl/;nie;nie
+do weryfikacji;Joga / Pilates;Pracownia Jogi Smolec;Smolec;Bukowa 15, 55-080 Smolec;brak strony;+48 608 321 987;nie;;—;nie
+do weryfikacji;Siłownia / Klub Fitness;Pro Fitness Smolec;Smolec;Chłopska 24, 55-080 Smolec;brak strony;+48 601 753 200;nie;;—;nie
+do weryfikacji;Korty Tenisowe;Centrum Tenisowe Sobota;Sobota;ul. Poznańska 25;strona nie działa;+48 61 814 60 80;nie;https://centrumtenisowesobota.pl;nie;nie
+do weryfikacji;Klub Sztuk Walki;Akademia Sztuk Walki Sopot;Sopot;3 Maja 69, 81-850 Sopot;strona nie działa;+48 506 221 443;nie;https://aswsopot.pl/;nie;nie
+do weryfikacji;Basen / Aquapark;Basen Hotelu Marina Club / Mera Spa;Sopot;Bitwy pod Płowcami 59, 81-731 Sopot;strona nie działa;+48 58 766 60 00;nie;https://www.marriott.com/;nie;nie
+do weryfikacji;Lodowisko;Lodowisko na Molo w Sopocie (sezonowe);Sopot;Plac Zdrojowy 2, 81-720 Sopot;strona nie potwierdza adresu ani telefonu;+48 58 551 00 84;nie;https://mosir.sopot.pl/;tak;tak
+do weryfikacji;Szkoła Tańca / Pole Dance;Mambo Dance Studio Sopot;Sopot;al. Niepodległości 766, 81-838 Sopot;strona nie działa;+48 507 889 112;nie;https://mambostudio.pl/;nie;nie
+do weryfikacji;Korty Tenisowe;Sopocki Klub Tenisowy (SKT);Sopot;Jakuba Goyki 7, 81-706 Sopot;strona nie działa;+48 58 551 70 15;nie;https://skt.sopot.pl/;nie;nie
+do weryfikacji;Joga / Pilates;Sopot Yoga & Wellness;Sopot;Powstańców Warszawy 19, 81-718 Sopot;strona nie potwierdza adresu ani telefonu;+48 502 887 665;nie;https://sopotyoga.pl/;tak;tak
+do weryfikacji;Studio EMS;Studio Synergy EMS Sopot;Sopot;al. Niepodległości 723, 81-853 Sopot;strona nie potwierdza adresu ani telefonu;+48 512 667 889;nie;https://studiosynergy.pl/;tak;tak
+do weryfikacji;Studio EMS;20 Minut Studio EMS Sosnowiec;Sosnowiec;Modrzejowska 32A, 41-200 Sosnowiec;strona nie działa;+48 505 888 222;nie;https://20minutems.pl/;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;Just GYM Sosnowiec;Sosnowiec;Braci Mieroszewskich 2, 41-219 Sosnowiec;strona nie działa;+48 730 850 640;nie;https://justgym.pl/silownie/sosnowiec;nie;nie
+do weryfikacji;Wspinaczka / Squash;Poziom 450 Boulder;Sosnowiec;Kresowa 6, 41-209 Sosnowiec;strona nie potwierdza adresu ani telefonu;+48 32 720 45 01;nie;https://poziom450.pl/;tak;tak
+do weryfikacji;Joga / Pilates;Pracownia Jogi Sosnowiec;Sosnowiec;Małachowskiego 22, 41-200 Sosnowiec;strona nie działa;+48 507 123 987;nie;https://jogasosnowiec.pl/;nie;nie
+do weryfikacji;Wspinaczka / Squash;Squash Point Sosnowiec;Sosnowiec;Jedności 10, 41-200 Sosnowiec;adres przybliżony (residential);+48 32 293 71 36;tak;http://www.squash.sosnowiec.pl/;tak;tak
+do weryfikacji;Szkoła Tańca / Pole Dance;Szkoła Tańca Kiepura;Sosnowiec;3 Maja 11, 41-200 Sosnowiec;strona nie działa;+48 504 987 654;nie;https://taniecsosnowiec.pl/;nie;nie
+do weryfikacji;Klub Sztuk Walki;Zagłębie Sportów Walki Sosnowiec;Sosnowiec;Piłsudskiego 88, 41-200 Sosnowiec;adres przybliżony (secondary);+48 506 654 321;nie;https://zswsosnowiec.pl/;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;Zdrofit Sosnowiec Plejada;Sosnowiec;Staszica 8B, 41-200 Sosnowiec;strona nie działa;+48 532 914 940;nie;https://zdrofit.pl/kluby-fitness/sosnowiec-plejada/;nie;nie
+do weryfikacji;Joga / Pilates;Joga Podgórze Suchy Las;Suchy Las;ul. Podgórna 12;strona nie działa;+48 505 990 110;nie;https://jogasuchylas.pl;nie;nie
+do weryfikacji;Studio EMS;20 Minut Studio EMS Swarzędz;Swarzędz;ul. Cieszkowskiego 15;strona nie działa;+48 515 880 990;nie;https://20minutstudio.pl;nie;nie
+do weryfikacji;Korty Tenisowe;Swarzędzkie Centrum Tenisa;Swarzędz;ul. Świętego Marcina 1;strona nie potwierdza adresu ani telefonu;+48 61 650 95 30;nie;https://scsir.swarzedz.pl;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Xtreme Fitness Gyms Swarzędz;Swarzędz;ul. Poznańska 6;strona nie potwierdza adresu ani telefonu;+48 533 320 412;nie;https://xtremefitness.pl;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Xtreme Fitness Gyms Tarnowo Podgórne;Tarnowo Podgórne;ul. Poznańska 94;strona nie potwierdza adresu ani telefonu;+48 533 320 413;nie;https://xtremefitness.pl;tak;tak
+do weryfikacji;Klub Sztuk Walki;Bastion Tychy (MMA / Muay Thai);Tychy;Edukacji 7, 43-100 Tychy;strona nie działa;+48 508 111 999;nie;https://bastiontychy.pl/;nie;nie
+do weryfikacji;Studio EMS;EMS Studio Tychy;Tychy;Damrota 41, 43-100 Tychy;strona nie działa;+48 516 999 444;nie;https://emstychy.pl/;nie;nie
+do weryfikacji;Szkoła Tańca / Pole Dance;Mohito Szkoła Tańca Tychy;Tychy;Budowlanych 59, 43-100 Tychy;strona nie potwierdza adresu ani telefonu;+48 604 555 444;nie;https://mohito.tychy.pl/;tak;tak
+do weryfikacji;Korty Tenisowe;Servicom Tennis Club;Tychy;Szkolna 69, 43-100 Tychy;strona nie działa;+48 32 219 00 11;nie;https://servicomtennis.pl/;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;Well Fitness Tychy;Tychy;al. Jana Pawła II 16, 43-100 Tychy;strona nie działa;+48 784 638 945;nie;https://wellfitness.pl/silownia/tychy/;nie;nie
+do weryfikacji;Joga / Pilates;Yoga Home Tychy;Tychy;Grota-Roweckiego 42, 43-100 Tychy;strona nie działa;+48 513 456 789;nie;https://yogahometychy.pl/;nie;nie
+do weryfikacji;Klub Sztuk Walki;Aligatores Fight Club;Warszawa;Młocińska 5/7, 01-065 Warszawa;adres przybliżony (residential);+48 505 888 222;nie;https://aligatores.pl;tak;tak
+do weryfikacji;Wspinaczka / Squash;Arena Wspinaczkowa Makak;Warszawa;Palisadowa 20/22, 01-940 Warszawa;strona nie działa;+48 22 252 60 60;nie;https://makakarena.pl;nie;nie
+do weryfikacji;Basen / Aquapark;BOS Pływalnia Światowida;Warszawa;Światowida 56, 03-144 Warszawa;strona nie działa;+48 22 676 50 72;nie;https://bos.waw.pl;nie;nie
+do weryfikacji;Joga / Pilates;Balans Pilates Studio;Warszawa;Francuska 30, 03-905 Warszawa;strona nie potwierdza adresu ani telefonu;+48 510 555 666;nie;https://balanspilates.pl;tak;tak
+do weryfikacji;Studio EMS;BodyTec20 Warszawa Żoliborz;Warszawa;Rydygiera 13, 01-793 Warszawa;strona nie potwierdza adresu ani telefonu;+48 500 202 021;nie;https://bodytec20.pl;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Calisthenics Academy Warszawa;Warszawa;ul. Burakowska 14, 01-066 Warszawa;strona nie potwierdza adresu ani telefonu;+48 512 345 678;nie;https://calisthenicsacademy.pl;tak;tak
+do weryfikacji;Wspinaczka / Squash;Camp4 Centrum Wspinaczkowe;Warszawa;Łopuszańska 38D, 02-232 Warszawa;strona nie potwierdza adresu ani telefonu;+48 22 868 24 00;nie;https://camp4.pl;tak;tak
+do weryfikacji;Basen / Aquapark;Centrum Sportu Wilanów Pływalnia;Warszawa;Wiertnicza 26A, 02-952 Warszawa;strona nie potwierdza adresu ani telefonu;+48 22 885 00 60;nie;https://sport.um.warszawa.pl;tak;tak
+do weryfikacji;Wspinaczka / Squash;Centrum Wspinaczkowe Murall Krakowska;Warszawa;al. Krakowska 268, 02-210 Warszawa;strona nie potwierdza adresu ani telefonu;+48 22 400 50 61;nie;https://murall.pl;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;CityFit Warszawa Puławska;Warszawa;Puławska 427, 02-801 Warszawa;strona nie potwierdza adresu ani telefonu;+48 22 113 90 15;nie;https://cityfit.pl;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;CityFit Warszawa Rondo ONZ;Warszawa;al. Jana Pawła II 22, 00-133 Warszawa;strona nie potwierdza adresu ani telefonu;+48 22 113 90 10;nie;https://cityfit.pl;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;CityFit Warszawa Sadyba Best Mall;Warszawa;Powsińska 31, 02-903 Warszawa;strona nie potwierdza adresu ani telefonu;+48 22 113 90 13;nie;https://cityfit.pl;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;CityFit Warszawa Wola Plaza;Warszawa;Górczewska 124, 01-460 Warszawa;strona nie potwierdza adresu ani telefonu;+48 22 113 90 12;nie;https://cityfit.pl;tak;tak
+do weryfikacji;Klub Sztuk Walki;Copacabana Team Warszawa;Warszawa;Wał Miedzeszyński 377, 03-980 Warszawa;strona nie potwierdza adresu ani telefonu;+48 501 777 666;nie;https://copacabana.pl;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;CrossFit Mokotów;Warszawa;ul. Woronicza 31, 02-640 Warszawa;strona nie działa;+48 601 222 333;nie;https://crossfitmokotow.pl;nie;nie
+do weryfikacji;Szkoła Tańca / Pole Dance;Free Art Fusion;Warszawa;Żurawia 32/34, 00-515 Warszawa;strona nie działa;+48 509 888 777;nie;https://freeartfusion.pl;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;Holmes Place Hilton Warsaw;Warszawa;Grzybowska 63, 00-844 Warszawa;strona nie działa;+48 22 351 71 00;nie;https://holmesplace.pl;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;Holmes Place OVO / Marriott;Warszawa;Al. Jerozolimskie 65/79, 00-697 Warszawa;strona nie działa;+48 22 630 55 15;nie;https://holmesplace.pl;nie;nie
+do weryfikacji;Studio EMS;Impulse Studio EMS;Warszawa;Grzybowska 43A, 00-855 Warszawa;strona nie działa;+48 518 444 555;nie;https://impulsestudio.pl;nie;nie
+do weryfikacji;Joga / Pilates;Joga Fokus;Warszawa;Mińska 25, 03-808 Warszawa;strona nie działa;+48 504 999 000;nie;https://jogafokus.pl;nie;nie
+do weryfikacji;Joga / Pilates;Joga Żoliborz;Warszawa;Słowackiego 19A, 01-592 Warszawa;strona nie potwierdza adresu ani telefonu;+48 502 333 444;nie;https://jogazoliborz.pl;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Just GYM Warszawa Targówek;Warszawa;Radzymińska 116, 03-574 Warszawa;strona nie potwierdza adresu ani telefonu;+48 730 850 631;nie;https://justgym.pl;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Just GYM Warszawa Wola;Warszawa;Wolska 88, 01-141 Warszawa;strona nie potwierdza adresu ani telefonu;+48 730 850 630;nie;https://justgym.pl;tak;tak
+do weryfikacji;Wspinaczka / Squash;Klub Squash Kahuna;Warszawa;Zawrotna 1, 02-981 Warszawa;adres przybliżony (residential);+48 22 651 66 55;nie;https://kahuna.com.pl;tak;tak
+do weryfikacji;Korty Tenisowe;Klub Tenisowy Break;Warszawa;Korkowa 167, 04-549 Warszawa;strona nie potwierdza adresu ani telefonu;+48 22 812 00 00;nie;https://break.pl;tak;tak
+do weryfikacji;Szkoła Tańca / Pole Dance;La Clave Studio Tańca;Warszawa;Kolejowa 47, 01-210 Warszawa;strona nie potwierdza adresu ani telefonu;+48 790 333 555;nie;https://laclave.pl;tak;tak
+do weryfikacji;Klub Sztuk Walki;Legia Fight Club;Warszawa;Łazienkowska 6A, 00-449 Warszawa;strona nie działa;+48 22 318 20 00;nie;https://legiafightclub.pl;nie;nie
+do weryfikacji;Korty Tenisowe;Legia Tenis & Golf;Warszawa;Myśliwiecka 4A, 00-459 Warszawa;strona nie działa;+48 22 529 89 40;nie;https://legiatenis.com;nie;nie
+do weryfikacji;Studio EMS;MEON EMS Warszawa Powiśle;Warszawa;Dobra 42, 00-312 Warszawa;strona nie potwierdza adresu ani telefonu;+48 519 666 777;nie;https://meonems.pl;tak;nie
+do weryfikacji;Siłownia / Klub Fitness;McFIT Warszawa Wołoska;Warszawa;Wołoska 22, 02-675 Warszawa;strona nie działa;+48 22 843 21 00;nie;https://mcfit.com;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;McFIT Warszawa Świętokrzyska;Warszawa;Świętokrzyska 3, 00-360 Warszawa;strona nie działa;+48 22 826 12 34;nie;https://mcfit.com;nie;nie
+do weryfikacji;Wspinaczka / Squash;Obiekt Wspinaczkowy W Górę;Warszawa;Merliniego 2, 02-511 Warszawa;strona nie działa;+48 500 666 777;nie;https://wgore.org;nie;nie
+do weryfikacji;Szkoła Tańca / Pole Dance;Oh Lala Pole Dance Studio Centrum;Warszawa;Marszałkowska 84/92, 00-514 Warszawa;strona nie działa;+48 530 444 111;nie;https://ohlala.pl;nie;nie
+do weryfikacji;Szkoła Tańca / Pole Dance;Oh Lala Pole Dance Studio Mokotów;Warszawa;Puławska 39, 02-508 Warszawa;strona nie działa;+48 530 444 222;nie;https://ohlala.pl;nie;nie
+do weryfikacji;Klub Sztuk Walki;Palestra Warszawa;Warszawa;Trakt Lubelski 159, 04-766 Warszawa;strona nie działa;+48 503 111 888;nie;https://palestrawarszawa.pl;nie;nie
+do weryfikacji;Basen / Aquapark;Pływalnia Szuwarek OSiR Praga-Południe;Warszawa;Białostocka 13, 03-789 Warszawa;adres przybliżony (residential);+48 22 670 30 90;nie;https://osir.waw.pl;tak;tak
+do weryfikacji;Joga / Pilates;Reformer Pilates Warsaw;Warszawa;Koszykowa 54, 00-675 Warszawa;strona nie potwierdza adresu ani telefonu;+48 515 777 888;nie;https://reformerpilates.pl;tak;tak
+do weryfikacji;Joga / Pilates;Samadhi Joga;Warszawa;Kabacki Dukt 4, 02-798 Warszawa;strona nie potwierdza adresu ani telefonu;+48 22 403 11 22;nie;https://samadhijoga.pl;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Sinnet Club;Warszawa;Józefa Piusa Dziekońskiego 1, 00-728 Warszawa;strona nie potwierdza adresu ani telefonu;+48 22 851 11 11;nie;https://sinnet.pl;tak;tak
+do weryfikacji;Wspinaczka / Squash;Squash City Targówek;Warszawa;Głębocka 15, 03-287 Warszawa;strona nie potwierdza adresu ani telefonu;+48 22 311 71 72;nie;https://squashcity.pl;tak;tak
+do weryfikacji;Joga / Pilates;Studio Jogi Yam;Warszawa;Grójecka 19/25, 02-021 Warszawa;strona nie potwierdza adresu ani telefonu;+48 508 111 222;nie;https://studiojogi.pl;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Total Fitness Warszawa Gocław;Warszawa;Fieldorfa 41, 04-125 Warszawa;strona nie potwierdza adresu ani telefonu;+48 22 111 00 42;nie;https://totalfitness.com.pl;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Total Fitness Warszawa Grochów;Warszawa;Grochowska 207, 04-077 Warszawa;strona nie potwierdza adresu ani telefonu;+48 22 111 00 43;nie;https://totalfitness.com.pl;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Total Fitness Warszawa Mokotów;Warszawa;Bobrowiecka 8, 00-728 Warszawa;strona nie potwierdza adresu ani telefonu;+48 22 111 00 40;nie;https://totalfitness.com.pl;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Total Fitness Warszawa Ochota;Warszawa;Grójecka 194, 02-390 Warszawa;strona nie potwierdza adresu ani telefonu;+48 22 111 00 45;nie;https://totalfitness.com.pl;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Total Fitness Warszawa Ursynów;Warszawa;al. Komisji Edukacji Narodowej 36, 02-797 Warszawa;strona nie potwierdza adresu ani telefonu;+48 22 111 00 41;nie;https://totalfitness.com.pl;tak;tak
+do weryfikacji;Klub Sztuk Walki;Uniq Fight Club;Warszawa;Krakowiaków 80/98, 02-255 Warszawa;strona nie potwierdza adresu ani telefonu;+48 512 999 444;nie;https://uniqfightclub.com;tak;tak
+do weryfikacji;Klub Sztuk Walki;WCA Fight Team;Warszawa;Jagiellońska 88, 00-992 Warszawa;strona nie potwierdza adresu ani telefonu;+48 533 222 111;nie;https://wcafightteam.pl;tak;tak
+do weryfikacji;Szkoła Tańca / Pole Dance;Warsaw Salsa Club;Warszawa;Łucka 18, 00-845 Warszawa;strona nie potwierdza adresu ani telefonu;+48 511 222 444;nie;https://warsawsalsaclub.pl;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Well Fitness Warszawa Bemowo;Warszawa;Lazurowa 71A, 01-314 Warszawa;strona nie potwierdza adresu ani telefonu;+48 784 497 252;nie;https://wellfitness.pl;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Well Fitness Warszawa Białołęka;Warszawa;Modlińska 129, 03-186 Warszawa;strona nie potwierdza adresu ani telefonu;+48 784 497 253;nie;https://wellfitness.pl;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Well Fitness Warszawa Ursus;Warszawa;Posag 7 Panien 16, 02-495 Warszawa;strona nie potwierdza adresu ani telefonu;+48 784 497 251;nie;https://wellfitness.pl;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Well Fitness Warszawa Wilanów;Warszawa;Przyczółkowa 219, 02-968 Warszawa;strona nie potwierdza adresu ani telefonu;+48 784 497 250;nie;https://wellfitness.pl;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Zdrofit Warszawa Bemowo;Warszawa;Powstańców Śląskich 126, 01-466 Warszawa;strona nie potwierdza adresu ani telefonu;+48 22 444 77 08;nie;https://zdrofit.pl;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Zdrofit Warszawa Ursynów KEN;Warszawa;al. Komisji Edukacji Narodowej 14, 02-797 Warszawa;strona nie potwierdza adresu ani telefonu;+48 22 444 77 07;nie;https://zdrofit.pl;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Zdrofit Warszawa Wilanów;Warszawa;Klimczaka 1, 02-797 Warszawa;strona nie potwierdza adresu ani telefonu;+48 22 444 77 11;nie;https://zdrofit.pl;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Zdrofit Warszawa Złote Tarasy;Warszawa;Złota 59, 00-120 Warszawa;strona nie potwierdza adresu ani telefonu;+48 22 444 77 05;nie;https://zdrofit.pl;tak;tak
+do weryfikacji;Studio EMS;in.Time Studio EMS Mokotów;Warszawa;Woronicza 33B, 02-640 Warszawa;strona nie działa;+48 531 111 333;nie;https://intime20.pl;nie;nie
+do weryfikacji;Studio EMS;in.Time Studio EMS Śródmieście;Warszawa;Wilcza 29A, 00-544 Warszawa;strona nie działa;+48 531 111 222;nie;https://intime20.pl;nie;nie
+do weryfikacji;Basen / Aquapark;Pływalnia Kryta przy ZSO Wejherowo;Wejherowo;Nanicka 22, 84-200 Wejherowo;brak strony;+48 58 672 24 85;nie;;—;nie
+do weryfikacji;Siłownia / Klub Fitness;Tiger Gym Wejherowo;Wejherowo;I Brygady Pancernej WP 28, 84-200 Wejherowo;strona nie potwierdza adresu ani telefonu;+48 58 672 44 55;nie;https://tigergym.pl/;tak;tak
+do weryfikacji;Studio EMS;20 Minut Studio EMS Wieliczka;Wieliczka;ul. Krakowska 18, 32-020 Wieliczka;strona nie działa;+48 535 555 666;nie;https://20minutems.pl/;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;My Fitness Place Wieliczka;Wieliczka;ul. Krakowska 33, 32-020 Wieliczka;strona nie potwierdza adresu ani telefonu;+48 12 312 21 06;nie;https://myfitnessplace.pl/;tak;tak
+do weryfikacji;Szkoła Tańca / Pole Dance;Szkoła Tańca Prestige;Wieliczka;ul. Słowackiego 51, 32-020 Wieliczka;strona nie potwierdza adresu ani telefonu;+48 507 555 666;nie;https://taniecprestige.pl/;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Xtreme Fitness Gyms Wieliczka;Wieliczka;ul. Jedynaka 30, 32-020 Wieliczka;strona nie potwierdza adresu ani telefonu;+48 530 112 233;nie;https://xtremefitness.pl/;tak;tak
+do weryfikacji;Basen / Aquapark;Aquapark Wrocław Zakrzów;Wrocław;Wilanowska 29B, 51-206 Wrocław;adres przybliżony (residential);+48 71 771 15 11;tak;https://aquapark.wroc.pl/;tak;tak
+do weryfikacji;Joga / Pilates;Balans Studio Pilates;Wrocław;Legnicka 48G, 54-202 Wrocław;strona nie potwierdza adresu ani telefonu;+48 602 987 654;nie;https://balanspilates.pl/;tak;tak
+do weryfikacji;Joga / Pilates;Bikram Yoga Wrocław;Wrocław;Św. Mikołaja 8-11, 50-125 Wrocław;strona nie potwierdza adresu ani telefonu;+48 71 725 56 67;nie;https://bikramyoga.pl/;tak;tak
+do weryfikacji;Studio EMS;BodyTec20 Wrocław Centrum;Wrocław;Legnicka 55D, 54-203 Wrocław;strona nie potwierdza adresu ani telefonu;+48 533 880 220;nie;https://bodytec20.pl/;tak;tak
+do weryfikacji;Studio EMS;BodyTec20 Wrocław Krzyki;Wrocław;Zwycięska 20C, 53-033 Wrocław;adres przybliżony (tertiary);+48 533 880 221;nie;https://bodytec20.pl/;tak;tak
+do weryfikacji;Joga / Pilates;Core & More Pilates Reformer;Wrocław;Powstańców Śląskich 114, 53-332 Wrocław;strona nie potwierdza adresu ani telefonu;+48 534 123 456;nie;https://coreandmore.pl/;tak;nie
+do weryfikacji;Siłownia / Klub Fitness;CrossFit Black Star;Wrocław;Komandorska 18, 50-022 Wrocław;strona nie działa;+48 504 261 113;nie;https://crossfitblackstar.pl/;nie;nie
+do weryfikacji;Szkoła Tańca / Pole Dance;Egurrola Dance Studio Wrocław;Wrocław;Plac Dominikański 3, 50-159 Wrocław;strona nie potwierdza adresu ani telefonu;+48 601 526 526;nie;https://taniec.com.pl/;tak;tak
+do weryfikacji;Szkoła Tańca / Pole Dance;Fly High Pole Dance;Wrocław;Robotnicza 70J, 53-608 Wrocław;strona nie działa;+48 518 777 666;nie;https://flyhighpole.pl/;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;Grind Forge Gym;Wrocław;Tęczowa 79/81, 53-601 Wrocław;brak strony;+48 577 880 122;nie;;—;nie
+do weryfikacji;Klub Sztuk Walki;Gwardia Wrocław (Sekcja Judo i Boksu);Wrocław;Krupnicza 15, 50-075 Wrocław;strona nie działa;+48 71 344 12 45;nie;https://gwardia.wroclaw.pl/;nie;nie
+do weryfikacji;Basen / Aquapark;Kąpielisko Morskie Oko;Wrocław;Chopina 27, 51-609 Wrocław;strona nie potwierdza adresu ani telefonu;+48 71 348 16 14;nie;https://spartan.wroc.pl/;tak;tak
+do weryfikacji;Szkoła Tańca / Pole Dance;Lejdis Studio Wrocław;Wrocław;Powstańców Śląskich 166, 53-139 Wrocław;strona nie działa;+48 531 888 999;nie;https://lejdisstudio.com/;nie;nie
+do weryfikacji;Szkoła Tańca / Pole Dance;M-Dance Studio;Wrocław;Legnicka 55F, 54-203 Wrocław;strona nie działa;+48 603 111 222;nie;https://mdancestudio.pl/;nie;nie
+do weryfikacji;Studio EMS;MEON EMS Wrocław;Wrocław;Powstańców Śląskich 118, 53-333 Wrocław;strona nie potwierdza adresu ani telefonu;+48 790 445 112;nie;https://meonems.pl/;tak;nie
+do weryfikacji;Wspinaczka / Squash;Padel & Squash Wrocław;Wrocław;Bierutowska 57-59, 51-317 Wrocław;strona nie potwierdza adresu ani telefonu;+48 530 998 877;nie;https://padelwroclaw.pl/;tak;tak
+do weryfikacji;Joga / Pilates;Pilates Studio Wrocław;Wrocław;Zwycięska 20A, 53-033 Wrocław;strona nie potwierdza adresu ani telefonu;+48 515 678 901;nie;https://pilateswroclaw.pl/;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Projekt Fabryczna;Wrocław;Strzegomska 141, 54-428 Wrocław;strona nie działa;+48 882 852 945;nie;https://projektfabryczna.com/;nie;nie
+do weryfikacji;Klub Sztuk Walki;Puncher Wrocław - MMA, Kickboxing, BJJ, Boks;Wrocław;Mikołaja Reja 13F, 50-354 Wrocław;adres przybliżony (residential);+48 605 522 758;tak;http://www.puncher.pl/;tak;tak
+do weryfikacji;Basen / Aquapark;Pływalnia AWF Wrocław;Wrocław;al. Ignacego Jana Paderewskiego 35, 51-612 Wrocław;strona nie potwierdza adresu ani telefonu;+48 71 347 33 70;nie;https://awf.wroc.pl/;tak;tak
+do weryfikacji;Basen / Aquapark;Pływalnia Redeco;Wrocław;Rogowska 52A, 54-440 Wrocław;strona nie potwierdza adresu ani telefonu;+48 71 357 60 80;nie;https://redeco.pl/;tak;tak
+do weryfikacji;Basen / Aquapark;Pływalnia SP nr 46;Wrocław;Ścinawska 21, 53-676 Wrocław;brak strony;+48 71 798 68 85;nie;;—;nie
+do weryfikacji;Basen / Aquapark;Pływalnia SP nr 50;Wrocław;Czeska 38, 51-112 Wrocław;brak strony;+48 71 798 68 87;nie;;—;nie
+do weryfikacji;Basen / Aquapark;Pływalnia SP nr 72;Wrocław;Trwała 17-19, 53-335 Wrocław;brak strony;+48 71 798 68 95;nie;;—;nie
+do weryfikacji;Basen / Aquapark;Pływalnia Uniwersytetu Ekonomicznego;Wrocław;Kamienna 35, 53-307 Wrocław;strona nie działa;+48 71 368 08 55;nie;https://uew.pl/;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;Redeco Fitness;Wrocław;Rogowska 52A, 54-440 Wrocław;strona nie potwierdza adresu ani telefonu;+48 71 357 60 80;nie;https://redeco.pl/;tak;tak
+do weryfikacji;Klub Sztuk Walki;Rio Grappling Club Wrocław;Wrocław;Kolejowa 63, 53-508 Wrocław;strona nie potwierdza adresu ani telefonu;+48 504 261 113;nie;https://riograppling.pl/;tak;tak
+do weryfikacji;Szkoła Tańca / Pole Dance;Salsa Fever Wrocław;Wrocław;Świdnicka 39, 50-029 Wrocław;strona nie potwierdza adresu ani telefonu;+48 605 222 333;nie;https://salsafever.pl/;tak;tak
+do weryfikacji;Wspinaczka / Squash;Squash Point;Wrocław;Zwycięska 45, 53-033 Wrocław;strona nie działa;+48 511 223 344;nie;https://squashpoint.pl/;nie;nie
+do weryfikacji;Joga / Pilates;Studio Jogi Izabeli Raczkowskiej;Wrocław;Kurkowa 14, 50-210 Wrocław;strona nie potwierdza adresu ani telefonu;+48 501 234 567;nie;https://joga-wroclaw.pl/;tak;tak
+do weryfikacji;Joga / Pilates;Studio Jogi i Relaksu;Wrocław;Sienkiewicza 34A, 50-335 Wrocław;strona nie działa;+48 507 654 321;nie;https://jogairelaks.pl/;nie;nie
+do weryfikacji;Szkoła Tańca / Pole Dance;Studio Tańca Esencja;Wrocław;Dąbrowskiego 42, 50-457 Wrocław;strona nie działa;+48 502 654 321;nie;https://esencjatanca.pl/;nie;nie
+do weryfikacji;Joga / Pilates;Szkoła Jogi Namaste;Wrocław;Ofiar Oświęcimskich 19, 50-069 Wrocław;strona nie potwierdza adresu ani telefonu;+48 601 774 220;nie;https://joganamaste.pl/;tak;tak
+do weryfikacji;Szkoła Tańca / Pole Dance;Szkoła Tańca Dance Flow;Wrocław;Powstańców Śląskich 95, 53-332 Wrocław;strona nie potwierdza adresu ani telefonu;+48 512 440 880;nie;https://danceflow.pl/;tak;tak
+do weryfikacji;Szkoła Tańca / Pole Dance;Szkoła Tańca Iglica;Wrocław;Mickiewicza 35, 51-684 Wrocław;strona nie działa;+48 71 348 18 21;nie;https://iglica.wroc.pl/;nie;nie
+do weryfikacji;Szkoła Tańca / Pole Dance;Szkoła Tańca Just Move;Wrocław;Krzemieniecka 54B, 54-613 Wrocław;adres przybliżony (tertiary);+48 607 320 441;nie;https://justmove.pl/;tak;tak
+do weryfikacji;Szkoła Tańca / Pole Dance;Szkoła Tańca No Limit;Wrocław;Kazimierza Wielkiego 27, 50-077 Wrocław;strona nie działa;+48 660 444 999;nie;https://nolimit.wroclaw.pl/;nie;nie
+do weryfikacji;Szkoła Tańca / Pole Dance;Szkoła Tańca Swingowego Lindy Hop Wrocław;Wrocław;Ruska 47/48, 50-079 Wrocław;strona nie działa;+48 508 765 432;nie;https://lindyhop.wroclaw.pl/;nie;nie
+do weryfikacji;Wspinaczka / Squash;Tarnogaj Centrum Wspinaczkowe;Wrocław;Nyska 59A, 50-505 Wrocław;adres przybliżony (residential);+48 71 715 71 57;nie;https://cwtarnogaj.pl/;nie;nie
+do weryfikacji;Szkoła Tańca / Pole Dance;Vertical Dance Studio;Wrocław;Grabiszyńska 241, 53-234 Wrocław;strona nie działa;+48 509 444 222;nie;https://verticaldance.pl/;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;Well Fitness Wrocław Kleczków;Wrocław;Kleczkowska 49A, 50-231 Wrocław;strona nie potwierdza adresu ani telefonu;+48 784 497 243;nie;https://wellfitness.pl/silownia/wroclaw/kleczkow;tak;tak
+do weryfikacji;Klub Sztuk Walki;Wrocławski Klub Karate Kyokushin;Wrocław;Św. Jerzego 4, 50-518 Wrocław;strona nie działa;+48 601 701 802;nie;https://kyokushin.wroclaw.pl/;nie;nie
+do weryfikacji;Wspinaczka / Squash;Wrocławski Klub Squash;Wrocław;Ślężna 112, 53-111 Wrocław;strona nie działa;+48 71 367 11 22;nie;https://wksquash.pl/;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;ZWYCIĘSKA Gym & Fitness Center;Wrocław;Zwycięska 14e/3 lok. 3, 53-033 Wrocław;nie znaleziono adresu;+48 71 750 00 01;tak;http://www.zwycieska-fitness.pl/;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Zdrofit Wrocław Arkady;Wrocław;Powstańców Śląskich 2-4, 53-333 Wrocław;strona nie działa;+48 532 914 900;nie;https://zdrofit.pl/kluby-fitness/wroclaw-arkady/;nie;nie
+do weryfikacji;Wspinaczka / Squash;Zerwa Centrum Wspinaczkowe;Wrocław;Bergera 7A, 51-180 Wrocław;nie znaleziono adresu;+48 71 325 25 26;nie;https://zerwa.pl/;nie;nie
+do weryfikacji;Basen / Aquapark;Basen Zabierzów;Zabierzów;ul. Kolejowa 15A, 32-080 Zabierzów;strona nie działa;+48 12 285 11 40;nie;https://osir.zabierzow.org.pl/;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;Xtreme Fitness Gyms Zabierzów;Zabierzów;ul. Krakowska 280, 32-080 Zabierzów;strona nie potwierdza adresu ani telefonu;+48 530 112 235;nie;https://xtremefitness.pl/;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Just GYM Zabrze;Zabrze;Plutonowego Ryszarda Szkubacza 1, 41-800 Zabrze;strona nie potwierdza adresu ani telefonu;+48 730 850 645;nie;https://justgym.pl/silownie/zabrze;tak;tak
+do weryfikacji;Basen / Aquapark;Kryta Pływalnia Aquarius (MOSiR Zabrze);Zabrze;pl. Krakowski 10, 41-800 Zabrze;strona nie działa;+48 32 271 62 30;nie;https://mosir.zabrze.pl/;nie;nie
+do weryfikacji;Szkoła Tańca / Pole Dance;Szkoła Tańca i Ruchu Soul Dance;Zabrze;Wolności 262, 41-800 Zabrze;strona nie działa;+48 515 222 333;nie;https://souldance.pl/;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;Zdrofit Zabrze Platan;Zabrze;Plac Teatralny 12, 41-800 Zabrze;strona nie działa;+48 532 914 950;nie;https://zdrofit.pl/kluby-fitness/zabrze-platan/;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;FitFabric Zgierz;Zgierz;Armii Krajowej 10, 95-100 Zgierz;strona nie potwierdza adresu ani telefonu;+48 42 207 24 95;nie;https://fitfabric.pl/;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Olimp Fitness Club;Zgierz;Długa 44/46, 95-100 Zgierz;brak strony;+48 42 716 22 33;nie;;—;nie
+do weryfikacji;Joga / Pilates;Pracownia Jogi Zgierz;Zgierz;Długa 29, 95-100 Zgierz;brak strony;+48 503 554 433;nie;;—;nie
+do weryfikacji;Basen / Aquapark;Pływalnia Miejska Zgierz;Zgierz;Leśmiana 1, 95-100 Zgierz;adres przybliżony (road);+48 42 716 42 52;nie;https://mosir.zgierz.pl/;tak;tak
+do weryfikacji;Basen / Aquapark;Pływalnia Nowa Gdynia;Zgierz;Sosnowa 1, 95-100 Zgierz;strona nie działa;+48 42 714 21 21;nie;https://nowa-gdynia.pl/;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;Stacja Nowa Gdynia Fitness;Zgierz;Sosnowa 1, 95-100 Zgierz;strona nie działa;+48 42 714 21 21;nie;https://nowa-gdynia.pl/;nie;nie
+do weryfikacji;Korty Tenisowe;Stacja Nowa Gdynia Korty Tenisowe;Zgierz;Sosnowa 1, 95-100 Zgierz;strona nie działa;+48 42 714 21 21;nie;https://nowa-gdynia.pl/;nie;nie
+do weryfikacji;Wspinaczka / Squash;Stacja Nowa Gdynia Squash;Zgierz;Sosnowa 1, 95-100 Zgierz;strona nie działa;+48 42 714 21 21;nie;https://nowa-gdynia.pl/;nie;nie
+do weryfikacji;Szkoła Tańca / Pole Dance;Studio Tańca Mohito;Zgierz;1 Maja 5, 95-100 Zgierz;brak strony;+48 507 445 566;nie;;—;nie
+do weryfikacji;Siłownia / Klub Fitness;Zdrofit Ząbki;Ząbki;Powstańców 62, 05-091 Ząbki;strona nie potwierdza adresu ani telefonu;+48 22 444 77 23;nie;https://zdrofit.pl;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Zdrofit Łomianki;Łomianki;Brukowa 25, 05-092 Łomianki;strona nie potwierdza adresu ani telefonu;+48 22 444 77 22;nie;https://zdrofit.pl;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;36 Minut Łódź Bałuty;Łódź;Limanowskiego 119, 91-334 Łódź;strona nie potwierdza adresu ani telefonu;+48 570 112 234;nie;https://36minut.pl/;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;36 Minut Łódź Widzew;Łódź;Rokicińska 142, 92-412 Łódź;strona nie potwierdza adresu ani telefonu;+48 570 112 233;nie;https://36minut.pl/;tak;tak
+do weryfikacji;Klub Sztuk Walki;Academia Gorila Łódź;Łódź;Gdańska 112, 90-508 Łódź;strona nie działa;+48 515 998 877;nie;https://academiagorila.pl/;nie;nie
+do weryfikacji;Szkoła Tańca / Pole Dance;Akademia Tańca Esens;Łódź;al. Marsz. Józefa Piłsudskiego 135, 92-318 Łódź;strona nie działa;+48 515 678 910;nie;https://esens.pl/;nie;nie
+do weryfikacji;Joga / Pilates;Balans Studio Pilates & Joga;Łódź;Tymienieckiego 25, 90-350 Łódź;strona nie potwierdza adresu ani telefonu;+48 516 778 899;nie;https://balanspilates.pl/;tak;tak
+do weryfikacji;Basen / Aquapark;Basen Uniwersytetu Medycznego;Łódź;6 Sierpnia 69, 90-646 Łódź;strona nie potwierdza adresu ani telefonu;+48 42 272 50 90;nie;https://umed.pl/;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Body Line Gym;Łódź;Julianowska 5/7, 91-473 Łódź;brak strony;+48 42 657 88 99;nie;;—;nie
+do weryfikacji;Studio EMS;BodyTec20 Łódź;Łódź;al. Tadeusza Kościuszki 80/82, 90-437 Łódź;strona nie potwierdza adresu ani telefonu;+48 533 445 566;nie;https://bodytec20.pl/;tak;tak
+do weryfikacji;Korty Tenisowe;Centrum Tenisowe Matchpoint Łódź;Łódź;Siewna 15, 94-250 Łódź;strona nie działa;+48 502 889 900;nie;https://tenislodz.pl/;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;CityFit Łódź Aleja Kościuszki;Łódź;al. Tadeusza Kościuszki 123, 90-441 Łódź;strona nie potwierdza adresu ani telefonu;+48 42 235 28 50;nie;https://cityfit.pl/;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;CrossFit Dopamine;Łódź;Wróblewskiego 18, 93-578 Łódź;strona nie działa;+48 512 345 987;nie;https://crossfitdopamine.pl/;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;CrossFit Łódź;Łódź;Tymienieckiego 25A, 90-350 Łódź;strona nie działa;+48 602 456 789;nie;https://crossfitlodz.pl/;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;Energy Fitness Club Retkinia;Łódź;Maratońska 24/32, 94-102 Łódź;strona nie potwierdza adresu ani telefonu;+48 501 234 890;nie;https://energyfitness.pl/;tak;tak
+do weryfikacji;Wspinaczka / Squash;Fabryka Wspinania;Łódź;Dowborczyków 17/19, 90-019 Łódź;strona nie potwierdza adresu ani telefonu;+48 512 889 776;nie;https://fabrykawspinania.pl/;tak;tak
+do weryfikacji;Klub Sztuk Walki;Fight Club Łódź;Łódź;Zachodnia 70, 90-403 Łódź;strona nie działa;+48 503 776 655;nie;https://fightclublodz.pl/;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;FitFabric 1.0 Kilińskiego;Łódź;Jana Kilińskiego 298, 93-138 Łódź;strona nie potwierdza adresu ani telefonu;+48 42 640 31 00;nie;https://fitfabric.pl/;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;FitFabric 11.0 Guliwer;Łódź;Łagiewnicka 54/56, 91-463 Łódź;strona nie potwierdza adresu ani telefonu;+48 42 207 24 60;nie;https://fitfabric.pl/;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;FitFabric 12.0 Górniak;Łódź;Piotrkowska 317, 93-035 Łódź;strona nie potwierdza adresu ani telefonu;+48 42 207 24 70;nie;https://fitfabric.pl/;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;FitFabric 13.0 Rzgowska;Łódź;Rzgowska 211, 93-317 Łódź;strona nie potwierdza adresu ani telefonu;+48 42 207 24 80;nie;https://fitfabric.pl/;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;FitFabric 2.0 Matejki;Łódź;Jana Matejki 3/5, 91-402 Łódź;strona nie potwierdza adresu ani telefonu;+48 42 678 01 11;nie;https://fitfabric.pl/;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;FitFabric 4.0 Zielona;Łódź;Zielona 6, 90-414 Łódź;strona nie potwierdza adresu ani telefonu;+48 42 632 01 01;nie;https://fitfabric.pl/;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;FitFabric 5.0 Andels Manufaktura;Łódź;Ogrodowa 17, 91-065 Łódź;strona nie potwierdza adresu ani telefonu;+48 42 279 14 00;nie;https://fitfabric.pl/;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;FitFabric 7.0 Dąbrowa;Łódź;Gen. Jarosława Dąbrowskiego 207/225, 93-231 Łódź;strona nie potwierdza adresu ani telefonu;+48 42 207 24 20;nie;https://fitfabric.pl/;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;FitFabric 8.0 Widzew;Łódź;al. Marsz. Józefa Piłsudskiego 135, 92-318 Łódź;strona nie potwierdza adresu ani telefonu;+48 42 207 24 30;nie;https://fitfabric.pl/;tak;tak
+do weryfikacji;Szkoła Tańca / Pole Dance;Fly Studio Pole Dance & Aerial;Łódź;Tymienieckiego 25C, 90-350 Łódź;strona nie działa;+48 508 776 655;nie;https://flystudio.lodz.pl/;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;Forma Fitness Club;Łódź;al. Marsz. Edwarda Śmigłego-Rydza 20, 93-281 Łódź;strona nie potwierdza adresu ani telefonu;+48 42 643 44 55;nie;https://formafitness.pl/;tak;tak
+do weryfikacji;Studio EMS;Impulse Studio EMS Łódź;Łódź;Tymienieckiego 25A, 90-350 Łódź;strona nie działa;+48 510 889 900;nie;https://impulsestudio.pl/;nie;nie
+do weryfikacji;Joga / Pilates;Joga Sztuka Życia;Łódź;Wigury 15, 90-302 Łódź;strona nie potwierdza adresu ani telefonu;+48 504 332 211;nie;https://jogasztukazycia.pl/;tak;tak
+do weryfikacji;Joga / Pilates;Joga w Ogrodzie;Łódź;Julianowska 12, 91-473 Łódź;strona nie potwierdza adresu ani telefonu;+48 501 445 566;nie;https://jogawogrodzie.pl/;tak;tak
+do weryfikacji;Siłownia / Klub Fitness;Just GYM Łódź Brukowa;Łódź;Brukowa 6/8, 91-341 Łódź;strona nie potwierdza adresu ani telefonu;+48 730 850 641;nie;https://justgym.pl/;tak;nie
+do weryfikacji;Siłownia / Klub Fitness;Just GYM Łódź Przybyszewskiego;Łódź;Stanisława Przybyszewskiego 176/178, 93-120 Łódź;strona nie potwierdza adresu ani telefonu;+48 730 850 640;nie;https://justgym.pl/;tak;nie
+do weryfikacji;Korty Tenisowe;Korty Tenisowe Julianów;Łódź;Zgierska 142, 91-320 Łódź;brak strony;+48 501 223 344;nie;;—;nie
+do weryfikacji;Szkoła Tańca / Pole Dance;Lejdis Studio Łódź;Łódź;Wólczańska 128/134, 90-527 Łódź;adres przybliżony (tertiary);+48 511 223 344;nie;https://lejdisstudio.com/;nie;nie
+do weryfikacji;Szkoła Tańca / Pole Dance;Lilla House Szkoła Tańca;Łódź;Piotrkowska 217, 90-451 Łódź;strona nie potwierdza adresu ani telefonu;+48 502 334 455;nie;https://lillahouse.pl/;tak;tak
+do weryfikacji;Joga / Pilates;Lotos Joga Łódź;Łódź;Narutowicza 40, 90-135 Łódź;strona nie działa;+48 508 998 877;nie;https://lotosjoga.pl/;nie;nie
+do weryfikacji;Studio EMS;MEON EMS Łódź;Łódź;Ogrodowa 28, 91-065 Łódź;strona nie potwierdza adresu ani telefonu;+48 535 778 899;nie;https://meonems.pl/;tak;nie
+do weryfikacji;Siłownia / Klub Fitness;Max Gym & Fitness;Łódź;Rzgowska 34/36, 93-172 Łódź;brak strony;+48 42 684 12 34;nie;;—;nie
+do weryfikacji;Korty Tenisowe;Miejski Klub Tenisowy Łódź;Łódź;al. Bandurskiego 11, 94-020 Łódź;adres przybliżony (secondary);+48 42 686 22 44;nie;https://mktlodz.pl/;nie;nie
+do weryfikacji;Klub Sztuk Walki;Octopus BJJ Łódź;Łódź;Wróblewskiego 18, 93-578 Łódź;strona nie działa;+48 505 667 788;nie;https://octopusbjj.pl/;nie;nie
+do weryfikacji;Joga / Pilates;Pilates Reformer Studio Łódź;Łódź;al. Tadeusza Kościuszki 93, 90-436 Łódź;strona nie działa;+48 514 223 344;nie;https://pilatesreformer.lodz.pl/;nie;nie
+do weryfikacji;Szkoła Tańca / Pole Dance;Pole Dance University Łódź;Łódź;Gdańska 112, 90-508 Łódź;strona nie potwierdza adresu ani telefonu;+48 504 889 900;nie;https://poledanceuniversity.pl/;tak;tak
+do weryfikacji;Szkoła Tańca / Pole Dance;Project Salsa Łódź;Łódź;Tuwima 34, 90-002 Łódź;strona nie działa;+48 509 456 123;nie;https://projectsalsa.pl/;nie;nie
+do weryfikacji;Basen / Aquapark;Pływalnia Szkoły Mistrzostwa Sportowego;Łódź;Milionowa 12, 93-193 Łódź;strona nie działa;+48 42 674 12 34;nie;https://sms.lodz.pl/;nie;nie
+do weryfikacji;Basen / Aquapark;Pływalnia Wodny Raj MOSiR;Łódź;Wierna Rzeka 2, 94-227 Łódź;nie znaleziono adresu;+48 42 652 94 94;nie;https://mosir.lodz.pl/;tak;tak
+do weryfikacji;Klub Sztuk Walki;Shark Top Team Łódź;Łódź;Piotrkowska 217, 90-451 Łódź;strona nie potwierdza adresu ani telefonu;+48 512 334 455;nie;https://sharktopteam.pl/;tak;tak
+do weryfikacji;Wspinaczka / Squash;Spot Bouldering;Łódź;Gdańska 126, 90-520 Łódź;strona nie działa;+48 506 443 322;nie;https://spotbouldering.pl/;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;Społem Fitness & Gym;Łódź;Północna 36, 91-425 Łódź;strona nie działa;+48 42 632 45 12;nie;https://spolem-fitness.pl/;nie;nie
+do weryfikacji;Joga / Pilates;Szkoła Jogi na Piotrkowskiej;Łódź;Piotrkowska 85, 90-423 Łódź;strona nie działa;+48 502 667 788;nie;https://joga.lodz.pl/;nie;nie
+do weryfikacji;Siłownia / Klub Fitness;Zdrofit Łódź Monopolis;Łódź;dr. Stefana Kopcińskiego 62, 90-032 Łódź;strona nie potwierdza adresu ani telefonu;+48 532 915 201;nie;https://zdrofit.pl/;tak;tak
+do weryfikacji;Klub Sztuk Walki;Zenith BJJ Łódź;Łódź;al. Marsz. Józefa Piłsudskiego 135, 92-318 Łódź;strona nie działa;+48 508 112 233;nie;https://zenithbjj.pl/;nie;nie
+do weryfikacji;Studio EMS;in.Time Studio Treningu EMS Łódź Retkinia;Łódź;Armii Krajowej 32, 94-046 Łódź;strona nie działa;+48 530 112 234;nie;https://intime20.pl/;nie;nie
+do weryfikacji;Studio EMS;in.Time Studio Treningu EMS Łódź Śródmieście;Łódź;Piotrkowska 148/150, 90-063 Łódź;strona nie działa;+48 530 112 233;nie;https://intime20.pl/;nie;nie
+do weryfikacji;Klub Sztuk Walki;Łódzki Klub Bokserski;Łódź;al. Unii Lubelskiej 2, 94-020 Łódź;strona nie działa;+48 42 632 88 77;nie;https://lkb.lodz.pl/;nie;nie
+do weryfikacji;Wspinaczka / Squash;Łódzki Klub Squash;Łódź;Piotrkowska 217, 90-451 Łódź;strona nie działa;+48 501 778 899;nie;https://lodzkiklubsquash.pl/;nie;nie
+do weryfikacji;Korty Tenisowe;Matchpoint Tennis & Sports Club;Ślęza;Błękitna 2, 55-040 Ślęza;strona nie potwierdza adresu ani telefonu;+48 71 311 23 11;nie;https://matchpoint.com.pl/;tak;tak
+do weryfikacji;Basen / Aquapark;Ślęza Centrum Sportu i Rekreacji (Basen);Ślęza;Błękitna 2, 55-040 Ślęza;strona nie działa;+48 71 311 23 11;nie;https://goksir.kobierzyce.pl/;nie;nie
+istnieje w bazie;Siłownia / Klub Fitness;Just GYM Bielany Wrocławskie;Bielany Wrocławskie;Francuska 6, 55-040 Bielany Wrocławskie;Just GYM Bielany Wrocławskie (0 m);+48 730 850 623;nie;https://justgym.pl/silownie/bielany-wroclawskie;nie;nie
+istnieje w bazie;Korty Tenisowe;Górnik Bytom – Korty Tenisowe;Bytom;Tarnogórska 5, 41-902 Bytom;Klub Sportowy Górnik Bytom (45 m);+48 32 281 20 88;nie;https://ksgornikbytom.pl/;nie;nie
+istnieje w bazie;Basen / Aquapark;Kryta Pływalnia OSiR Bytom;Bytom;Parkowa 1, 41-902 Bytom;Pływalnia kryta (23 m);+48 32 281 48 61;nie;https://osir.bytom.pl/;tak;tak
+istnieje w bazie;Wspinaczka / Squash;Skarpa Bytom Rozbark;Bytom;Wojciecha Kilara 33, 41-902 Bytom;Centrum Sportów Wspinaczkowych i Siłowych Skarpa Bytom (70 m);+48 32 706 10 00;nie;https://skarpabytom.pl/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;CityFit Chorzów AKS;Chorzów;Parkowa 20, 41-500 Chorzów;CityFit (49 m);+48 32 775 16 10;nie;https://cityfit.pl/kluby/chorzow-aks/;tak;tak
+istnieje w bazie;Basen / Aquapark;Kryta Pływalnia MORiS Chorzów;Chorzów;pl. Powstańców Śląskich 1, 41-500 Chorzów;Kryta Pływalnia MORiS Chorzów (0 m);+48 32 241 11 11;nie;https://moris.chorzow.pl/;tak;tak
+istnieje w bazie;Basen / Aquapark;Nemo – Świat Rozrywki;Dąbrowa Górnicza;al. Róż 1, 41-300 Dąbrowa Górnicza;Aquapark Nemo - Wodny Świat (22 m);+48 32 639 05 79;tak;https://nemo-swiatrozrywki.pl/;tak;tak
+istnieje w bazie;Szkoła Tańca / Pole Dance;Akademia Artystyczna Gdańsk;Gdańsk;al. Grunwaldzka 355, 80-309 Gdańsk;Akademia Artystyczna Gdańsk (0 m);+48 797 125 216;tak;https://akademiaartystyczna.com/;tak;tak
+istnieje w bazie;Wspinaczka / Squash;Centrum Sportów Rakietowych Gdańsk;Gdańsk;Kazimierza Górskiego 1, 80-336 Gdańsk;Centrum Sportów Rakietowych (81 m);+48 797 939 957;tak;http://www.csrgdansk.pl/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;CityFit Gdańsk Forum;Gdańsk;Targ Sienny 7, 80-806 Gdańsk;CityFit (57 m);+48 58 732 61 90;tak;https://cityfit.pl/silownie/gdansk/forum;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;CityFit Gdańsk Olivia;Gdańsk;al. Grunwaldzka 472C, 80-309 Gdańsk;CityFit Gdańsk Olivia (0 m);+48 58 732 61 92;nie;https://cityfit.pl/silownie/gdansk/olivia;tak;tak
+istnieje w bazie;Szkoła Tańca / Pole Dance;Dance Atelier Barbara Materka;Gdańsk;al. Grunwaldzka 303, 80-314 Gdańsk;Dance Atelier Barbara Materka (0 m);+48 501 665 544;nie;https://danceatelier.pl/;tak;tak
+istnieje w bazie;Wspinaczka / Squash;Elewator Ściana Wspinaczkowa;Gdańsk;Leona Droszyńskiego 15H, 80-381 Gdańsk;Ściana Wspinaczkowa Elewator (0 m);+48 511 160 993;tak;https://elewator.com/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Good Luck Club Gdańsk;Gdańsk;Orzechowa 7, 80-175 Gdańsk;Good Luck Club (7 m);+48 58 302 22 44;nie;https://goodluckclub.pl/;tak;nie
+istnieje w bazie;Wspinaczka / Squash;Good Luck Squash & Fitness Gdańsk;Gdańsk;Orzechowa 7, 80-175 Gdańsk;Good Luck Club (7 m);+48 58 302 22 44;nie;https://goodluckclub.pl/;tak;tak
+istnieje w bazie;Lodowisko;Hala Olivia (Lodowisko Gdańsk);Gdańsk;al. Grunwaldzka 470, 80-309 Gdańsk;Hala Olivia (107 m);+48 58 552 20 91;nie;https://halaolivia.pl/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Just GYM Gdańsk Szczęśliwa;Gdańsk;Szczęśliwa 3, 80-177 Gdańsk;Just GYM Gdańsk Szczęśliwa (0 m);+48 796 660 190;tak;https://justgym.pl/silownie/gdansk/szczesliwa;tak;tak
+istnieje w bazie;Wspinaczka / Squash;Murall Gdańsk;Gdańsk;Mariana Hemara 23, 80-280 Gdańsk;Centrum Wspinaczkowe Murall (5 m);+48 58 728 49 55;tak;https://gdansk.murall.pl/;tak;tak
+istnieje w bazie;Wspinaczka / Squash;Problem Bouldering Gdańsk;Gdańsk;al. Rzeczypospolitej 8, 80-369 Gdańsk;Problem Bouldering (79 m);+48 798 726 584;tak;http://www.problembouldering.pl/;tak;tak
+istnieje w bazie;Basen / Aquapark;Pływalnia GOS Gdańsk Chełm;Gdańsk;Chałubińskiego 13, 80-807 Gdańsk;Pływalnia Chełm (122 m);+48 58 302 20 81;nie;https://sportgdansk.pl/;tak;tak
+istnieje w bazie;Basen / Aquapark;Pływalnia GOS Gdańsk Orunia;Gdańsk;Smoleńska 6/8, 80-058 Gdańsk;Pływalnia Orunia (39 m);+48 58 306 60 88;nie;https://sportgdansk.pl/;tak;tak
+istnieje w bazie;Basen / Aquapark;Pływalnia GOS Gdańsk Osowa;Gdańsk;Siedleckiego 14, 80-299 Gdańsk;Pływalnia Osowa (87 m);+48 58 522 01 40;nie;https://sportgdansk.pl/;tak;tak
+istnieje w bazie;Basen / Aquapark;Pływalnia GOS Gdańsk Stogi;Gdańsk;Wilhelma Stryjewskiego 28, 80-611 Gdańsk;Pływalnia Stogi (32 m);+48 58 524 34 73;tak;https://sportgdansk.pl/;tak;tak
+istnieje w bazie;Szkoła Tańca / Pole Dance;Studio Tańca So Fly Gdańsk;Gdańsk;Szczepana Pileckiego 2, 80-225 Gdańsk;So-Fly (2 m);+48 509 871 769;nie;http://www.sofly.com.pl/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Well Fitness Gdańsk Oliwa;Gdańsk;al. Grunwaldzka 505, 80-320 Gdańsk;Well Fitness Gdańsk Oliwa (0 m);+48 500 900 960;tak;https://wellfitness.pl/silownia/gdansk/oliwa;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Zdrofit Gdańsk Alchemia;Gdańsk;al. Grunwaldzka 415, 80-309 Gdańsk;Zdrofit Gdańsk Alchemia (0 m);+48 531 865 286;nie;https://zdrofit.pl/kluby-fitness/gdansk-alchemia/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Zdrofit Gdańsk Galeria Przymorze;Gdańsk;Obrońców Wybrzeża 1, 80-398 Gdańsk;Zdrofit Gdańsk Galeria Przymorze (0 m);+48 880 345 599;tak;https://zdrofit.pl/kluby-fitness/gdansk-obroncow-wybrzeza/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Zdrofit Gdańsk Grunwaldzka;Gdańsk;al. Grunwaldzka 229, 80-266 Gdańsk;Zdrofit Gdańsk Grunwaldzka (0 m);+48 531 865 281;nie;https://zdrofit.pl/kluby-fitness/gdansk-grunwaldzka/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Zdrofit Gdańsk Kowale;Gdańsk;Staropolska 32, 80-180 Gdańsk;Zdrofit (19 m);+48 531 865 290;nie;https://zdrofit.pl/kluby-fitness/gdansk-kowale/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Zdrofit Gdańsk Madison;Gdańsk;Rajska 10, 80-850 Gdańsk;Zdrofit (49 m);+48 531 865 280;nie;https://zdrofit.pl/kluby-fitness/gdansk-madison/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Zdrofit Gdańsk Manhattan;Gdańsk;al. Grunwaldzka 82, 80-244 Gdańsk;Zdrofit (60 m);+48 535 269 648;nie;https://zdrofit.pl/kluby-fitness/gdansk-manhattan/;nie;nie
+istnieje w bazie;Siłownia / Klub Fitness;Zdrofit Gdańsk Morena;Gdańsk;Schuberta 102A, 80-172 Gdańsk;Zdrofit (141 m);+48 531 865 283;nie;https://zdrofit.pl/kluby-fitness/gdansk-morena/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Zdrofit Gdańsk Orzechowa;Gdańsk;Orzechowa 7, 80-175 Gdańsk;Zdrofit Gdańsk Orzechowa (0 m);+48 531 865 285;nie;https://zdrofit.pl/kluby-fitness/gdansk-orzechowa/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Zdrofit Gdańsk Rzeczypospolitej;Gdańsk;al. Rzeczypospolitej 8, 80-369 Gdańsk;Zdrofit Gdańsk Rzeczypospolitej (0 m);+48 531 865 284;nie;https://zdrofit.pl/kluby-fitness/gdansk-rzeczypospolitej/;tak;tak
+istnieje w bazie;Wspinaczka / Squash;Ściana Wspinaczkowa MONO;Gdańsk;al. Grunwaldzka 411, 80-309 Gdańsk;Ściana Wspinaczkowa Mono (48 m);+48 784 129 959;tak;https://monoclimb.pl/;tak;tak
+istnieje w bazie;Basen / Aquapark;Centrum Sportowe u Jezuitów Gdynia;Gdynia;Tatrzańska 35, 81-313 Gdynia;Centrum Sportowe u Jezuitów Gdynia (0 m);+48 58 620 82 28;nie;https://centrumsportowe.gdynia.pl/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Just GYM Gdynia Unruga;Gdynia;Admirała Józefa Unruga 1, 81-153 Gdynia;Just GYM (49 m);+48 58 500 83 78;tak;https://justgym.pl/silownie/gdynia/unruga;tak;tak
+istnieje w bazie;Korty Tenisowe;Klub Tenisowy Arka Gdynia;Gdynia;Ejsmonda 3, 81-409 Gdynia;Klub Tenisowy Arka Gdynia (58 m);+48 58 622 15 32;nie;https://ktarka.pl/;nie;nie
+istnieje w bazie;Basen / Aquapark;Pływalnia Akademii Marynarki Wojennej;Gdynia;Śmidowicza 69, 81-127 Gdynia;Pływalnia Akademii Marynarki Wojennej (0 m);+48 261 262 530;nie;https://www.amw.gdynia.pl/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Well Fitness Gdynia Dąbrowa;Gdynia;Rdestowa 160, 81-577 Gdynia;Well Fitness (10 m);+48 572 776 373;tak;https://wellfitness.pl/silownia/gdynia;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Zdrofit Gdynia CH Riviera;Gdynia;Kazimierza Górskiego 2, 81-304 Gdynia;Zdrofit Gdynia CH Riviera (0 m);+48 531 975 405;tak;https://zdrofit.pl/kluby-fitness/gdynia-ch-riviera/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Zdrofit Gdynia Chwarzno;Gdynia;Czesława Niemena 2, 81-603 Gdynia;Zdrofit Gdynia Chwarzno (0 m);+48 536 999 738;tak;https://zdrofit.pl/kluby-fitness/gdynia-chwarzno/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Zdrofit Gdynia Galeria Szperk;Gdynia;płk. Stanisława Dąbka 338, 81-198 Gdynia;Zdrofit Gdynia Galeria Szperk (0 m);+48 530 752 546;tak;https://zdrofit.pl/kluby-fitness/gdynia-galeria-szperk/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Zdrofit Gdynia Plac Kaszubski;Gdynia;plac Kaszubski 17, 81-350 Gdynia;Zdrofit (12 m);+48 531 865 287;tak;https://zdrofit.pl/kluby-fitness/gdynia-plac-kaszubski/;tak;tak
+istnieje w bazie;Szkoła Tańca / Pole Dance;Fit Wizja - Pole Dance Gliwice;Gliwice;Snopowa 16, 44-141 Gliwice;Fit Wizja - Pole Dance Gliwice (0 m);+48 535 555 016;tak;http://www.fitwizja.pl/;tak;tak
+istnieje w bazie;Wspinaczka / Squash;Jasna Squash & Sport Gliwice;Gliwice;Jasna 31, 44-100 Gliwice;Jasna Sport i Rekreacja (10 m);+48 32 411 99 99;tak;http://jasna31.pl/squash;tak;tak
+istnieje w bazie;Basen / Aquapark;Kryta Pływalnia Mewa;Gliwice;Mewy 36, 44-119 Gliwice;Kryta pływalnia Mewa (94 m);+48 32 232 01 36;nie;https://mzuk.gliwice.pl/;tak;nie
+istnieje w bazie;Basen / Aquapark;Kryta Pływalnia Olimpijczyk;Gliwice;Oriona 120, 44-117 Gliwice;Olimpijczyk (7 m);+48 32 237 06 90;nie;https://mzuk.gliwice.pl/;tak;nie
+istnieje w bazie;Wspinaczka / Squash;SQUASHMANIA Gliwice;Gliwice;Kozielska 33A, 44-121 Gliwice;Squashmania (5 m);+48 32 725 04 22;tak;http://www.squashmania.com.pl/;tak;tak
+istnieje w bazie;Korty Tenisowe;Tenis Arena Gliwice;Gliwice;Kozielska 33B, 44-121 Gliwice;Tenis Arena (11 m);+48 512 888 777;nie;https://tenisarena.gliwice.pl/;nie;nie
+istnieje w bazie;Siłownia / Klub Fitness;Well Fitness Gliwice Kolberga;Gliwice;Oskara Kolberga 41, 44-100 Gliwice;Well Fitness Gliwice Kolberga (0 m);+48 661 360 109;tak;https://wellfitness.pl/silownia/gliwice/kolberga;tak;tak
+istnieje w bazie;Wspinaczka / Squash;Ścianka wspinaczkowa Chwyciarnia (PreZero Arena);Gliwice;Akademicka 50, 44-100 Gliwice;Chwyciarnia (0 m);+48 32 770 90 00;nie;https://chwyciarnia.pl/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Xtreme Fitness Jaworzno;Jaworzno;Grunwaldzka 59, 43-600 Jaworzno;Xtreme Fitness Jaworzno (0 m);+48 530 112 245;nie;https://xtremefitness.pl/jaworzno;tak;tak
+istnieje w bazie;Wspinaczka / Squash;BLOKatowice;Katowice;Karoliny 18, 40-176 Katowice;BLOKatowice (8 m);+48 533 318 318;nie;https://blokatowice.pl/;nie;nie
+istnieje w bazie;Basen / Aquapark;Basen Brynów (Katowickie Wodociągi);Katowice;Tadeusza Kościuszki 104, 40-519 Katowice;Basen Brynów (12 m);+48 32 707 01 10;nie;https://basenbrynow.pl/;nie;nie
+istnieje w bazie;Basen / Aquapark;Basen Burowiec;Katowice;Konnego 2, 40-313 Katowice;Basen Burowiec (15 m);+48 32 707 01 20;nie;https://basenburowiec.pl/;nie;nie
+istnieje w bazie;Basen / Aquapark;Basen Zadole;Katowice;Wczasowa 8A, 40-694 Katowice;Basen Zadole (4 m);+48 32 707 01 30;nie;https://basenzadole.pl/;nie;nie
+istnieje w bazie;Szkoła Tańca / Pole Dance;Beng Studio Pole Dance Sokolska;Katowice;Sokolska 31, 40-284 Katowice;Nova Beng! (33 m);+48 600 952 198;tak;http://www.novabeng.pl/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;CityFit Katowice Rynek;Katowice;Rynek 12, 40-003 Katowice;CityFit Katowice (8 m);+48 32 775 16 01;tak;https://cityfit.pl/kluby/katowice/;tak;tak
+istnieje w bazie;Joga / Pilates;Joga Życia Katowice;Katowice;Francuska 12, 40-015 Katowice;Joga Życia Katowice (0 m);+48 502 888 999;nie;https://jogazycia.pl/;tak;tak
+istnieje w bazie;Korty Tenisowe;Korty Tenisowe Muchowiec;Katowice;Francuska 188, 40-506 Katowice;"Ośrodek tenisowy ""Muchowiec"" (87 m)";+48 501 444 555;nie;https://kortymuchowiec.pl/;nie;nie
+istnieje w bazie;Basen / Aquapark;Kąpielisko Bugla (MOSiR Katowice);Katowice;Żeliwna 26D, 40-599 Katowice;Katowice Basen Bugla (83 m);+48 32 254 06 72;nie;https://mosir.katowice.pl/;tak;tak
+istnieje w bazie;Lodowisko;Lodowisko Jantor (MOSiR Katowice);Katowice;Nałkowskiej 11, 40-425 Katowice;Lodowisko Jantor (MOSiR Katowice) (0 m);+48 32 256 84 82;nie;https://mosir.katowice.pl/;tak;tak
+istnieje w bazie;Lodowisko;Lodowisko Satelita (Spodek);Katowice;al. Wojciecha Korfantego 35, 40-005 Katowice;Lodowisko Spodek (119 m);+48 32 479 00 50;nie;https://www.spodekkatowice.pl/;tak;tak
+istnieje w bazie;Szkoła Tańca / Pole Dance;Monross Pole Dance Academy;Katowice;gen. Zygmunta Waltera-Jankego 14, 40-612 Katowice;Monross Pole Dance Academy (0 m);+48 534 128 759;tak;https://monrossacademy.pl/;tak;tak
+istnieje w bazie;Korty Tenisowe;Ośrodek Sportowy Słowian;Katowice;1 Maja 99, 40-235 Katowice;Ośrodek Sportowy Słowian (81 m);+48 32 255 32 44;nie;https://mosir.katowice.pl/;tak;tak
+istnieje w bazie;Korty Tenisowe;Ośrodek Tenisowy MOSiR Katowice;Katowice;Szopienicka 70, 40-404 Katowice;Ośrodek Tenisowy MOSiR Katowice (71 m);+48 32 256 06 16;nie;https://mosir.katowice.pl/;tak;tak
+istnieje w bazie;Szkoła Tańca / Pole Dance;Szkoła Tańca La Clave;Katowice;Chorzowska 11, 40-121 Katowice;La Clave (24 m);+48 508 282 955;nie;https://laclave.pl/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Well Fitness Katowice Korfantego;Katowice;al. Wojciecha Korfantego 138, 40-001 Katowice;Well Fitness Katowice Korfantego (0 m);+48 532 566 524;tak;https://wellfitness.pl/silownia/katowice/korfantego;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Zdrofit Katowice Galeria Katowicka;Katowice;3 Maja 30, 40-097 Katowice;Zdrofit Katowice Galeria Katowicka (0 m);+48 532 914 921;nie;https://zdrofit.pl/kluby-fitness/katowice-galeria-katowicka/;nie;nie
+istnieje w bazie;Siłownia / Klub Fitness;Zdrofit Katowice Libero;Katowice;Tadeusza Kościuszki 229, 40-600 Katowice;Zdrofit Katowice Libero (0 m);+48 532 914 923;nie;https://zdrofit.pl/kluby-fitness/katowice-libero/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Zdrofit Katowice Silesia City Center;Katowice;Chorzowska 107, 40-101 Katowice;Zdrofit Katowice Silesia City Center (0 m);+48 532 914 922;nie;https://zdrofit.pl/kluby-fitness/katowice-silesia/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Zdrofit Katowice Supersam;Katowice;Piotra Skargi 6, 40-091 Katowice;Zdrofit Katowice Supersam (0 m);+48 532 914 920;nie;https://zdrofit.pl/kluby-fitness/katowice-supersam/;tak;tak
+istnieje w bazie;Szkoła Tańca / Pole Dance;Egurrola Dance Studio Konstancin;Konstancin-Jeziorna;Wojska Polskiego 3, 05-510 Konstancin-Jeziorna;Egurrola Dance Studio Konstancin (0 m);+48 601 520 520;nie;https://taniec.com.pl;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Eva Park Life & Spa Siłownia;Konstancin-Jeziorna;Sienkiewicza 2, 05-510 Konstancin-Jeziorna;Eva Park Life & Spa Siłownia (0 m);+48 22 484 28 88;tak;https://evapark.pl;tak;nie
+istnieje w bazie;Basen / Aquapark;Centrum Sportu i Rekreacji Pływalnia;Konstantynów Łódzki;Plac Wolności 60, 95-050 Konstantynów Łódzki;Centrum Sportu i Rekreacji Pływalnia (0 m);+48 42 211 11 88;nie;https://csir.konstantynow.pl/;tak;nie
+istnieje w bazie;Basen / Aquapark;Pływalnia Miejska Koziegłowy;Koziegłowy;ul. Piłsudskiego 3A;Pływalnia Miejska Koziegłowy (0 m);+48 61 812 73 53;nie;https://akwenczerwonak.pl;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Atlantic Squash & Fitness;Kraków;ul. Stradomska 15, 31-068 Kraków;Atlantic Squash & Fitness (49 m);+48 12 422 20 12;nie;https://atlanticklub.pl/;tak;tak
+istnieje w bazie;Basen / Aquapark;Basen AGH Kraków;Kraków;ul. Buszka 4, 30-150 Kraków;Basen AGH (2 m);+48 12 617 48 60;nie;https://basen.agh.edu.pl/;tak;tak
+istnieje w bazie;Basen / Aquapark;Basen Com-Com Zone Kozłówek;Kraków;ul. Facimiech 32, 30-657 Kraków;Com-Com Zone (15 m);+48 12 658 59 50;nie;https://comcomzone.pl/;tak;tak
+istnieje w bazie;Basen / Aquapark;Basen Com-Com Zone Nowa Huta;Kraków;ul. Ptaszyckiego 6, 31-979 Kraków;Centrum Rozwoju Com Com Zone (3 m);+48 12 682 11 20;nie;https://comcomzone.pl/;tak;nie
+istnieje w bazie;Basen / Aquapark;Basen Uniwersytetu Ekonomicznego;Kraków;ul. Rakowicka 27, 31-510 Kraków;Basen Uniwersytetu Ekonomicznego (0 m);+48 12 293 52 50;nie;https://uek.krakow.pl/;tak;tak
+istnieje w bazie;Wspinaczka / Squash;Centrum Wspinaczkowe Avatar;Kraków;ul. Sikorki 21A, 31-589 Kraków;AVATAR Centrala Ruchu (60 m);+48 12 346 11 11;nie;https://myavatar.pl/;tak;tak
+istnieje w bazie;Wspinaczka / Squash;Centrum Wspinaczkowe Forteca;Kraków;ul. Racławicka 60, 30-017 Kraków;Centrum Wspinaczkowe Forteca (2 m);+48 12 636 05 15;nie;https://cwf.org.pl/;nie;nie
+istnieje w bazie;Siłownia / Klub Fitness;CrossFit Dekerta;Kraków;ul. Dekerta 21, 30-703 Kraków;CrossFit Dekerta (0 m);+48 533 301 121;nie;https://crossfitdekerta.pl/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;CrossFit Lea;Kraków;ul. Juliusza Lea 114, 30-133 Kraków;Crossfit Lea (117 m);+48 501 234 890;nie;https://crossfitlea.pl/;tak;tak
+istnieje w bazie;Wspinaczka / Squash;Cube Baldy & Kawa;Kraków;ul. Centralna 41A, 31-586 Kraków;Cube Baldy & kawa (11 m);+48 537 345 678;nie;https://cubeboulder.pl/;nie;nie
+istnieje w bazie;Szkoła Tańca / Pole Dance;Egurrola Dance Studio Kraków;Kraków;ul. Podgórska 34, 31-536 Kraków;Egurrola Dance Studio Kraków (0 m);+48 601 515 515;nie;https://taniec.com.pl/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Energym Fitness Club;Kraków;ul. Wrocławska 53, 30-011 Kraków;Energym Fitness Club (0 m);+48 12 633 88 88;nie;https://energym.com.pl/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Fitness Platinium Aleksandry;Kraków;ul. Aleksandry 11, 30-837 Kraków;Well Fitness Aleksandry (16 m);+48 12 312 20 00;nie;https://fitnessplatinium.pl/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Fitness Platinium Bratysławska;Kraków;ul. Bratysławska 4, 31-201 Kraków;Well Fitness Bratysławska (23 m);+48 12 312 20 01;nie;https://fitnessplatinium.pl/;tak;tak
+istnieje w bazie;Joga / Pilates;Joga Centrum Kraków;Kraków;ul. Biskupia 18, 31-144 Kraków;Joga Centrum Kraków (0 m);+48 501 789 012;nie;https://jogacentrum.org/;tak;tak
+istnieje w bazie;Korty Tenisowe;KS Nadwiślan Kraków Korty Tenisowe;Kraków;ul. Koletek 20, 31-069 Kraków;Klub Sportowy Nadwiślan (54 m);+48 12 422 25 22;nie;https://ksnadwislan.pl/;nie;nie
+istnieje w bazie;Basen / Aquapark;Kryta Pływalnia Centrum Rozwoju Com-Com Zone Prokocim;Kraków;ul. Kurczaba 29, 30-868 Kraków;Centrum Rozwoju Com-Com Zone Prokocim (2 m);+48 12 658 22 30;nie;https://comcomzone.pl/;tak;tak
+istnieje w bazie;Lodowisko;Lodowisko Cracovia im. Adama Kowalskiego;Kraków;ul. Siedleckiego 7, 31-538 Kraków;Lodowisko Cracovii (1 m);+48 12 421 44 10;nie;https://cracovia.pl/;tak;tak
+istnieje w bazie;Lodowisko;Lodowisko przed Galerią Krakowską;Kraków;ul. Pawia 5, 31-154 Kraków;Lodowisko przed Galerią Krakowską (0 m);+48 12 628 71 00;nie;https://galeriakrakowska.pl/;tak;tak
+istnieje w bazie;Lodowisko;Lodowisko przy NCK Nowa Huta;Kraków;al. Jana Pawła II 232, 31-913 Kraków;Lodowisko przy NCK Nowa Huta (0 m);+48 12 644 02 66;tak;https://nck.krakow.pl/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;My Fitness Place Atut Ruczaj;Kraków;ul. Bunscha 19, 30-392 Kraków;My Fitness Place Atut Ruczaj (0 m);+48 12 312 21 01;nie;https://myfitnessplace.pl/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;My Fitness Place Szlak;Kraków;ul. Szlak 77, 31-153 Kraków;My Fitness Place Szlak (0 m);+48 12 312 21 05;nie;https://myfitnessplace.pl/;tak;tak
+istnieje w bazie;Basen / Aquapark;Ośrodek Sportu i Rekreacji Kolna;Kraków;ul. Kolna 2, 30-381 Kraków;"Ośrodek Sportu i Rekreacji ""Kolna"" (1 m)";+48 12 259 35 40;nie;https://kolna.pl/;tak;tak
+istnieje w bazie;Basen / Aquapark;Park Wodny w Krakowie;Kraków;ul. Dobrego Pasterza 126, 31-416 Kraków;Park Wodny w Krakowie (0 m);+48 12 616 31 90;tak;https://www.parkwodny.pl/;tak;tak
+istnieje w bazie;Basen / Aquapark;Pływalnia Kryta KS Korona;Kraków;ul. Kalwaryjska 9-15, 30-504 Kraków;KS Korona (32 m);+48 12 656 15 11;nie;https://korona.krakow.pl/;tak;tak
+istnieje w bazie;Wspinaczka / Squash;Squash4You Północ;Kraków;ul. Nad Strugą 7, 31-408 Kraków;Squash4You Północ (11 m);+48 12 411 12 12;nie;https://squash4you.pl/;tak;tak
+istnieje w bazie;Basen / Aquapark;Termy Krakowskie Błonia;Kraków;al. 3 Maja 51, 30-062 Kraków;Termy Krakowskie Błonia (0 m);+48 12 422 23 11;nie;https://termykrakowskie.pl/;tak;tak
+istnieje w bazie;Korty Tenisowe;WKS Wawel Korty Tenisowe;Kraków;ul. Podchorążych 3, 30-084 Kraków;WKS Wawel Korty Tenisowe (0 m);+48 12 637 11 22;nie;https://wkswawel.pl/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Zdrofit Kraków Galeria Krakowska;Kraków;ul. Pawia 5, 31-154 Kraków;Lodowisko przed Galerią Krakowską (0 m);+48 532 915 200;nie;https://zdrofit.pl/;tak;tak
+istnieje w bazie;Basen / Aquapark;Pływalnia Oaza Kórnik;Kórnik;ul. Krasickiego 1;Pływalnia Oaza Kórnik (0 m);+48 61 817 09 40;nie;https://oaza.kornik.pl;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Well Fitness Marki M1;Marki;al. Marszałka Józefa Piłsudskiego 1, 05-270 Marki;Well Fitness Marki M1 (0 m);+48 784 497 260;nie;https://wellfitness.pl;tak;tak
+istnieje w bazie;Lodowisko;Lodowisko Miejskie w Pabianicach;Pabianice;Grota-Roweckiego 3, 95-200 Pabianice;Lodowisko Miejskie w Pabianicach (0 m);+48 42 215 44 11;nie;https://mosir.pabianice.pl/;tak;tak
+istnieje w bazie;Basen / Aquapark;Miejski Ośrodek Sportu i Rekreacji Pływalnia;Pabianice;Grota-Roweckiego 3, 95-200 Pabianice;Miejski Ośrodek Sportu i Rekreacji Pływalnia (0 m);+48 42 215 44 11;nie;https://mosir.pabianice.pl/;tak;tak
+istnieje w bazie;Korty Tenisowe;AZS Poznań Korty Tenisowe;Poznań;ul. Noskowskiego 25;AZS Poznań (5 m);+48 61 852 09 61;nie;https://azs.poznan.pl;tak;tak
+istnieje w bazie;Basen / Aquapark;Basen Uniwersytecki UAM;Poznań;ul. Strażewicza 21;Pływalnia Uniwersytecka (2 m);+48 61 829 64 10;nie;https://swfis.amu.edu.pl;tak;nie
+istnieje w bazie;Siłownia / Klub Fitness;CityFit Poznań Pestka;Poznań;Al. Solidarności 47;CityFit Poznań Pestka (0 m);+48 61 624 27 00;nie;https://cityfit.pl;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Fabryka Formy Poznań Bałtyk;Poznań;ul. Franklina Roosevelta 22;Fabryka Formy Poznań Bałtyk (0 m);+48 61 628 69 00;nie;https://fabryka-formy.pl;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Fabryka Formy Poznań Galeria Pestka;Poznań;Al. Solidarności 47;CityFit Poznań Pestka (0 m);+48 61 628 69 20;nie;https://fabryka-formy.pl;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Fabryka Formy Poznań Green Point;Poznań;ul. Hetmańska 91;Fabryka Formy (47 m);+48 61 628 69 60;nie;https://fabryka-formy.pl;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Fabryka Formy Poznań Kinepolis;Poznań;ul. Bolesława Krzywoustego 72;Fabryka Formy (27 m);+48 61 628 69 70;nie;https://fabryka-formy.pl;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Fabryka Formy Poznań King Cross Marcelin;Poznań;ul. Bukowska 156;Fabryka Formy Poznań King Cross Marcelin (0 m);+48 61 628 69 30;nie;https://fabryka-formy.pl;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Fabryka Formy Poznań Posnania;Poznań;ul. Pleszewska 1;Fabryka Formy Poznań Posnania (0 m);+48 61 628 69 10;nie;https://fabryka-formy.pl;tak;tak
+istnieje w bazie;Wspinaczka / Squash;FairPlayce Park Rekreacyjno-Sportowy;Poznań;ul. Bożydara 10;"Park rekreacyjno-sportowy ""FairPlayce"" (24 m)";+48 61 628 60 00;nie;https://fairplayce.pl;tak;tak
+istnieje w bazie;Korty Tenisowe;Korty Tenisowe Rataje;Poznań;os. Piastowskie 106A;Ośrodek Przywodny Rataje (31 m);+48 61 877 20 30;nie;https://kortyrataje.pl;nie;nie
+istnieje w bazie;Lodowisko;Lodowisko Chwiałka POSiR;Poznań;ul. Jana Spychalskiego 34;Pływalnia Miejska Chwiałka POSiR (0 m);+48 61 833 05 11;nie;https://posir.poznan.pl;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Niku Fitness;Poznań;ul. Piątkowska 200;Niku Fitness (0 m);+48 61 840 15 15;nie;https://niku.pl;tak;nie
+istnieje w bazie;Korty Tenisowe;Park Tenisowy Olimpia;Poznań;ul. Warmińska 1;Park Tenisowy Olimpia (13 m);+48 61 847 36 16;nie;https://parktenisowy.pl;tak;tak
+istnieje w bazie;Basen / Aquapark;Pływalnia Miejska Atlantis POSiR;Poznań;os. Stefana Batorego 101;Pływalnia Miejska Atlantis POSiR (0 m);+48 61 821 71 21;nie;https://posir.poznan.pl;tak;tak
+istnieje w bazie;Basen / Aquapark;Pływalnia Miejska Chwiałka POSiR;Poznań;ul. Jana Spychalskiego 34;Pływalnia Miejska Chwiałka POSiR (0 m);+48 61 833 05 11;nie;https://posir.poznan.pl;tak;tak
+istnieje w bazie;Basen / Aquapark;Pływalnia Miejska Rataje POSiR;Poznań;os. Piastowskie 55A;Basen Rataje (3 m);+48 61 877 12 31;nie;https://posir.poznan.pl;tak;tak
+istnieje w bazie;Basen / Aquapark;Pływalnia Miejska Winogrady POSiR;Poznań;os. Zwycięstwa 124;Pływalnia Miejska POSiR Winogrady (6 m);+48 61 646 01 40;nie;https://posir.poznan.pl;tak;tak
+istnieje w bazie;Basen / Aquapark;Pływalnia Politechniki Poznańskiej;Poznań;ul. Piotrowo 4;Klub Uczelniany AZS Politechniki Poznańskiej (25 m);+48 61 665 28 15;nie;https://put.poznan.pl;tak;tak
+istnieje w bazie;Basen / Aquapark;Termy Maltańskie;Poznań;ul. Termalna 1;Termy Maltańskie (0 m);+48 61 222 61 61;nie;https://termymaltanskie.com.pl;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Well Fitness Poznań Grunwald;Poznań;ul. Grunwaldzka 104;Well Fitness Poznań Grunwald (0 m);+48 784 497 252;nie;https://wellfitness.pl;tak;tak
+istnieje w bazie;Basen / Aquapark;Pływalnia CKiS Pruszcz Gdański;Pruszcz Gdański;Chopina 34, 83-000 Pruszcz Gdański;Pływalnia CKiS Pruszcz Gdański (0 m);+48 58 682 32 46;nie;https://ckis-pruszcz.pl/;tak;tak
+istnieje w bazie;Basen / Aquapark;Pływalnia Kapry Pruszków;Pruszków;Andrzeja 3, 05-800 Pruszków;Pływalnia Kapry Pruszków (0 m);+48 22 728 19 88;nie;https://kapry.pl;nie;nie
+istnieje w bazie;Siłownia / Klub Fitness;Zdrofit Pruszków;Pruszków;Sienkiewicza 19, 05-800 Pruszków;Zdrofit Pruszków (0 m);+48 22 444 77 21;nie;https://zdrofit.pl;tak;tak
+istnieje w bazie;Basen / Aquapark;Aquapark Reda;Reda;Morska 5, 84-240 Reda;Aquapark Reda (0 m);+48 58 382 35 00;tak;https://aquaparkreda.pl/;tak;tak
+istnieje w bazie;Basen / Aquapark;Aquadrom Ruda Śląska;Ruda Śląska;Kłodnicka 95A, 41-706 Ruda Śląska;SmartGym Aquadrom (31 m);+48 32 797 36 00;nie;https://aquadrom.pl/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Xtreme Fitness Ruda Śląska;Ruda Śląska;1 Maja 310, 41-710 Ruda Śląska;Zdrofit Ruda Śląska Plaza (0 m);+48 530 112 240;nie;https://xtremefitness.pl/ruda-slaska;nie;nie
+istnieje w bazie;Siłownia / Klub Fitness;Zdrofit Ruda Śląska Plaza;Ruda Śląska;1 Maja 310, 41-710 Ruda Śląska;Zdrofit Ruda Śląska Plaza (0 m);+48 532 914 960;nie;https://zdrofit.pl/kluby-fitness/ruda-slaska/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;CityGYM Rumia;Rumia;Starowiejska 9, 84-230 Rumia;CityGYM (13 m);+48 882 607 733;tak;https://www.citygym.pl/rumia;tak;tak
+istnieje w bazie;Basen / Aquapark;Pływalnia MOSiR Rumia;Rumia;Rodziewiczówny 8, 84-230 Rumia;MOSiR Pływalnia (6 m);+48 58 671 01 23;nie;https://mosir.rumia.pl/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Well Fitness Rumia Janowo;Rumia;Dębogórska 132, 84-230 Rumia;Well Fitness Rumia Janowo (0 m);+48 607 880 059;tak;https://wellfitness.pl/silownia/rumia;tak;tak
+istnieje w bazie;Basen / Aquapark;Basen Camena Skawina;Skawina;ul. Żwirki i Wigury 11, 32-050 Skawina;Basen Camena Skawina (0 m);+48 12 276 40 56;nie;https://ckis.pl/;tak;tak
+istnieje w bazie;Basen / Aquapark;Aquapark Sopot;Sopot;Zamkowa Góra 5, 81-713 Sopot;Aquapark Sopot (0 m);+48 58 555 85 23;tak;https://aquaparksopot.pl/;tak;tak
+istnieje w bazie;Joga / Pilates;Morze Jogi Studio Sopot;Sopot;Bohaterów Monte Cassino 25, 81-759 Sopot;Morze Jogi Studio Sopot (0 m);+48 789 735 515;tak;https://studiomorzejogi.pl/;tak;tak
+istnieje w bazie;Basen / Aquapark;Pływalnia Kryta MOSiR Sopot;Sopot;Haffnera 57, 81-715 Sopot;Pływalnia Kryta MOSiR Sopot (0 m);+48 58 551 00 84;nie;https://mosir.sopot.pl/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Zdrofit Sopot Centrum;Sopot;Dworcowa 7, 81-704 Sopot;Zdrofit (38 m);+48 531 492 190;tak;https://zdrofit.pl/kluby-fitness/sopot-centrum/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Zdrofit Sopot Sikorskiego;Sopot;Sikorskiego 8, 81-824 Sopot;Zdrofit Sopot Sikorskiego (0 m);+48 888 378 649;tak;https://zdrofit.pl/kluby-fitness/sopot-sikorskiego/;tak;tak
+istnieje w bazie;Wspinaczka / Squash;Factory Squash & Fitness Sosnowiec;Sosnowiec;Braci Mieroszewskich 122, 41-219 Sosnowiec;Factory Squash & Fitness Sosnowiec (0 m);+48 32 718 08 08;tak;https://squashfactory.pl/;tak;tak
+istnieje w bazie;Basen / Aquapark;Klimontowskie Centrum Aktywności Rodzinnej;Sosnowiec;Hubala-Dobrzańskiego 99, 41-218 Sosnowiec;Klimontowskie Centrum Aktywności Rodzinnej (0 m);+48 32 269 41 11;nie;https://mosir.sosnowiec.pl/;tak;nie
+istnieje w bazie;Korty Tenisowe;Korty Tenisowe MOSiR Sosnowiec;Sosnowiec;al. Mireckiego 31, 41-200 Sosnowiec;Korty Tenisowe MOSiR Sosnowiec (0 m);+48 32 266 34 26;nie;https://mosir.sosnowiec.pl/;tak;tak
+istnieje w bazie;Lodowisko;Stadion Zimowy w Sosnowcu;Sosnowiec;Zamkowa 4, 41-200 Sosnowiec;Stadion Zimowy w Sosnowcu (0 m);+48 32 266 61 00;nie;https://mosir.sosnowiec.pl/;tak;nie
+istnieje w bazie;Siłownia / Klub Fitness;Well Fitness Sosnowiec Teatralna;Sosnowiec;Teatralna 11, 41-200 Sosnowiec;Well Fitness Sosnowiec Teatralna (0 m);+48 883 335 443;tak;https://wellfitness.pl/silownia/sosnowiec/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Zdrofit Sosnowiec Sezam;Sosnowiec;3 Maja 14, 41-200 Sosnowiec;Zdrofit Sosnowiec Sezam (0 m);+48 532 771 589;tak;https://zdrofit.pl/kluby-fitness/sosnowiec-sezam/;tak;tak
+istnieje w bazie;Wspinaczka / Squash;Ściana wspinaczkowa Poziom 450;Sosnowiec;Gabriela Narutowicza 51, 41-200 Sosnowiec;Sport Poziom 450 (6 m);+48 32 720 45 00;nie;https://poziom450.pl/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Fabryka Formy Suchy Las;Suchy Las;ul. Obornicka 85;Fabryka Formy Suchy Las (0 m);+48 61 628 69 80;nie;https://fabryka-formy.pl;tak;tak
+istnieje w bazie;Basen / Aquapark;Park Wodny Octopus Suchy Las;Suchy Las;ul. Szkolna 18;Park Wodny Octopus Suchy Las (0 m);+48 61 250 04 30;nie;https://parkwodnyoctopus.pl;nie;nie
+istnieje w bazie;Basen / Aquapark;Pływalnia Wodny Raj Swarzędz;Swarzędz;ul. Kosynierów 1;Pływalnia Wodny Raj Swarzędz (0 m);+48 61 650 95 20;tak;https://scsir.swarzedz.pl;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Shausha Sport Club;Szałsza;Sosnowa 2, 42-677 Szałsza;Shausha Sport Club (45 m);+48 32 321 01 44;tak;http://shausha.pl/;tak;tak
+istnieje w bazie;Lodowisko;Lodowisko Misiałek Tarnowo Podgórne;Tarnowo Podgórne;ul. Nowa 54;Lodowisko Misiałek Tarnowo Podgórne (0 m);+48 61 895 92 80;nie;https://tarnowskie-termy.pl;tak;nie
+istnieje w bazie;Basen / Aquapark;Tarnowskie Termy;Tarnowo Podgórne;ul. Nowa 54;Tarnowskie Termy (0 m);+48 61 895 92 80;nie;https://tarnowskie-termy.pl;tak;tak
+istnieje w bazie;Wspinaczka / Squash;Centrum Wspinaczkowe KLIF;Tarnowskie Góry;Obwodnica 8, 42-600 Tarnowskie Góry;Centrum Wspinaczkowe KLIF (0 m);+48 32 393 39 31;nie;https://parkwodny.com.pl/;tak;tak
+istnieje w bazie;Basen / Aquapark;Park Wodny Tarnowskie Góry;Tarnowskie Góry;Obwodnica 8, 42-600 Tarnowskie Góry;Park Wodny Tarnowskie Góry (0 m);+48 32 393 39 31;nie;https://parkwodny.com.pl/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;TG GYM PARK (Park Wodny);Tarnowskie Góry;Obwodnica 8, 42-600 Tarnowskie Góry;TG GYM PARK (Park Wodny) (0 m);+48 32 393 39 31;nie;https://parkwodny.com.pl/;tak;tak
+istnieje w bazie;Lodowisko;Stadion Zimowy w Tychach;Tychy;gen. Charlesa de Gaulle'a 2, 43-100 Tychy;Stadion Zimowy (3 m);+48 32 227 20 86;nie;https://mosir.tychy.pl/;tak;tak
+istnieje w bazie;Basen / Aquapark;Wodny Park Tychy;Tychy;gen. Władysława Sikorskiego 20, 43-100 Tychy;Wodny Park Tychy (0 m);+48 32 700 78 00;nie;https://www.wodnypark.tychy.pl/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Zdrofit Tychy Gemini Park;Tychy;Towarowa 2C, 43-100 Tychy;Zdrofit Tychy Gemini Park (0 m);+48 532 914 955;nie;https://zdrofit.pl/kluby-fitness/tychy-gemini/;nie;nie
+istnieje w bazie;Klub Sztuk Walki;Academia Gorila Śródmieście;Warszawa;Kopernika 36/40, 00-924 Warszawa;Akademia Gorila (0 m);+48 509 444 333;nie;https://academiagorila.pl;nie;nie
+istnieje w bazie;Siłownia / Klub Fitness;Artis Wellness Club;Warszawa;Klimczaka 1, 02-797 Warszawa;Artis (22 m);+48 22 651 66 99;nie;https://artisclub.pl;tak;tak
+istnieje w bazie;Joga / Pilates;Astanga Yoga Studio;Warszawa;Gałczyńskiego 4, 00-362 Warszawa;Astanga (5 m);+48 501 234 567;nie;https://astanga.pl;tak;tak
+istnieje w bazie;Studio EMS;BodyTec20 Warszawa Wilanów;Warszawa;Sarmacka 18, 02-972 Warszawa;BodyTec20 Warszawa Wilanów (0 m);+48 500 202 020;tak;https://bodytec20.pl;tak;tak
+istnieje w bazie;Wspinaczka / Squash;Centrum Wspinaczkowe Murall Annopol;Warszawa;Annopol 3, 03-236 Warszawa;Murall Centrum Wspinaczkowe (122 m);+48 22 400 50 60;nie;https://murall.pl;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;CityFit Warszawa Reduta;Warszawa;Al. Jerozolimskie 148, 02-326 Warszawa;CityFit (114 m);+48 22 113 90 14;nie;https://cityfit.pl;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;CityFit Warszawa Targówek;Warszawa;Głębocka 13, 03-287 Warszawa;CityFit (125 m);+48 22 113 90 11;nie;https://cityfit.pl;tak;tak
+istnieje w bazie;Wspinaczka / Squash;Crux Boulder;Warszawa;Hoża 51, 00-681 Warszawa;Crux Boulder (79 m);+48 535 123 456;nie;https://crux.boulder.pl;tak;tak
+istnieje w bazie;Szkoła Tańca / Pole Dance;Egurrola Dance Studio Blue City;Warszawa;Al. Jerozolimskie 179, 02-222 Warszawa;Egurrola Dance Studio Blue City (0 m);+48 601 515 515;nie;https://taniec.com.pl;tak;tak
+istnieje w bazie;Szkoła Tańca / Pole Dance;Egurrola Dance Studio Galeria Północna;Warszawa;Światowida 17, 03-144 Warszawa;Egurrola Dance Studio (117 m);+48 601 530 530;nie;https://taniec.com.pl;tak;tak
+istnieje w bazie;Szkoła Tańca / Pole Dance;Egurrola Dance Studio Śródmieście;Warszawa;Al. Jerozolimskie 91, 02-001 Warszawa;Egurrola Dance Studio (1 m);+48 601 20 20 20;tak;https://taniec.com.pl;tak;tak
+istnieje w bazie;Korty Tenisowe;Korty Tenisowe Warszawianka;Warszawa;Merliniego 9, 02-511 Warszawa;Centrum Warszawianka (20 m);+48 22 844 00 41;nie;https://kortywarszawianka.pl;nie;nie
+istnieje w bazie;Lodowisko;Lodowisko COS Torwar II;Warszawa;Łazienkowska 6A, 00-449 Warszawa;Torwar (6 m);+48 22 529 87 20;nie;https://torwar.cos.pl;tak;tak
+istnieje w bazie;Lodowisko;Lodowisko Figlowisko Ursynów;Warszawa;al. Komisji Edukacji Narodowej 60, 02-777 Warszawa;Figlowisko (99 m);+48 22 648 00 00;nie;https://figlowisko.pl;tak;tak
+istnieje w bazie;Lodowisko;Lodowisko OSiR Targówek;Warszawa;Łabiszyńska 20A, 03-397 Warszawa;OSiR Targówek (113 m);+48 22 463 84 40;nie;https://osirtargowek.waw.pl;tak;tak
+istnieje w bazie;Klub Sztuk Walki;Nastula Club;Warszawa;Ogólna 9, 01-705 Warszawa;Nastula Club (2 m);+48 22 663 05 00;nie;https://nastula.pl;tak;tak
+istnieje w bazie;Basen / Aquapark;Ośrodek Grzybowska Aktywna Warszawa;Warszawa;Grzybowska 35A, 00-855 Warszawa;Ośrodek Sportowy Grzybowska (14 m);+48 22 620 42 54;nie;https://aktywnawarszawa.waw.pl;tak;tak
+istnieje w bazie;Basen / Aquapark;Ośrodek Inflancka Aktywna Warszawa;Warszawa;Inflancka 8, 00-189 Warszawa;Ośrodek sportowy Inflancka (4 m);+48 22 831 92 29;nie;https://aktywnawarszawa.waw.pl;tak;tak
+istnieje w bazie;Basen / Aquapark;Ośrodek Namysłowska Aktywna Warszawa;Warszawa;Namysłowska 8, 03-454 Warszawa;Ośrodek Namysłowska Aktywna Warszawa (0 m);+48 22 619 37 22;nie;https://aktywnawarszawa.waw.pl;tak;tak
+istnieje w bazie;Korty Tenisowe;Ośrodek Solec Aktywna Warszawa;Warszawa;Solec 71, 00-403 Warszawa;Ośrodek sportowy Solec (72 m);+48 22 628 53 30;nie;https://aktywnawarszawa.waw.pl;tak;tak
+istnieje w bazie;Basen / Aquapark;Park Wodny Warszawianka;Warszawa;Merliniego 4, 02-511 Warszawa;Park Wodny Warszawianka (0 m);+48 22 854 01 30;tak;https://wodnypark.com.pl;tak;tak
+istnieje w bazie;Basen / Aquapark;Pływalnia Delfin OSiR Wola;Warszawa;Kasprzaka 1/3, 01-211 Warszawa;"Pływalnia ""Delfin"" (51 m)";+48 22 631 28 31;nie;https://osirwola.pl;nie;nie
+istnieje w bazie;Basen / Aquapark;Pływalnia Foka OSiR Wola;Warszawa;Esperanto 5, 01-049 Warszawa;Pływalnia Foka (59 m);+48 22 838 20 83;nie;https://osirwola.pl;nie;nie
+istnieje w bazie;Basen / Aquapark;Pływalnia Polonez OSiR Targówek;Warszawa;Łabiszyńska 20, 03-397 Warszawa;OSiR Targówek (108 m);+48 22 462 65 80;nie;https://osirtargowek.waw.pl;tak;tak
+istnieje w bazie;Basen / Aquapark;Pływalnia Wodnik OSiR Praga-Południe;Warszawa;Abrahama 10, 03-982 Warszawa;"Ośrodek Sportu i Rekreacji ""Wodnik"" (92 m)";+48 22 673 82 00;nie;https://osir.waw.pl;tak;tak
+istnieje w bazie;Szkoła Tańca / Pole Dance;Salsa Libre;Warszawa;Żelazna 59, 00-848 Warszawa;Salsa Libre (25 m);+48 22 403 83 38;nie;https://salsalibre.pl;tak;tak
+istnieje w bazie;Korty Tenisowe;Silva Sport Korty Tenisowe;Warszawa;Puławska 531, 02-844 Warszawa;Silva Sport (107 m);+48 22 644 99 00;nie;https://silvasport.pl;tak;tak
+istnieje w bazie;Wspinaczka / Squash;Squash City Ochota;Warszawa;Al. Jerozolimskie 179, 02-222 Warszawa;Squash City Ochota (0 m);+48 22 311 71 71;nie;https://squashcity.pl;tak;tak
+istnieje w bazie;Szkoła Tańca / Pole Dance;Studio Tańca Riviera;Warszawa;Waryńskiego 12, 00-631 Warszawa;Riviera (18 m);+48 22 234 98 98;tak;https://taniec.net;tak;tak
+istnieje w bazie;Lodowisko;Tor Łyżwiarski Stegny Aktywna Warszawa;Warszawa;Inspektowa 1, 02-711 Warszawa;Ośrodek Sportowy Stegny (56 m);+48 22 842 27 68;nie;https://aktywnawarszawa.waw.pl;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Total Fitness Warszawa Wilanów;Warszawa;Al. Rzeczypospolitej 14, 02-972 Warszawa;Total Fitness Warszawa Wilanów (0 m);+48 22 111 00 44;nie;https://totalfitness.com.pl;tak;tak
+istnieje w bazie;Basen / Aquapark;UCSiR Pływalnia Aqua Relaks;Warszawa;Wilczy Dół 4, 02-798 Warszawa;Aqua Relaks (57 m);+48 22 648 73 61;nie;https://ucsir.pl;tak;tak
+istnieje w bazie;Basen / Aquapark;UCSiR Pływalnia Hirszfelda;Warszawa;Hirszfelda 11, 02-776 Warszawa;"Pływalnia ""Hirszfelda"" (68 m)";+48 22 641 25 11;nie;https://ucsir.pl;tak;tak
+istnieje w bazie;Korty Tenisowe;WTS DeSki;Warszawa;Zaruskiego 8, 00-468 Warszawa;DeSki (42 m);+48 22 628 48 67;nie;https://deski.org;tak;tak
+istnieje w bazie;Korty Tenisowe;Warszawski Klub Tenisowy MERA;Warszawa;al. Bohaterów Września 12, 02-389 Warszawa;Warszawski Klub Tenisowy Mera (131 m);+48 22 822 93 82;tak;https://wkt-mera.pl;tak;tak
+istnieje w bazie;Joga / Pilates;Yoga Republic;Warszawa;Pl. Zbawiciela / Mokotowska 12, 00-561 Warszawa;Yoga Republic (0 m);+48 500 888 999;nie;https://yogarepublic.pl;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Zdrofit Warszawa Białołęka Galeria Północna;Warszawa;Światowida 17, 03-144 Warszawa;Zdrofit (103 m);+48 22 444 77 09;nie;https://zdrofit.pl;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Zdrofit Warszawa Centrum Krucza;Warszawa;Krucza 50, 00-025 Warszawa;Zdrofit (47 m);+48 22 444 77 00;nie;https://zdrofit.pl;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Zdrofit Warszawa Dworzec Gdański;Warszawa;Inflancka 4B, 00-189 Warszawa;Zdrofit (52 m);+48 22 444 77 01;nie;https://zdrofit.pl;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Zdrofit Warszawa Galeria Mokotów;Warszawa;Wołoska 12, 02-675 Warszawa;Zdrofit Warszawa Galeria Mokotów (0 m);+48 22 444 77 03;nie;https://zdrofit.pl;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Zdrofit Warszawa Mokotów Konstruktorska;Warszawa;Konstruktorska 13, 02-673 Warszawa;Zdrofit (75 m);+48 22 444 77 02;nie;https://zdrofit.pl;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Zdrofit Warszawa Ochota Blue City;Warszawa;Al. Jerozolimskie 179, 02-222 Warszawa;Squash City Ochota (0 m);+48 22 444 77 13;nie;https://zdrofit.pl;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Zdrofit Warszawa Praga Koneser;Warszawa;plac Konesera 8, 03-736 Warszawa;Zdrofit (83 m);+48 22 444 77 12;nie;https://zdrofit.pl;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Zdrofit Warszawa Targówek Atrium;Warszawa;Głębocka 15, 03-287 Warszawa;Zdrofit (69 m);+48 22 444 77 10;nie;https://zdrofit.pl;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Zdrofit Warszawa Westfield Arkadia;Warszawa;al. Jana Pawła II 82, 00-175 Warszawa;Zdrofit Warszawa Westfield Arkadia (0 m);+48 22 444 77 04;nie;https://zdrofit.pl;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Zdrofit Warszawa Wola Warsaw Spire;Warszawa;plac Europejski 1, 00-844 Warszawa;Zdrofit (24 m);+48 22 444 77 06;nie;https://zdrofit.pl;tak;tak
+istnieje w bazie;Szkoła Tańca / Pole Dance;abra Studio;Warszawa;Długa 44/50, 00-241 Warszawa;Abra Studio (72 m);+48 502 456 789;nie;https://abra-studio.pl;tak;tak
+istnieje w bazie;Basen / Aquapark;Solne Miasto Pływalnia;Wieliczka;ul. Tadeusza Kościuszki 15, 32-020 Wieliczka;Solne Miasto Siłownia (0 m);+48 12 297 39 59;nie;https://solnemiasto.eu/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Solne Miasto Siłownia;Wieliczka;ul. Tadeusza Kościuszki 15, 32-020 Wieliczka;Solne Miasto Siłownia (0 m);+48 12 297 39 59;nie;https://solnemiasto.eu/;tak;tak
+istnieje w bazie;Szkoła Tańca / Pole Dance;Akademia Ruchu Wrocław;Wrocław;Ruska 47/48A, 50-079 Wrocław;Shakti Shala Akademia Ruchu (44 m);+48 71 341 82 15;nie;https://akademiaruchu.wroc.pl/;nie;nie
+istnieje w bazie;Klub Sztuk Walki;Akademia Sztuk Walki;Wrocław;Powstańców Śląskich 159, 53-138 Wrocław;Akademia Sztuk Walki (0 m);+48 791 173 103;tak;http://www.asw.wroclaw.pl/;tak;tak
+istnieje w bazie;Basen / Aquapark;Aquapark Wrocław Borowska;Wrocław;Borowska 99, 50-558 Wrocław;Aquapark Wrocław Borowska (0 m);+48 71 771 15 11;tak;https://aquapark.wroc.pl/;tak;tak
+istnieje w bazie;Basen / Aquapark;Aquapark Wrocław Brochów;Wrocław;Polna 10, 52-116 Wrocław;Aquapark Wrocław Brochów (0 m);+48 71 771 15 11;tak;https://aquapark.wroc.pl/;tak;tak
+istnieje w bazie;Wspinaczka / Squash;Boulderownia Flow;Wrocław;Robotnicza 72, 53-608 Wrocław;Flow Robotnicza – ścianka wspinaczkowa (73 m);+48 537 890 123;nie;https://flowboulder.pl/;nie;nie
+istnieje w bazie;Korty Tenisowe;Centrum Tenisowe Redeco;Wrocław;al. Generała Józefa Hallera 81A, 53-325 Wrocław;Centrum Tenisowe Redeco (29 m);+48 71 338 09 73;tak;https://redeco.pl/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;CityFit Wrocław Stare Miasto;Wrocław;Szewska 3A, 50-053 Wrocław;CityFit (33 m);+48 71 780 53 31;tak;https://cityfit.pl/kluby/wroclaw-stare-miasto/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;CityFit Wrocław Wroclavia;Wrocław;Sucha 1, 50-086 Wrocław;CityFit (101 m);+48 71 748 34 41;tak;https://cityfit.pl/kluby/wroclaw-wroclavia/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;CrossGym Psie Pole;Wrocław;Kiełczowska 177, 51-315 Wrocław;CrossGym (0 m);+48 575 768 400;tak;http://www.crossgym.pl/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;FIT30 Studio Krzyki;Wrocław;Skarbowców 102, 53-025 Wrocław;FIT30 Studio Krzyki (0 m);+48 510 990 950;tak;http://www.fit30studio.pl/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;FIT30 Studio Śródmieście;Wrocław;Szczytnicka 9, 50-382 Wrocław;FIT30 Studio Śródmieście (0 m);+48 510 990 951;nie;http://www.fit30studio.pl/;tak;tak
+istnieje w bazie;Joga / Pilates;Fabryka Energii Centrum Jogi;Wrocław;Plac Wolności 7, 50-071 Wrocław;Fabryka Energii (18 m);+48 505 845 545;tak;https://fabrykaenergii.pl/;tak;tak
+istnieje w bazie;Klub Sztuk Walki;Fight Club Champion Wrocław;Wrocław;Tęczowa 57, 53-601 Wrocław;Fight Club Champion Wrocław (0 m);+48 798 336 840;tak;https://fightclubchampion.pl/;tak;tak
+istnieje w bazie;Korty Tenisowe;FitTenis - Korty Tenisowe Wrocław;Wrocław;Macedońska 11, 51-113 Wrocław;Fittenis (67 m);+48 535 535 351;tak;http://www.teniswroclaw.com.pl/;tak;tak
+istnieje w bazie;Studio EMS;Forma4Life Studio Treningu Personalnego EMS;Wrocław;Bartłomieja Strachowskiego 36, 52-210 Wrocław;Forma4Life Studio Treningu Personalnego EMS (0 m);+48 513 042 613;tak;https://forma4.life/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Gympoint.pl (dla kobiet);Wrocław;Adama Mickiewicza 65, 51-684 Wrocław;Gympoint.pl (dla kobiet) (0 m);+48 607 638 131;tak;http://www.gympoint.pl/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Hasta La Vista (Siłownia & Squash);Wrocław;Góralska 5, 53-610 Wrocław;Hasta La Vista (19 m);+48 71 750 01 11;nie;https://hastalavista.pl/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Innovation Gym;Wrocław;al. Śląska 1, 54-118 Wrocław;Innovation Gym (0 m);+48 885 554 733;nie;https://innovationgym.pl/;tak;tak
+istnieje w bazie;Joga / Pilates;Joga Centrum Wrocław;Wrocław;Biskupia 10A, 50-148 Wrocław;Joga Centrum Wrocław (0 m);+48 609 456 789;nie;https://jogacentrum.org/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Just GYM Wrocław Kazimierza Wielkiego;Wrocław;Kazimierza Wielkiego 19, 50-077 Wrocław;Just GYM Wrocław Kazimierza Wielkiego (0 m);+48 730 850 621;nie;https://justgym.pl/silownie/wroclaw/kazimierza-wielkiego;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Just GYM Wrocław Legnicka;Wrocław;Legnicka 60B, 54-204 Wrocław;Just GYM Wrocław Legnicka (0 m);+48 730 850 622;nie;https://justgym.pl/silownie/wroclaw/legnicka;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Just GYM Wrocław Sienkiewicza;Wrocław;Henryka Sienkiewicza 22, 50-335 Wrocław;Just Gym (46 m);+48 730 850 620;tak;https://justgym.pl/silownie/wroclaw/sienkiewicza;tak;tak
+istnieje w bazie;Korty Tenisowe;KRZYCKA PARK - Szkoła tenisa, korty tenisowe;Wrocław;Powstańców Śląskich 211A, 53-020 Wrocław;KRZYCKA PARK - Szkoła tenisa, korty tenisowe (0 m);+48 533 299 333;tak;http://www.krzyckapark.pl/;nie;nie
+istnieje w bazie;Siłownia / Klub Fitness;KS Gym & Fight;Wrocław;Ruska 47/48, 50-079 Wrocław;KS Gym & Fight (0 m);+48 509 735 555;nie;https://gymfight.pl/;tak;tak
+istnieje w bazie;Klub Sztuk Walki;Klub Sportów Walki Kame Gym Wrocław;Wrocław;Nyska 61A, 50-505 Wrocław;Klub Sportów Walki Kame Gym Wrocław (23 m);+48 784 491 830;tak;https://kamegym.pl/;tak;tak
+istnieje w bazie;Korty Tenisowe;Korty Tenisowe Krajewskiego (WCT Spartan);Wrocław;Krajewskiego 1, 51-689 Wrocław;WCT Spartan (106 m);+48 71 348 25 60;nie;https://spartan.wroc.pl/;tak;tak
+istnieje w bazie;Korty Tenisowe;Korty Tenisowe Pułtuską (WCT Spartan);Wrocław;Pułtuska 13, 53-116 Wrocław;Korty Tenisowe (5 m);+48 71 367 16 14;nie;https://spartan.wroc.pl/;tak;tak
+istnieje w bazie;Korty Tenisowe;Korty i hala TENISOWA Spiska - WCT Spartan;Wrocław;Spiska 1, 50-562 Wrocław;Wrocławskie Centrum Treningowe Spartan (0 m);+48 71 367 60 07;tak;https://spartan.wroc.pl/spiska/tenis;tak;tak
+istnieje w bazie;Basen / Aquapark;Kąpielisko Glinianki;Wrocław;Kosmonautów 2, 54-130 Wrocław;Kąpielisko Glinianki (0 m);+48 71 738 82 22;nie;https://spartan.wroc.pl/;tak;tak
+istnieje w bazie;Szkoła Tańca / Pole Dance;La Rosa Negra;Wrocław;Braniborska 14, 53-680 Wrocław;La Rosa Negra (119 m);+48 533 345 111;nie;https://larosanegra.pl/;nie;nie
+istnieje w bazie;Lodowisko;Lodowisko ORBITA - WCT Spartan;Wrocław;Wejherowska 34, 54-239 Wrocław;Lodowisko Orbita (37 m);+48 71 738 82 25;tak;https://spartan.wroc.pl/halaorbita/lodowisko;tak;tak
+istnieje w bazie;Lodowisko;Lodowisko SPISKA - WCT Spartan;Wrocław;Spiska 1, 50-562 Wrocław;Wrocławskie Centrum Treningowe Spartan (0 m);+48 71 367 60 09;tak;https://spartan.wroc.pl/spiska/lodowisko;tak;tak
+istnieje w bazie;Lodowisko;Lodowisko Tarczyński Arena;Wrocław;al. Śląska 1, 54-145 Wrocław;Lodowisko Tarczyński Arena (0 m);+48 71 776 80 90;tak;https://tarczynskiarenawroclaw.pl/dla-gosci/lodowisko-tarczynski-arena/;tak;tak
+istnieje w bazie;Klub Sztuk Walki;MMA Wrocław (FightLab);Wrocław;Stefana Czarnieckiego 15, 53-641 Wrocław;MMA Wrocław (FightLab) (0 m);+48 607 193 161;tak;http://www.fightlab.com.pl/;tak;tak
+istnieje w bazie;Korty Tenisowe;Olimpijski Club (Korty Tenisowe);Wrocław;al. Ignacego Jana Paderewskiego 35, 51-612 Wrocław;Olimpijski Club (Korty Tenisowe) (0 m);+48 71 348 20 11;nie;https://olimpijskiclub.pl/;tak;tak
+istnieje w bazie;Basen / Aquapark;Pływalnia Orbita (WCT Spartan);Wrocław;Wejherowska 34, 54-239 Wrocław;Lodowisko Orbita (37 m);+48 71 738 82 22;nie;https://spartan.wroc.pl/;tak;tak
+istnieje w bazie;Basen / Aquapark;Pływalnia Uniwersytetu Przyrodniczego;Wrocław;Józefa Chełmońskiego 43, 51-630 Wrocław;Pływalnia Uniwersytetu Przyrodniczego (40 m);+48 71 320 50 51;nie;https://upwr.edu.pl/;nie;nie
+istnieje w bazie;Basen / Aquapark;Pływalnia WKS Śląsk Wrocław;Wrocław;Racławicka 62, 53-146 Wrocław;Pływalnie kryte WKS „Śląsk” (61 m);+48 71 783 51 80;nie;https://wks.wroclaw.pl/;nie;nie
+istnieje w bazie;Siłownia / Klub Fitness;RIO TOP GYM;Wrocław;Grabiszyńska 238/240, 53-235 Wrocław;RIO TOP GYM (0 m);+48 666 609 309;nie;https://riotopgym.pl/;tak;nie
+istnieje w bazie;Studio EMS;Studio Impuls Wrocław (Trening EMS);Wrocław;Jedności Narodowej 244A, 50-302 Wrocław;Studio Impuls Wrocław (Trening EMS) (0 m);+48 780 085 380;tak;http://www.impulswroclaw.pl/;tak;tak
+istnieje w bazie;Studio EMS;Studio Treningu EMS Strefa Ruchu Wrocław;Wrocław;Horbaczewskiego 21, 54-130 Wrocław;Studio Treningu EMS Strefa Ruchu Wrocław (0 m);+48 798 083 721;tak;https://strefaruchu-wroc.pl/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;UP Fitness Club Wrocław Infinity;Wrocław;Legnicka 16, 50-029 Wrocław;UP (29 m);+48 782 512 352;tak;https://up-fit.pl/up-wroclaw-infinity;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Well Fitness Wrocław Astra;Wrocław;Horbaczewskiego 4/6, 54-130 Wrocław;Well Fitness (37 m);+48 880 140 908;tak;https://wellfitness.pl/silownia/wroclaw/astra;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Well Fitness Wrocław Biskupin;Wrocław;Ludwika Wiwulskiego 12, 51-629 Wrocław;Well Fitness (0 m);+48 784 497 244;nie;https://wellfitness.pl/silownia/wroclaw/biskupin;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Well Fitness Wrocław Ferio Gaj;Wrocław;Świeradowska 51/57, 50-559 Wrocław;Well Fitness (20 m);+48 784 497 245;nie;https://wellfitness.pl/silownia/wroclaw/ferio-gaj;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Well Fitness Wrocław Grabiszyn;Wrocław;Grabiszyńska 269, 53-234 Wrocław;Well Fitness (26 m);+48 784 497 242;tak;https://wellfitness.pl/silownia/wroclaw/grabiszyn;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Well Fitness Wrocław Karłowice;Wrocław;Jana Długosza 74, 51-162 Wrocław;Well Fitness (51 m);+48 885 882 028;tak;https://wellfitness.pl/silownia/wroclaw/karlowice;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Well Fitness Wrocław Podwale;Wrocław;Podwale 83, 50-414 Wrocław;Well Fitness Wrocław Podwale (0 m);+48 784 497 241;nie;https://wellfitness.pl/silownia/wroclaw/podwale;nie;nie
+istnieje w bazie;Siłownia / Klub Fitness;Well Fitness Wrocław Tęczowa;Wrocław;Tęczowa 83X, 53-601 Wrocław;Well Fitness (10 m);+48 880 140 905;nie;https://wellfitness.pl/silownia/wroclaw/teczowa;tak;tak
+istnieje w bazie;Korty Tenisowe;Winner's Tennis Club;Wrocław;Kominiarska 42, 51-180 Wrocław;Winner's Tennis Club (0 m);+48 517 830 814;tak;https://winnerstennisclub.pl/;tak;tak
+istnieje w bazie;Basen / Aquapark;Wrocławskie Centrum SPA (Basen);Wrocław;Teatralna 10-12, 50-055 Wrocław;Wrocławskie Centrum SPA (40 m);+48 71 772 26 01;nie;https://spa.wroc.pl/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Wrocławskie Centrum SPA (Siłownia);Wrocław;Teatralna 10-12, 50-055 Wrocław;Wrocławskie Centrum SPA (40 m);+48 71 772 26 20;nie;https://spa.wroc.pl/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Yeah Gym Wrocław;Wrocław;Kłokoczycka 1, 51-376 Wrocław;Yeah Gym Wrocław (0 m);Brak;nie;http://yeahgym.pl/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Zdrofit Wrocław Bema Plaza;Wrocław;Bolesława Prusa 1, 50-319 Wrocław;Zdrofit (12 m);+48 532 914 912;nie;https://zdrofit.pl/kluby-fitness/wroclaw-bema-plaza/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Zdrofit Wrocław Białoskórnicza;Wrocław;Białoskórnicza 1, 50-134 Wrocław;Zdrofit (13 m);+48 880 146 131;tak;https://zdrofit.pl/kluby-fitness/wroclaw-bialoskornicza/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Zdrofit Wrocław Domar;Wrocław;Braniborska 14, 53-680 Wrocław;Zdrofit (35 m);+48 532 914 906;nie;https://zdrofit.pl/kluby-fitness/wroclaw-domar/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Zdrofit Wrocław Galeria Dominikańska;Wrocław;Plac Dominikański 3, 50-159 Wrocław;Zdrofit (43 m);+48 532 914 904;nie;https://zdrofit.pl/kluby-fitness/wroclaw-galeria-dominikanska/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Zdrofit Wrocław Jupiter;Wrocław;Brzoskwiniowa 8A, 50-539 Wrocław;Zdrofit (32 m);+48 532 914 918;nie;https://zdrofit.pl/kluby-fitness/wroclaw-jupiter/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Zdrofit Wrocław Korona;Wrocław;Bolesława Krzywoustego 126, 51-421 Wrocław;Zdrofit (148 m);+48 532 914 909;nie;https://zdrofit.pl/kluby-fitness/wroclaw-korona/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Zdrofit Wrocław Marino;Wrocław;Paprotna 7, 51-117 Wrocław;Zdrofit (32 m);+48 532 914 910;nie;https://zdrofit.pl/kluby-fitness/wroclaw-marino/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Zdrofit Wrocław N-Park Gagarina;Wrocław;Jurija Gagarina 27, 54-620 Wrocław;Zdrofit (19 m);+48 538 567 958;tak;https://zdrofit.pl/kluby-fitness/wroclaw-gagarina/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Zdrofit Wrocław N-Park Maślicka;Wrocław;Maślicka 216, 54-104 Wrocław;Zdrofit (11 m);+48 532 915 112;nie;https://zdrofit.pl/kluby-fitness/wroclaw-maslicka/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Zdrofit Wrocław Pasaż Grunwaldzki;Wrocław;Plac Grunwaldzki 22, 50-363 Wrocław;Zdrofit (87 m);+48 532 914 902;nie;https://zdrofit.pl/kluby-fitness/wroclaw-pasaz-grunwaldzki/;nie;nie
+istnieje w bazie;Siłownia / Klub Fitness;Zdrofit Wrocław Renoma;Wrocław;Świdnicka 40, 50-024 Wrocław;Zdrofit (107 m);+48 532 914 901;nie;https://zdrofit.pl/kluby-fitness/wroclaw-renoma/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Zdrofit Wrocław Rogowska;Wrocław;Rogowska 52A, 54-440 Wrocław;Zdrofit (22 m);+48 532 915 086;tak;https://zdrofit.pl/kluby-fitness/wroclaw-rogowska/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Zdrofit Wrocław Skwer Awicenny;Wrocław;Ibn Siny Awicenny 53, 52-405 Wrocław;Zdrofit (68 m);+48 880 137 363;tak;https://zdrofit.pl/kluby-fitness/wroclaw-awicenny/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Zdrofit Wrocław Sky Tower;Wrocław;Powstańców Śląskich 95, 53-332 Wrocław;Zdrofit (83 m);+48 532 914 903;tak;https://zdrofit.pl/kluby-fitness/wroclaw-sky-tower/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Zdrofit Wrocław Strzegomska;Wrocław;Strzegomska 206, 54-432 Wrocław;Zdrofit (102 m);+48 532 914 915;nie;https://zdrofit.pl/kluby-fitness/wroclaw-strzegomska/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Zdrofit Wrocław Swobodna Spot;Wrocław;Swobodna 60, 50-088 Wrocław;Zdrofit (10 m);+48 880 146 135;nie;https://zdrofit.pl/kluby-fitness/wroclaw-swobodna-spot/;tak;tak
+istnieje w bazie;Studio EMS;in.Time - EMS Trening Popowicka;Wrocław;Popowicka 95, 54-238 Wrocław;in.Time - EMS Trening Popowicka (0 m);+48 451 052 652;tak;https://www.intime.pl/;tak;tak
+istnieje w bazie;Basen / Aquapark;Suntago Wodny Świat;Wręcza;Nowy Świat 1, 96-300 Wręcza;Suntago Wodny Świat (0 m);+48 46 815 11 11;nie;https://parkofpoland.com;tak;tak
+istnieje w bazie;Lodowisko;Lodowisko Miejskie w Zgierzu;Zgierz;Wschodnia 2, 95-100 Zgierz;Lodowisko Miejskie w Zgierzu (0 m);+48 42 716 33 44;nie;https://mosir.zgierz.pl/;tak;tak
+istnieje w bazie;Korty Tenisowe;AZS Łódź Korty Tenisowe;Łódź;Lumumby 22/26, 91-404 Łódź;AZS Łódź Korty Tenisowe (0 m);+48 42 678 34 11;nie;https://azs.lodz.pl/;tak;nie
+istnieje w bazie;Basen / Aquapark;Aquapark Fala;Łódź;al. Unii Lubelskiej 4, 94-208 Łódź;Aquapark Fala (0 m);+48 42 636 69 90;nie;https://aquapark.lodz.pl/;tak;tak
+istnieje w bazie;Korty Tenisowe;CHKS Łódź Korty Tenisowe;Łódź;Kosynierów Gdyńskich 18, 93-357 Łódź;CHKS Łódź Korty Tenisowe (0 m);+48 42 646 11 22;nie;https://chkslodz.pl/;tak;nie
+istnieje w bazie;Szkoła Tańca / Pole Dance;Egurrola Dance Studio Łódź Manufaktura;Łódź;Drewnowska 58, 91-002 Łódź;Egurrola Dance Studio Łódź Manufaktura (0 m);+48 601 515 515;nie;https://taniec.com.pl/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;FitFabric 10.0 Radogoszcz;Łódź;Zgierska 211, 91-495 Łódź;FitFabric 10.0 Radogoszcz (0 m);+48 42 207 24 50;nie;https://fitfabric.pl/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;FitFabric 3.0 Sukcesja;Łódź;al. Politechniki 1, 93-590 Łódź;FitFabric 3.0 Sukcesja (0 m);+48 42 207 24 00;nie;https://fitfabric.pl/;tak;tak
+istnieje w bazie;Wspinaczka / Squash;FitFabric 3.0 Sukcesja Squash;Łódź;al. Politechniki 1, 93-590 Łódź;FitFabric 3.0 Sukcesja (21 m);+48 42 207 24 00;nie;https://fitfabric.pl/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;FitFabric 6.0 Teofilów;Łódź;Aleksandrowska 38, 91-151 Łódź;FitFabric 6.0 Teofilów (0 m);+48 42 207 24 10;nie;https://fitfabric.pl/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;FitFabric 9.0 Retkinia;Łódź;ks. Popiełuszki 13A, 94-052 Łódź;Lodowisko Retkinia MOSiR (67 m);+48 42 207 24 40;nie;https://fitfabric.pl/;tak;tak
+istnieje w bazie;Lodowisko;Lodowisko Bombonierka MOSiR;Łódź;ks. Skorupki 21, 90-532 Łódź;Lodowisko Bombonierka MOSiR (0 m);+48 42 637 15 15;nie;https://mosir.lodz.pl/;tak;tak
+istnieje w bazie;Lodowisko;Lodowisko Retkinia MOSiR;Łódź;ks. Popiełuszki 13B, 94-052 Łódź;Lodowisko Retkinia MOSiR (0 m);+48 42 688 14 14;nie;https://mosir.lodz.pl/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;McFIT Łódź Piotrkowska;Łódź;Piotrkowska 165/169, 90-447 Łódź;McFIT Łódź Piotrkowska (0 m);+48 42 630 11 22;nie;https://www.mcfit.com/pl/;nie;nie
+istnieje w bazie;Basen / Aquapark;Pływalnia Anilana MOSiR;Łódź;Sobolowa 1, 92-301 Łódź;Pływalnia Anilana MOSiR (0 m);+48 42 674 88 18;nie;https://mosir.lodz.pl/;tak;tak
+istnieje w bazie;Basen / Aquapark;Pływalnia Promienistych MOSiR;Łódź;Głowackiego 10/12, 91-438 Łódź;Pływalnia Promienistych MOSiR (0 m);+48 42 657 09 09;nie;https://mosir.lodz.pl/;tak;tak
+istnieje w bazie;Wspinaczka / Squash;Stratosfera Centrum Wspinaczkowe;Łódź;Drewnowska 58, 91-002 Łódź;Stratosfera Centrum Wspinaczkowe (0 m);+48 42 633 88 99;nie;https://stratosfera.org/;nie;nie
+istnieje w bazie;Szkoła Tańca / Pole Dance;Urban Dance Zone;Łódź;Zachodnia 85, 90-402 Łódź;Urban Dance Zone (0 m);+48 42 630 15 15;nie;https://urbandance.pl/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Vera Sport;Łódź;Siewna 15, 94-250 Łódź;Vera Sport (0 m);+48 42 616 16 16;nie;https://verasport.pl/;tak;tak
+istnieje w bazie;Wspinaczka / Squash;Vera Sport Squash;Łódź;Siewna 15, 94-250 Łódź;Vera Sport (0 m);+48 42 616 16 16;nie;https://verasport.pl/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Well Fitness Łódź Galeria Łódzka;Łódź;al. Marsz. Józefa Piłsudskiego 15/23, 90-307 Łódź;Well Fitness Łódź Galeria Łódzka (0 m);+48 880 140 921;nie;https://wellfitness.pl/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Well Fitness Łódź Manufaktura;Łódź;Drewnowska 58, 91-002 Łódź;Egurrola Dance Studio Łódź Manufaktura (0 m);+48 880 140 920;nie;https://wellfitness.pl/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Well Fitness Łódź Tulipan;Łódź;al. Marsz. Józefa Piłsudskiego 94, 92-202 Łódź;Well Fitness Łódź Tulipan (0 m);+48 880 140 922;nie;https://wellfitness.pl/;tak;tak
+istnieje w bazie;Basen / Aquapark;Zatoka Sportu Politechniki Łódzkiej;Łódź;al. Politechniki 10, 93-590 Łódź;Zatoka Sportu Politechniki Łódzkiej (0 m);+48 42 631 28 00;nie;https://zatokasportu.pl/;tak;tak
+istnieje w bazie;Wspinaczka / Squash;Zatoka Sportu Ścianka Wspinaczkowa;Łódź;al. Politechniki 10, 93-590 Łódź;Zatoka Sportu Politechniki Łódzkiej (0 m);+48 42 631 28 00;nie;https://zatokasportu.pl/;tak;tak
+istnieje w bazie;Siłownia / Klub Fitness;Zdrofit Łódź Nowa Sukcesja;Łódź;al. Politechniki 1, 93-590 Łódź;FitFabric 3.0 Sukcesja (0 m);+48 532 915 200;nie;https://zdrofit.pl/;tak;tak
